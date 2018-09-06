@@ -13,7 +13,8 @@ make clean ui mod
 Level | Day | Time
 :---: | :---: | :---:
 0 | 0+ | Morning/Noon
-- Kitchen -> It tastes great
+
+Kitchen -> It tastes great
 
 <br>
 <br>
@@ -21,8 +22,9 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 1 | 1+ | Morning/Noon
-- Kitchen -> It tastes great
-- Optional: On day 3 talk to Lin inside her room
+
+Kitchen -> It tastes great  
+Optional: On day 3 talk to Lin inside her room
 
 <br>
 <br>
@@ -30,7 +32,8 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 2 | 4+ | Morning/Noon
-- Kitchen -> ...Perfect
+
+Kitchen -> ...Perfect
 
 <br>
 <br>
@@ -38,7 +41,7 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 3 | 5+ | Morning/Noon
-- Go to the kitchen
+Go to the kitchen
 
 <br>
 <br>
@@ -46,7 +49,7 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 4 | 6+ | Any
-- Go to the lobby
+Go to the lobby
 
 <br>
 <br>
@@ -54,7 +57,7 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 5 | 7+ | Any
-- Go to the lobby
+Go to the lobby
 
 <br>
 <br>
@@ -62,7 +65,7 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 6 | 9+ | Morning/Noon
-- Kitchen -> Stare at her panties
+Kitchen -> Stare at her panties
 
 <br>
 <br>
@@ -71,7 +74,7 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 7 | 10, 17, 24 | Morning/Noon
-- Go to Lin's room on a Wednesday
+Go to Lin's room on a Wednesday
 
 <br>
 <br>
@@ -80,7 +83,7 @@ Level | Day | Time
 Level | Day | Time
 :---: | :---: | :---:
 8 | x+ | Morning/Noon
-- Go to Lin's room on a Wednesday
+Go to Lin's room on a Wednesday
 
 <br>
 <br>
