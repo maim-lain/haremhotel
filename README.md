@@ -68,16 +68,18 @@ Level | Day | Time
 
 Level | Day | Time
 :---: | :---: | :---:
-7 | 10/17/24 | Morning/Noon
+7 | 10, 17, 24 | Morning/Noon
 - Go to Lin's room on a Wednesday
 
 <br>
 <br>
 
-### Level 8
-- Night &nbsp;-&nbsp; Esther's room -> You look really hot
-    - If you have the improvements mod installed you can check out the alternate scene in the gallery
+Level | Day | Time
+:---: | :---: | :---:
+8 | x+ | Morning/Noon
+- Go to Lin's room on a Wednesday
 
+<br>
 <br>
 
 ### Level 9
