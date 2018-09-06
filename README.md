@@ -11,50 +11,50 @@ make clean ui mod
 
 ## Lin Friendship
 ### Level 0
-Level | Day | Time
-:---: | :---: | :---:
-0 | 0+ | Morning/Noon
+Day | Time
+:---: | :---:
+0+ | Morning/Noon
 
-&nbsp;Kitchen -> It tastes great
+\- Kitchen -> It tastes great
 
 <br>
 <br>
 
 ### Level 1
-Level | Day | Time
-:---: | :---: | :---:
-1 | 1+ | Morning/Noon
+Day | Time
+:---: | :---:
+1+ | Morning/Noon
 
-&nbsp;Kitchen -> It tastes great  
-&nbsp;Optional: On day 3 talk to Lin inside her room
+\- Kitchen -> It tastes great  
+\- Optional: On day 3 talk to Lin inside her room
 
 <br>
 <br>
 
 ### Level 2
-Level | Day | Time
-:---: | :---: | :---:
-2 | 4+ | Morning/Noon
+Day | Time
+:---: | :---:
+4+ | Morning/Noon
 
-&nbsp;Kitchen -> ...Perfect
+\- Kitchen -> ...Perfect
 
 <br>
 <br>
 
 ### Level 3
-Level | Day | Time
-:---: | :---: | :---:
-3 | 5+ | Morning/Noon
+Day | Time
+:---: | :---:
+5+ | Morning/Noon
 
-&nbsp;Go to the kitchen
+\- Go to the kitchen
 
 <br>
 <br>
 
 ### Level 4
-Level | Day | Time
-:---: | :---: | :---:
-4 | 6+ | Any
+Day | Time
+:---: | :---:
+6+ | Any
 
 \- Go to the lobby
 
@@ -62,21 +62,21 @@ Level | Day | Time
 <br>
 
 ### Level 5
-Level | Day | Time
-:---: | :---: | :---:
-5 | 7+ | Any
+Day | Time
+:---: | :---:
+7+ | Any
 
-Go to the lobby
+\- Go to the lobby
 
 <br>
 <br>
 
 ### Level 6
-Level | Day | Time
-:---: | :---: | :---:
-6 | 9+ | Morning/Noon
+Day | Time
+:---: | :---:
+9+ | Morning/Noon
 
-Kitchen -> Stare at her panties
+\- Kitchen -> Stare at her panties
 
 <br>
 <br>
@@ -86,7 +86,7 @@ Day | Time
 :---: | :---:
 10, 17, 24 | Morning/Noon
 
-&nbsp;- Go to Lin's room on a Wednesday
+\- Go to Lin's room on a Wednesday
 
 <br>
 <br>
@@ -96,12 +96,18 @@ Day | Time
 :---: | :---:
 x+ | Morning/Noon
 
-&nbsp;- Go to Lin's room on a Wednesday
+\- Go to Lin's room on a Wednesday
 
 <br>
 <br>
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Level 7
 Level | Day | Time
