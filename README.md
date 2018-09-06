@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Shower (morning)
+### Shower (morning):
 Day | Girl
 --- | ---
 Monday | Twins
@@ -39,11 +39,11 @@ Saturday | Kali
 ### Personality and Sex stats
 Points | Level
 :---: | :---:
-0-3 | Level 1
-4-6 | Level 2
-7-9 | Level 3
-10-12 | Level 4
-13+ | Level 5
+0-3 | 1/5
+4-6 | 2/5
+7-9 | 3/5
+10-12 | 4/5
+13+ | 5/5
 
 <br>
 
@@ -183,7 +183,7 @@ Day | Time | Location
 25+ | Any | Lobby
 - We'll see
 - Let's test you out
-- Raise Lin's obedience by 1 if it's now below 18
+- Raise Lin's obedience by 1
 
 <br>
 
