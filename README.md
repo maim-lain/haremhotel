@@ -66,7 +66,6 @@ Parts | Level
 <br>
 <br>
 <br>
-<br>
 
 ## Lin Friendship
 ### Level 0
@@ -75,7 +74,6 @@ Day | Time | Location
 0+ | Morning/Noon | Kitchen
 - It tastes great
 
-<br>
 <br>
 
 ### Level 1
@@ -86,7 +84,6 @@ Day | Time | Location
 - Optional: On day 3 talk to Lin inside her room
 
 <br>
-<br>
 
 ### Level 2
 Day | Time | Location
@@ -95,14 +92,12 @@ Day | Time | Location
 - ...Perfect
 
 <br>
-<br>
 
 ### Level 3
 Day | Time | Location
 :---: | :---: | :---:
 5+ | Morning/Noon | Kitchen
 
-<br>
 <br>
 
 ### Level 4
@@ -111,14 +106,12 @@ Day | Time | Location
 6+ | Any | Lobby
 
 <br>
-<br>
 
 ### Level 5
 Day | Time | Location
 :---: | :---: | :---:
 7+ | Any | Lobby
 
-<br>
 <br>
 
 ### Level 6
@@ -128,7 +121,6 @@ Day | Time | Location
 - Stare at her panties
 
 <br>
-<br>
 
 ### Level 7
 Day | Time | Location
@@ -137,7 +129,6 @@ Day | Time | Location
 - Go to Lin's room and talk to her on a Wednesday
 
 <br>
-<br>
 
 ### Level 8
 Day | Time | Location
@@ -145,7 +136,6 @@ Day | Time | Location
 11+ | Night | Sleep
 - Reveal her breasts
 
-<br>
 <br>
 
 ### Level 9
@@ -167,6 +157,7 @@ Day | Time | Location
 :---: | :---: | :---:
 18+ | Morning/Noon | Kitchen
 - The event is locked until Maria moves into the hotel
+- Optional: Buy Lin's 'Bondage Set ($75)' so you have it for the next event
 
 <br>
 
@@ -174,25 +165,29 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 19+ | Any | Lin's room
-- Lin's obedience must be at least 8 and you need to buy Lin's 'Bondage Set ($75)'
+- Lin's obedience must be at least 8 and you need Lin's 'Bondage Set ($75)'
 - Round 2!
 
 <br>
 
 ### Level 13
-- Night &nbsp;-&nbsp; Esther's room
+Day | Time | Location
+:---: | :---: | :---:
+21+ | Any | Lin's room
 
 <br>
 
 ### Level 14
-- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out -> Sure -> Whip it out
+Day | Time | Location
+:---: | :---: | :---:
+25+ | Any | Lobby
+- We'll see
+- Let's test you out
+- Raise Lin's obedience by 1 if it's now below 18
 
 <br>
 
 ### Level 15
-- Morning &nbsp;-&nbsp; Esther's room
-
-<br>
-
-### Level 16
-- Afternoon &nbsp;-&nbsp; Art Studio -> Register for a class
+Day | Time | Location
+:---: | :---: | :---:
+25+ | Any | Lin's room
