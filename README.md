@@ -14,8 +14,7 @@ make clean ui mod
 Day | Time | Location
 :---: | :---: | :---:
 0+ | Morning/Noon | Kitchen
-
-&nbsp;It tastes great
+- It tastes great
 
 <br>
 <br>
