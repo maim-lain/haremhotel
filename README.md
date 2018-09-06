@@ -133,38 +133,49 @@ Day | Time | Location
 ### Level 7
 Day | Time | Location
 :---: | :---: | :---:
-10, 17, 24 | Any | Lin's room
+10, etc | Any | Lin's room
 - Go to Lin's room and talk to her on a Wednesday
 
 <br>
 <br>
 
 ### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+11+ | Night | Sleep
+- Reveal her breasts
 
 <br>
 <br>
 
 ### Level 9
-- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Chat
-  - Art studio -> Ask about spade
-  - I can do that -> Well it's turning me on
-- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out
+Day | Time | Location
+:---: | :---: | :---:
+14+ | Morning/Noon | Kitchen
 
 <br>
 
 ### Level 10
-- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out
+Day | Time | Location
+:---: | :---: | :---:
+16+ | Morning/Noon | Kitchen
 
 <br>
 
 ### Level 11
-- Morning &nbsp;-&nbsp; Computer -> Surveillance -> Esther
-  - Esther's room -> Have her try on all three
+Day | Time | Location
+:---: | :---: | :---:
+18+ | Morning/Noon | Kitchen
+- The event is locked until Maria moves into the hotel
 
 <br>
 
 ### Level 12
-- Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther -> Computer -> Check under bed
+Day | Time | Location
+:---: | :---: | :---:
+19+ | Any | Lin's room
+- Lin's obedience must be at least 8 and you need to buy Lin's 'Bondage Set ($75)'
+- Round 2!
 
 <br>
 
