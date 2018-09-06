@@ -11,7 +11,7 @@
 - choose who is in shower?
 - change utility room name to shower/sauna idek
 - faster check mail?
-- keep mod compiled and talk? also change weekday thing and separate shower file?
+- keep mod compiled and talk? also change weekday thing and separate shower file? (how did MM do weekday/day stuff?)
 
 <br>
 
