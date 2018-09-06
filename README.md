@@ -72,6 +72,28 @@ Kitchen -> Stare at her panties
 <br>
 
 ### Level 7
+Day | Time
+:---: | :---:
+10, 17, 24 | Morning/Noon
+
+&nbsp;Go to Lin's room on a Wednesday
+
+<br>
+<br>
+
+### Level 8
+Day | Time
+:---: | :---:
+x+ | Morning/Noon
+
+&nbsp;Go to Lin's room on a Wednesday
+
+<br>
+<br>
+
+
+
+### Level 7
 Level | Day | Time
 :---: | :---: | :---:
 7 | 10, 17, 24 | Morning/Noon
@@ -88,6 +110,9 @@ Go to Lin's room on a Wednesday
 
 <br>
 <br>
+
+
+
 
 ### Level 9
 - Afternoon &nbsp;-&nbsp; Garden -> Esther -> Chat
