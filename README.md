@@ -11,37 +11,37 @@ make clean ui mod
 
 ## Lin Friendship
 Level | Day | Time
-:---: | :---: | ---
+:---: | :---: | :---:
 0 | 0+ | Morning/Noon
 - Kitchen -> It tastes great
 
 <br>
 
 Level | Day | Time
-:---: | :---: | ---
+:---: | :---: | :---:
 1 | 1+ | Morning/Noon
 - Kitchen -> It tastes great
 
 <br>
 
-### Level 2
-- Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
+Level | Day | Time
+:---: | :---: | :---:
+2 | 4+ | Morning/Noon
+- Kitchen -> ...Perfect
 
 <br>
 
-### Level 3
-- Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
-  - Mall -> Mini Mart -> Buy clothesline
-  - Garden -> Chat with Esther -> Keep the change
+Level | Day | Time
+:---: | :---: | :---:
+3 | 5+ | Morning/Noon
+- Go to the kitchen
 
 <br>
 
-### Level 4
-- Morning &nbsp;-&nbsp; Bathroom -> You can either peep or be direct, choose whichever you prefer
-    - Option 1: Peep
-        - Peep -> Keep peeping
-    - Option 2: Enter bathroom
-        - Enter -> Why are you so exposed?
+Level | Day | Time
+:---: | :---: | :---:
+4 | +6 | Any
+- Go to the lobby
 
 <br>
 
