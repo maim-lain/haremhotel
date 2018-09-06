@@ -68,7 +68,12 @@ Parts | Level
 <br>
 <br>
 
-## Lin Friendship
+## Lin Kitchen Scenes?
+
+<br>
+<br>
+
+## Lin Friendship/sceneguide
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
