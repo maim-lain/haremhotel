@@ -10,6 +10,7 @@ make clean ui mod
 <br>
 
 ## Lin Friendship
+### Level 0
 Level | Day | Time
 :---: | :---: | :---:
 0 | 0+ | Morning/Noon
@@ -19,6 +20,7 @@ Level | Day | Time
 <br>
 <br>
 
+### Level 1
 Level | Day | Time
 :---: | :---: | :---:
 1 | 1+ | Morning/Noon
@@ -29,6 +31,7 @@ Level | Day | Time
 <br>
 <br>
 
+### Level 2
 Level | Day | Time
 :---: | :---: | :---:
 2 | 4+ | Morning/Noon
@@ -38,6 +41,7 @@ Level | Day | Time
 <br>
 <br>
 
+### Level 3
 Level | Day | Time
 :---: | :---: | :---:
 3 | 5+ | Morning/Noon
@@ -47,25 +51,31 @@ Level | Day | Time
 <br>
 <br>
 
+### Level 4
 Level | Day | Time
 :---: | :---: | :---:
 4 | 6+ | Any
-Go to the lobby
+
+\- Go to the lobby
 
 <br>
 <br>
 
+### Level 5
 Level | Day | Time
 :---: | :---: | :---:
 5 | 7+ | Any
+
 Go to the lobby
 
 <br>
 <br>
 
+### Level 6
 Level | Day | Time
 :---: | :---: | :---:
 6 | 9+ | Morning/Noon
+
 Kitchen -> Stare at her panties
 
 <br>
@@ -76,7 +86,7 @@ Day | Time
 :---: | :---:
 10, 17, 24 | Morning/Noon
 
-&nbsp;Go to Lin's room on a Wednesday
+&nbsp;- Go to Lin's room on a Wednesday
 
 <br>
 <br>
@@ -86,7 +96,7 @@ Day | Time
 :---: | :---:
 x+ | Morning/Noon
 
-&nbsp;Go to Lin's room on a Wednesday
+&nbsp;- Go to Lin's room on a Wednesday
 
 <br>
 <br>
