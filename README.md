@@ -11,7 +11,9 @@
 - choose who is in shower? - nah probably not.
 - change utility room name to shower/sauna idek
 - faster check mail?
-- auto cest code
+- ask if turn cest on or off at start of the game.
+  - $ truestory = True
+- gallery
 
 <br>
 
@@ -21,7 +23,7 @@
 <br>
 <br>
 
-#### Shower (morning)
+### Shower (morning)
 Day | Girl
 --- | ---
 Monday | Twins
@@ -34,7 +36,7 @@ Saturday | Kali
 <br>
 <br>
 
-#### Personality and Sex stats
+### Personality and Sex stats
 Points | Level
 :---: | :---:
 0-3 | Level 1
@@ -45,7 +47,7 @@ Points | Level
 
 <br>
 
-#### Lust (Lin only)
+### Lust (Lin only)
 Points | Level
 :---: | :---:
 0-2 | Not Horny
@@ -54,7 +56,7 @@ Points | Level
 
 <br>
 
-#### Parts (Android only)
+### Parts (Android only)
 Parts | Level
 :---: | :---:
 0-3 | ?
