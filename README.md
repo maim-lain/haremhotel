@@ -21,9 +21,9 @@
 <br>
 <br>
 
-#### Morning Shower
-Day | Level
-:---: | :---:
+#### Shower (morning)
+Day | Girl
+--- | ---
 Monday | Twins
 Tuesday | Lin
 Wednesday | Maria
