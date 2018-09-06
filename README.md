@@ -8,6 +8,27 @@
 - bed auto sleep at night
 - remove options when nothing to do (utility room, lin's stuff)
 - waifu locations at time of day (need one for each day? is stuff like shower random?)
+- choose who is in shower?
+- change utility room name to shower/sauna idek
+- faster check mail?
+- keep mod compiled and talk? also change weekday thing and separate shower file?
+
+<br>
+
+- once you can do shower scenes do those everyday to make grind easier/faster
+
+<br>
+<br>
+
+#### Morning Shower
+Day | Level
+:---: | :---:
+Sunday | Level 1
+Monday | Twins (idk name: fel+em)
+Tuesday | Lin
+Thursday | Android
+Friday | Ashley
+Saturday | Kali
 
 <br>
 <br>
@@ -37,6 +58,10 @@ Parts | Level
 :---: | :---:
 0-3 | ?
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
