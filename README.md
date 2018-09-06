@@ -7,10 +7,10 @@
 - make clean ui mod
 - when in room at night auto open menu: Sleep, Use computer
 - remove options when nothing to do (utility room, lin's stuff)
-- waifu locations at time of day (need one for each day?)
-- choose who is in shower? - nah probably not.
+  - remove utility from stairs, \*\*=1st floor, \*=room?
 - change utility room name to shower/sauna idek
-- faster check mail?
+  - add go back box or make it bigger in util room
+- faster check mail? - auto check first time you go to front door. Check Mail (empty) to make easier too.
 - ask if turn cest on or off at start of the game.
   - $ truestory = True
 - gallery
