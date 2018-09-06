@@ -24,6 +24,19 @@
 <br>
 <br>
 
+### Waifu location schedule
+Waifu | Morning | Noon | Afternoon
+--- | --- | --- | ---
+Lin | Kitchen | Kitchen | Room
+Lin (Wednesday) | Room | Room | Room
+Kali (Intro) | Kitchen | Kitchen | Room
+Kali (Job) | Kitchen | Kitchen | Job?
+Ashley | Kitchen | Kitchen | Job
+Ashley (School) | Kitchen | School? | Job
+
+<br>
+<br>
+
 ### Shower (morning):
 Day | Girl
 --- | ---
