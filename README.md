@@ -16,12 +16,14 @@ Level | Day | Time
 - Kitchen -> It tastes great
 
 <br>
+<br>
 
 Level | Day | Time
 :---: | :---: | :---:
 1 | 1+ | Morning/Noon
 - Kitchen -> It tastes great
 
+<br>
 <br>
 
 Level | Day | Time
@@ -30,6 +32,7 @@ Level | Day | Time
 - Kitchen -> ...Perfect
 
 <br>
+<br>
 
 Level | Day | Time
 :---: | :---: | :---:
@@ -37,31 +40,38 @@ Level | Day | Time
 - Go to the kitchen
 
 <br>
+<br>
 
 Level | Day | Time
 :---: | :---: | :---:
-4 | +6 | Any
+4 | 6+ | Any
 - Go to the lobby
 
 <br>
-
-### Level 5
-- Afternoon &nbsp;-&nbsp; Garden -> Join
-
 <br>
 
-### Level 6
-- Morning &nbsp;-&nbsp; Esther's room -> Check closet -> Check right drawer -> Dig around
+Level | Day | Time
+:---: | :---: | :---:
+5 | 7+ | Any
+- Go to the lobby
 
 <br>
+<br>
 
-### Level 7
-Required: Velle at least level 6
-- Morning &nbsp;-&nbsp; Garden -> Chat with Esther
-    - Expose her ass
-    - Feel her tits
-    - Call for help -> Get Velle
+Level | Day | Time
+:---: | :---: | :---:
+6 | 9+ | Morning/Noon
+- Kitchen -> Stare at her panties
 
+<br>
+<br>
+
+Level | Day | Time
+:---: | :---: | :---:
+7 | 10/17/24 | Morning/Noon
+- Go to Lin's room on a Wednesday
+
+<br>
 <br>
 
 ### Level 8
