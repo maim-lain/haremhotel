@@ -14,6 +14,7 @@
 
 #### Personality and Sex stats
 Points | Level
+--- | ---
 0-3 | Level 1
 4-6 | Level 2
 7-9 | Level 3
@@ -24,6 +25,7 @@ Points | Level
 
 #### Lust (Lin only)
 Points | Level
+--- | ---
 0-2 | Not Horny
 3-4 | Horny
 4+ | Overflowing Lust
@@ -32,6 +34,7 @@ Points | Level
 
 #### Parts (Android only)
 Parts | Level
+--- | ---
 0-3 | ?
 
 <br>
