@@ -20,114 +20,70 @@ Day | Time | Location
 <br>
 
 ## Level 1
-Day | Time
-:---: | :---:
-1+ | Morning/Noon
-
-\- Kitchen -> It tastes great  
-\- Optional: On day 3 talk to Lin inside her room
+Day | Time | Location
+:---: | :---: | :---:
+1+ | Morning/Noon | Kitchen
+- It tastes great  
+- Optional: On day 3 talk to Lin inside her room
 
 <br>
 <br>
 
 ## Level 2
-Day | Time
-:---: | :---:
-4+ | Morning/Noon
-
-\- Kitchen -> ...Perfect
+Day | Time | Location
+:---: | :---: | :---:
+4+ | Morning/Noon | Kitchen
+- ...Perfect
 
 <br>
 <br>
 
 ## Level 3
-Day | Time
-:---: | :---:
-5+ | Morning/Noon
-
-\- Go to the kitchen
+Day | Time | Location
+:---: | :---: | :---:
+5+ | Morning/Noon | Kitchen
 
 <br>
 <br>
 
 ## Level 4
-Day | Time
-:---: | :---:
-6+ | Any
-
-\- Go to the lobby
+Day | Time | Location
+:---: | :---: | :---:
+6+ | Any | Lobby
 
 <br>
 <br>
 
 ## Level 5
-Day | Time
-:---: | :---:
-7+ | Any
-
-\- Go to the lobby
+Day | Time | Location
+:---: | :---: | :---:
+7+ | Any | Lobby
 
 <br>
 <br>
 
 ## Level 6
-Day | Time
-:---: | :---:
-9+ | Morning/Noon
-
-\- Kitchen -> Stare at her panties
+Day | Time | Location
+:---: | :---: | :---:
+9+ | Morning/Noon | Kitchen
+- Stare at her panties
 
 <br>
 <br>
 
 ## Level 7
-Day | Time
-:---: | :---:
-10, 17, 24 | Morning/Noon
-
-\- Go to Lin's room on a Wednesday
+Day | Time | Location
+:---: | :---: | :---:
+10, 17, 24 | Any | Lin's room
+- Go to Lin's room on a Wednesday
 
 <br>
 <br>
 
 ## Level 8
-Day | Time
-:---: | :---:
-x+ | Morning/Noon
-
-\- Go to Lin's room on a Wednesday
 
 <br>
 <br>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Level 7
-Level | Day | Time
-:---: | :---: | :---:
-7 | 10, 17, 24 | Morning/Noon
-Go to Lin's room on a Wednesday
-
-<br>
-<br>
-
-### Level 8
-Level | Day | Time
-:---: | :---: | :---:
-8 | x+ | Morning/Noon
-Go to Lin's room on a Wednesday
-
-<br>
-<br>
-
-
-
 
 ### Level 9
 - Afternoon &nbsp;-&nbsp; Garden -> Esther -> Chat
