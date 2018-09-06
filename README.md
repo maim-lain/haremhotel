@@ -14,7 +14,7 @@ Level | Day | Time
 :---: | :---: | :---:
 0 | 0+ | Morning/Noon
 
-Kitchen -> It tastes great
+&nbsp;Kitchen -> It tastes great
 
 <br>
 <br>
@@ -23,8 +23,8 @@ Level | Day | Time
 :---: | :---: | :---:
 1 | 1+ | Morning/Noon
 
-Kitchen -> It tastes great  
-Optional: On day 3 talk to Lin inside her room
+&nbsp;Kitchen -> It tastes great  
+&nbsp;Optional: On day 3 talk to Lin inside her room
 
 <br>
 <br>
@@ -33,7 +33,7 @@ Level | Day | Time
 :---: | :---: | :---:
 2 | 4+ | Morning/Noon
 
-Kitchen -> ...Perfect
+&nbsp;Kitchen -> ...Perfect
 
 <br>
 <br>
@@ -41,7 +41,8 @@ Kitchen -> ...Perfect
 Level | Day | Time
 :---: | :---: | :---:
 3 | 5+ | Morning/Noon
-Go to the kitchen
+
+&nbsp;Go to the kitchen
 
 <br>
 <br>
