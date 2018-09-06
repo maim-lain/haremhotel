@@ -10,7 +10,7 @@ make clean ui mod
 <br>
 
 ## Lin Friendship
-### Level 0
+## Level 0
 Day | Time
 :---: | :---:
 0+ | Morning/Noon
@@ -20,7 +20,7 @@ Day | Time
 <br>
 <br>
 
-### Level 1
+## Level 1
 Day | Time
 :---: | :---:
 1+ | Morning/Noon
@@ -31,7 +31,7 @@ Day | Time
 <br>
 <br>
 
-### Level 2
+## Level 2
 Day | Time
 :---: | :---:
 4+ | Morning/Noon
@@ -41,7 +41,7 @@ Day | Time
 <br>
 <br>
 
-### Level 3
+## Level 3
 Day | Time
 :---: | :---:
 5+ | Morning/Noon
@@ -51,7 +51,7 @@ Day | Time
 <br>
 <br>
 
-### Level 4
+## Level 4
 Day | Time
 :---: | :---:
 6+ | Any
@@ -61,7 +61,7 @@ Day | Time
 <br>
 <br>
 
-### Level 5
+## Level 5
 Day | Time
 :---: | :---:
 7+ | Any
@@ -71,7 +71,7 @@ Day | Time
 <br>
 <br>
 
-### Level 6
+## Level 6
 Day | Time
 :---: | :---:
 9+ | Morning/Noon
@@ -81,7 +81,7 @@ Day | Time
 <br>
 <br>
 
-### Level 7
+## Level 7
 Day | Time
 :---: | :---:
 10, 17, 24 | Morning/Noon
@@ -91,7 +91,7 @@ Day | Time
 <br>
 <br>
 
-### Level 8
+## Level 8
 Day | Time
 :---: | :---:
 x+ | Morning/Noon
