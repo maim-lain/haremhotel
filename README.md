@@ -22,6 +22,7 @@ Level | Day | Time
 :---: | :---: | :---:
 1 | 1+ | Morning/Noon
 - Kitchen -> It tastes great
+- Optional: On day 3 talk to Lin inside her room
 
 <br>
 <br>
@@ -66,6 +67,7 @@ Level | Day | Time
 <br>
 <br>
 
+### Level 7
 Level | Day | Time
 :---: | :---: | :---:
 7 | 10, 17, 24 | Morning/Noon
@@ -74,6 +76,7 @@ Level | Day | Time
 <br>
 <br>
 
+### Level 8
 Level | Day | Time
 :---: | :---: | :---:
 8 | x+ | Morning/Noon
