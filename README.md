@@ -7,14 +7,14 @@
 - make clean ui mod
 - bed auto sleep at night
 - remove options when nothing to do (utility room, lin's stuff)
-- waifu locations at time of day (need one for each day? is stuff like shower random?)
-- choose who is in shower?
+- waifu locations at time of day (need one for each day?)
+- choose who is in shower? - nah probably not.
 - change utility room name to shower/sauna idek
 - faster check mail?
-- keep mod compiled and talk? also change weekday thing and separate shower file? (how did MM do weekday/day stuff?)
 
 <br>
 
+- notes on phone
 - once you can do shower scenes do those everyday to make grind easier/faster
 
 <br>
