@@ -11,6 +11,7 @@
 - choose who is in shower? - nah probably not.
 - change utility room name to shower/sauna idek
 - faster check mail?
+- auto cest code
 
 <br>
 
