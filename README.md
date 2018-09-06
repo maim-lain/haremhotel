@@ -126,7 +126,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 10, etc | Any | Lin's room
-- Go to Lin's room and talk to her on a Wednesday
+- When it is a Wednesday, go to Lin's room and talk to her
 
 <br>
 
