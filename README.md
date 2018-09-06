@@ -24,9 +24,9 @@
 #### Morning Shower
 Day | Level
 :---: | :---:
-Sunday | Level 1
-Monday | Twins (idk name: fel+em)
+Monday | Twins
 Tuesday | Lin
+Wednesday | Maria
 Thursday | Android
 Friday | Ashley
 Saturday | Kali
