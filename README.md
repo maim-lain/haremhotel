@@ -131,7 +131,7 @@ Day | Time | Location
 ### Level 7
 Day | Time | Location
 :---: | :---: | :---:
-10, etc | Any | Lin's room
+10, 17, etc | Any | Lin's room
 - When it is a Wednesday, go to Lin's room and talk to her
 
 <br>
