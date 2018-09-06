@@ -15,7 +15,7 @@ Day | Time | Location
 :---: | :---: | :---:
 0+ | Morning/Noon | Kitchen
 
-\- It tastes great
+&nbsp;It tastes great
 
 <br>
 <br>
