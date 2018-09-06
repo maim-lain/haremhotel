@@ -5,7 +5,7 @@
 <br>
 
 - make clean ui mod
-- bed auto sleep at night
+- when in room at night auto open menu: Sleep, Use computer
 - remove options when nothing to do (utility room, lin's stuff)
 - waifu locations at time of day (need one for each day?)
 - choose who is in shower? - nah probably not.
