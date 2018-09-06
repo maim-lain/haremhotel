@@ -67,7 +67,7 @@ Parts | Level
 <br>
 
 ## Lin Friendship
-## Level 0
+### Level 0
 Day | Time | Location
 :---: | :---: | :---:
 0+ | Morning/Noon | Kitchen
@@ -76,7 +76,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 1
+### Level 1
 Day | Time | Location
 :---: | :---: | :---:
 1+ | Morning/Noon | Kitchen
@@ -86,7 +86,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 2
+### Level 2
 Day | Time | Location
 :---: | :---: | :---:
 4+ | Morning/Noon | Kitchen
@@ -95,7 +95,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 3
+### Level 3
 Day | Time | Location
 :---: | :---: | :---:
 5+ | Morning/Noon | Kitchen
@@ -103,7 +103,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 4
+### Level 4
 Day | Time | Location
 :---: | :---: | :---:
 6+ | Any | Lobby
@@ -111,7 +111,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 5
+### Level 5
 Day | Time | Location
 :---: | :---: | :---:
 7+ | Any | Lobby
@@ -119,7 +119,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 6
+### Level 6
 Day | Time | Location
 :---: | :---: | :---:
 9+ | Morning/Noon | Kitchen
@@ -128,7 +128,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 7
+### Level 7
 Day | Time | Location
 :---: | :---: | :---:
 10, 17, 24 | Any | Lin's room
@@ -137,7 +137,7 @@ Day | Time | Location
 <br>
 <br>
 
-## Level 8
+### Level 8
 
 <br>
 <br>
