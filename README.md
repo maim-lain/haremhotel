@@ -11,11 +11,11 @@ make clean ui mod
 
 ## Lin Friendship
 ## Level 0
-Day | Time
-:---: | :---:
-0+ | Morning/Noon
+Day | Time | Location
+:---: | :---: | :---:
+0+ | Morning/Noon | Kitchen
 
-\- Kitchen -> It tastes great
+\- It tastes great
 
 <br>
 <br>
