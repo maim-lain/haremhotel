@@ -78,7 +78,7 @@ Parts | Level
 Day | Time | Location
 :---: | :---: | :---:
 0+ | Morning/Noon | Kitchen
-- It tastes great
+- "It tastes great"
 
 <br>
 
@@ -86,7 +86,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 1+ | Morning/Noon | Kitchen
-- It tastes great  
+- "It tastes great"  
 - Optional: On day 3 talk to Lin inside her room
 
 <br>
@@ -95,7 +95,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 4+ | Morning/Noon | Kitchen
-- ...Perfect
+- "...Perfect"
 
 <br>
 
@@ -172,7 +172,7 @@ Day | Time | Location
 :---: | :---: | :---:
 19+ | Any | Lin's room
 - Lin's obedience must be at least 8 and you need Lin's 'Bondage Set ($75)'
-- Round 2!
+- "Round 2!"
 
 <br>
 
@@ -187,8 +187,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 25+ | Any | Lobby
-- We'll see
-- Let's test you out
+- "We'll see" -> "Let's test you out"
 - Raise Lin's obedience by 1
 
 <br>
