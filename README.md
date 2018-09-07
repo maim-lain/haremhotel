@@ -13,7 +13,6 @@
 - overwrite with my scripts rpc file
 - notes on phone
 - once you can do shower scenes do those everyday to make grind easier/faster
-- kali_friendship == 0
 
 <br>
 
