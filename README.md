@@ -81,24 +81,24 @@ Parts | Level
 <br>
 <br>
 
-## Lin Kitchen Scenes?
+## Lin Kitchen Scenes
 Choice | Level req. | Obed. gained | Uses time | Once per day
 --- | :---: | :---: | :---: | :---:
-Clean my room | | 1 | Yes | No
-Pet her | | 1 | No | Yes
-Spank her | | 2 | No | Yes
-Show me your panties | 1+ | 1 | Yes | Yes
+Clean my room | | 1 | Yes | 
+Pet her | | 1 | | Yes
+Spank her* | | 2 | | Yes
+Show me your panties | 1+ | 1 | Yes | 
+Take off your dress | 2 only | 1 | Yes | 
+Take off everything | 3+ | 1 | Yes | 
+Give me your panties | 3+ | 1 | | Yes
+Return Lin's panties | | | | Yes
+Wear egg vibe | 4+ | 1 | Yes | 
+Wear bp | 5+ | 1 | Yes | 
 
 
 spank 3 times then stop
 
 
-Take off your dress if lin_friendship == 2
-+1 ob
-use time = yes
-once per day = null
-
-Take off everything if lin_friendship 3+ and ob 0+
 
 
 
