@@ -5,11 +5,13 @@
 <br>
 
 #### Harem Hotel - Lain Mod
-- ask if turn cest on or off at start of the game.
-  - $ truestory = True
-- Created a new textbox to replace the default one. The new one is clean and less distracting.
+- When starting a new game you will be asked if you want to enable the incest content. Choosing yes will automatically enable it for you.
+- Created a new textbox to replace the default one. The new one is cleaner and less distracting.
 - Changed the fonts and made the text slightly larger to make things more readable.
-- when in room at night auto open menu: Sleep, Use computer
+
+<br>
+
+- Disabled: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep. Needing to click "Yes" every single time isn't fun. You can just rollback if you accidentally click it.
 - auto view all night cams
 - remove options when nothing to do (utility room, lin's stuff)
   - remove utility from stairs, \*\*=1st floor, \*=room?
