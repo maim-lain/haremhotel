@@ -28,6 +28,7 @@
 
 #### To do:
 - A new navigation system to make going to different places easier and faster would be really nice.
+  - add sign Floor 1, Floor 2; next to stairs?
 - Add button that tells you where all the girls are located at that current moment, so you don't have to search the entire hotel when you need to find someone.
 - Remove more unusable/disabled choices for other girls, the utility room, etc. to unclutter menus
 - Scene gallery?
