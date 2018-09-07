@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Waifu location schedule
+### Waifu location schedule (havent started)
 Waifu | Morning | Noon | Afternoon
 --- | --- | --- | ---
 Lin | Kitchen | Kitchen | Room
@@ -103,7 +103,7 @@ Give me a blowjob | 11+ | 1 | Yes |
 
 - Spank her: Spank her three times then stop
 - Take off your dress: This can only be done when she is level 2 so don't miss it
-- Egg vibe, butt plug, heart outfit: You must buy these items
+- Egg vibe, butt plug, heart outfit: The items have to be bought
 
 <br>
 <br>
@@ -166,7 +166,7 @@ Day | Time | Location
 ### Level 7
 Day | Time | Location
 :---: | :---: | :---:
-10, 17, etc | Any | Lin's room
+10, 17, .. | Any | Lin's room
 - When it is a Wednesday, go to Lin's room and talk to her
 
 <br>
