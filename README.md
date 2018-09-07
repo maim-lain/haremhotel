@@ -11,9 +11,14 @@
 
 <br>
 
+<!--- tears begin streaming down her face, blah blah. lenny face in desc. --->
+
 - ask where are the girls
+- add more lin spanking
 - Disabled: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep so you don't need to click "Yes" every single time. You can just rollback if you accidentally click it.
 - Before if you wanted to check the spy cams and spy on all the girls, first you would have to open the cam menu, then select a girl, then open the cam menu again, then select the next girl, and so on. It took around 25 clicks to see all the girls! Now you only have to click "Spy on girls" once, and it will automatically show you all the cams of any girl that is in her room.
+
+<br>
 
 - remove options when nothing to do (utility room, lin's stuff)
   - remove utility from stairs, \*\*=1st floor, \*=room?
