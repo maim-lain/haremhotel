@@ -29,7 +29,7 @@
 #### To do:
 - A new navigation system to make going to different places easier and faster would be really nice.
 - Add button that tells you where all the girls are located at that current moment, so you don't have to search the entire hotel when you need to find someone.
-- Remove more unusable/disabled choices for other girls, the utility room, etc.
+- Remove more unusable/disabled choices for other girls, the utility room, etc. to unclutter menus
 - Scene gallery?
 
 <!--- tears begin streaming down her face, blah blah. lenny face in desc., you see her run out of the room, blah blah few minutes blah blah, composure, collect herself, caps:someonehelpme!!! it hurts!!, only if friend is low can do extra? --->
