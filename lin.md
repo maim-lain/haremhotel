@@ -38,7 +38,7 @@ Give me a blowjob | 11+ | 1 | Yes |
 <br>
 <br>
 
-## Lin Friendship/sceneguide
+## Lin friendship walkthrough
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
