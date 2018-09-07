@@ -25,7 +25,7 @@ Scene # | Choice | Obed. req. | Level req.
 <br>
 
 - To unlock a scene you must do the previous scene first
-- You must have had sex with Lin to unlock scene #5
+- Scene #5 becomes unlocked after you've had sex with Lin
 
 <br>
 <br>
