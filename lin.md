@@ -14,18 +14,13 @@
 <br>
 
 ## Lin Cafe Scenes:
-Scene # | Choice | Obed. req. | Level req.
+Scene | Choice | Obed. req. | Level req.
 :---: | --- | :---: | :---:
-#1 | Reveal your breasts | 8+ | 
-#2 | Show everyone your pussy | 10+ | 
-#3 | Wear egg vibe | 12+ | 
-#4 | Take off all your clothes | 14+ | 
-#5 | Come with me... | 16+ | 11+
-
-<br>
-
-- To unlock a scene you must do the previous scene first
-- Scene #5 becomes unlocked after you've had sex with Lin
+1/5 | Reveal your breasts | 8+ | 
+2/5 | Show everyone your pussy | 10+ | 
+3/5 | Wear egg vibe | 12+ | 
+4/5 | Take off all your clothes | 14+ | 
+5/5 | Come with me... | 16+ | 11+
 
 <br>
 <br>
