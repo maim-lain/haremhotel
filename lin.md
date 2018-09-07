@@ -51,7 +51,8 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 1+ | Morning/Noon | Kitchen
-- "It tastes great"  
+- "It tastes great"
+- Optional: Do the "Take off your dress" scene afterwards since it won't be available after leveling up again
 - Optional: On day 3 talk to Lin inside her room
 
 <br>
