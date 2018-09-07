@@ -13,31 +13,6 @@
 <br>
 <br>
 
-## Lin Kitchen Scenes
-Choice | Level req. | Obed. gained | Uses time | Once per day
---- | :---: | :---: | :---: | :---:
-Clean my room | | 1 | Yes | 
-Pet her | | 1 | | Yes
-Spank her | | 2 | | Yes
-Show me your panties | 1+ | 1 | Yes | 
-Take off your dress | **2** | 1 | Yes | 
-Take off everything | 3+ | 1 | Yes | 
-Give me your panties | 3+ | 1 | | Yes
-Return Lin's panties | 3+ | | | Yes
-Wear egg vibe | 4+ | 1 | Yes | 
-Wear butt plug | 5+ | 1 | Yes | 
-Pose with Heart Outfit | 8+ | 1 | Yes | 
-Give me a blowjob | 11+ | 1 | Yes | 
-
-<br>
-
-- Spank her: Spank her three times then stop
-- Take off your dress: This can only be done when she is level 2 so don't miss it
-- Egg vibe, butt plug, heart outfit: The items have to be bought
-
-<br>
-<br>
-
 ## Kali Friendship - kali_friendship == 0
 ### Level 0
 Day | Time | Location
@@ -78,90 +53,86 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 10+ | Any | Kali's room
-- asdf
+- Get her mail and give it to her without opening it
 
 <br>
 
 ### Level 5
 Day | Time | Location
 :---: | :---: | :---:
-7+ | Any | Lobby
+11+ | Any | Kali's room
+- ???
 
 <br>
 
 ### Level 6
 Day | Time | Location
 :---: | :---: | :---:
-9+ | Morning/Noon | Kitchen
-- Stare at her panties
+13+ | Morning/Afternoon | Kali's room
+- Any -> Finish massaging
 
 <br>
 
 ### Level 7
 Day | Time | Location
 :---: | :---: | :---:
-10, 17, .. | Any | Lin's room
-- When it is a Wednesday, go to Lin's room and talk to her
+15+ | Any | Sauna
+- Steal her bikini -> Keep pinching
 
 <br>
 
 ### Level 8
 Day | Time | Location
 :---: | :---: | :---:
-11+ | Night | Sleep
-- Reveal her breasts
+17+ | Morning/Afternoon | Kali's room
 
 <br>
 
 ### Level 9
 Day | Time | Location
 :---: | :---: | :---:
-14+ | Morning/Noon | Kitchen
+19+ | Morning/Afternoon | Kali's room
 
 <br>
 
 ### Level 10
 Day | Time | Location
 :---: | :---: | :---:
-16+ | Morning/Noon | Kitchen
+21+ | Morning/Afternoon | Lobby
+- After Lin takes the day off talk to Kali
 
 <br>
 
 ### Level 11
 Day | Time | Location
 :---: | :---: | :---:
-18+ | Morning/Noon | Kitchen
-- This event is locked until Maria moves into the hotel
-- Optional: Buy Lin's 'Bondage Set ($75)' so you have it for the next event
+22+ | Morning/Afternoon | Kali's room
 
 <br>
 
 ### Level 12
 Day | Time | Location
 :---: | :---: | :---:
-19+ | Any | Lin's room
-- Lin's obedience must be at least 8 and you need Lin's 'Bondage Set ($75)'
-- "Round 2!"
+25+ | Morning/Afternoon | Kali's room
 
 <br>
 
 ### Level 13
 Day | Time | Location
 :---: | :---: | :---:
-21+ | Any | Lin's room
+27+ | Morning/Afternoon | Kali's room
 
 <br>
 
 ### Level 14
 Day | Time | Location
 :---: | :---: | :---:
-25+ | Any | Lobby
-- "We'll see" -> "Let's test you out"
-- Raise Lin's obedience by 1 afterwards
+29+ | Morning/Afternoon | Kali's room
+- Lin's level needs to be 10 or higher
 
 <br>
 
 ### Level 15
 Day | Time | Location
 :---: | :---: | :---:
-25+ | Any | Lin's room
+31+ | Any | Your room
