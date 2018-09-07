@@ -82,6 +82,35 @@ Parts | Level
 <br>
 
 ## Lin Kitchen Scenes?
+Choice | Level req. | Obed. gained | Uses time | Once per day
+--- | :---: | :---: | :---: | :---:
+Clean my room | | 1 | Yes | No
+
+
+Pet her
++1 ob
+use time = no
+once per day = yes
+
+Spank her
++2 ob
+use time = no
+once per day = yes
+spank 3 times then stop
+
+Show me your panties friendship 1+, ob 0+
++1 ob
+use time = yes
+once per day = yes
+
+Take off your dress if lin_friendship == 2
++1 ob
+use time = yes
+once per day = null
+
+Take off everything if lin_friendship 3+ and ob 0+
+
+
 
 <br>
 <br>
