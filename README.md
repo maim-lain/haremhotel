@@ -4,17 +4,18 @@
 <br>
 <br>
 
-- Harem Hotel - Lain Mod
-- Replace font with more readable
-- make clean ui mod
+#### Harem Hotel - Lain Mod
+- ask if turn cest on or off at start of the game.
+  - $ truestory = True
+- Created a new textbox to replace the default one. The new one is clean and less distracting.
+- Changed the fonts and made the text slightly larger to make things more readable.
 - when in room at night auto open menu: Sleep, Use computer
+- auto view all night cams
 - remove options when nothing to do (utility room, lin's stuff)
   - remove utility from stairs, \*\*=1st floor, \*=room?
 - change utility room name to shower/sauna idek, probs shower
   - add go back box or make it bigger in util room
 - faster check mail? - auto check first time you go to front door. Check Mail (empty) to make easier too.
-- ask if turn cest on or off at start of the game.
-  - $ truestory = True
 - gallery
 
 <br>
