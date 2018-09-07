@@ -214,7 +214,7 @@ Day | Time | Location
 :---: | :---: | :---:
 25+ | Any | Lobby
 - "We'll see" -> "Let's test you out"
-- Raise Lin's obedience by 1
+- Raise Lin's obedience by 1 afterwards
 
 <br>
 
