@@ -13,7 +13,7 @@
 <br>
 <br>
 
-## Lin Kitchen Scenes
+## Lin Kitchen Scenes:
 Choice | Level req. | Obed. gained | Uses time | Once per day
 --- | :---: | :---: | :---: | :---:
 Clean my room | | 1 | Yes | 
@@ -38,7 +38,7 @@ Give me a blowjob | 11+ | 1 | Yes |
 <br>
 <br>
 
-## Lin friendship walkthrough:
+## Lin Friendship:
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
