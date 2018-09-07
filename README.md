@@ -86,9 +86,9 @@ Choice | Level req. | Obed. gained | Uses time | Once per day
 --- | :---: | :---: | :---: | :---:
 Clean my room | | 1 | Yes | 
 Pet her | | 1 | | Yes
-Spank her* | | 2 | | Yes
+Spank her | | 2 | | Yes
 Show me your panties | 1+ | 1 | Yes | 
-Take off your dress | 2 only | 1 | Yes | 
+Take off your dress | **2** | 1 | Yes | 
 Take off everything | 3+ | 1 | Yes | 
 Give me your panties | 3+ | 1 | | Yes
 Return Lin's panties | | | | Yes
@@ -96,6 +96,9 @@ Wear egg vibe | 4+ | 1 | Yes |
 Wear butt plug | 5+ | 1 | Yes | 
 Pose with Heart Outfit | 8+ | 1 | Yes | 
 Give me a blowjob | 11+ | 1 | Yes | 
+- Spank her: Spank her three times then stop
+- Take off your dress: This can only be done when she is level 2 so don't miss it
+- Egg vibe, butt plug, heart outfit: You must buy these items
 
 <br>
 <br>
