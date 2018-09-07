@@ -13,11 +13,11 @@
 - Created a new textbox to replace the default one. The new one is cleaner and less distracting.
 - Changed the fonts and made the text slightly larger to make things more readable.
 - Disabled a lot of the menu choices that don't do anything. This removes clutter and makes the UI cleaner. For example, 4 of Lin's interactions in the kitchen can only be done once per day, but even after you do them they would still be in the menu (even though you can't choose them). So now things like that are removed from the menu to make the UI less cluttered, and then reenabled once they actually become useable in the game.
+- Added more Lin spanking ( ͡° ͜ʖ ͡°)
 
 <br>
 
 <!--- tears begin streaming down her face, blah blah. lenny face in desc., you see her run out of the room, blah blah few minutes blah blah, composure, collect herself, caps:someonehelpme!!! it hurts!!, only if friend is low can do extra? --->
-
 
 <br>
 
@@ -25,11 +25,10 @@
 - Disabled: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep so you don't need to click "Yes" every single time. You can just rollback if you accidentally click it.
 - new navigation system to make going to different places easier/faster
 - overwrite with my rpc file
-- ask where are the girls, ingamemap
-- add more lin spanking
-- Remove more choices for other girls, utility room, etc.
+- Add button that tells you where all the girls are located at that current moment, so you don't have to search the entire hotel when you need to find someone.
+- Remove more unusable/disabled choices for other girls, utility room, etc.
 - faster check mail? - auto check first time you go to front door. Check Mail (empty) to make easier too.
-- gallery
+- Gallery?
 
 <br>
 
