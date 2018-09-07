@@ -11,6 +11,7 @@
 
 <br>
 
+- ask where are the girls
 - Disabled: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep. Needing to click "Yes" every single time isn't fun. You can just rollback if you accidentally click it.
 - auto view all night cams
 - remove options when nothing to do (utility room, lin's stuff)
