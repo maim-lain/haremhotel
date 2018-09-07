@@ -13,7 +13,7 @@
 <br>
 <br>
 
-## Kali Friendship - kali_friendship == 0
+## Kali Friendship
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
