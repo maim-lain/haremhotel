@@ -4,6 +4,8 @@
 <br>
 <br>
 
+- Harem Hotel - Lain Mod
+- Replace font with more readable
 - make clean ui mod
 - when in room at night auto open menu: Sleep, Use computer
 - remove options when nothing to do (utility room, lin's stuff)
@@ -96,6 +98,9 @@ Wear egg vibe | 4+ | 1 | Yes |
 Wear butt plug | 5+ | 1 | Yes | 
 Pose with Heart Outfit | 8+ | 1 | Yes | 
 Give me a blowjob | 11+ | 1 | Yes | 
+
+<br>
+
 - Spank her: Spank her three times then stop
 - Take off your dress: This can only be done when she is level 2 so don't miss it
 - Egg vibe, butt plug, heart outfit: You must buy these items
