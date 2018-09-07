@@ -5,13 +5,11 @@
 <br>
 
 ### Harem Hotel - Lain Mod
-### Gameplay
+#### Gameplay
 - When starting a new game you will be asked if you want to enable the incest content. Choosing yes will automatically enable it for you.
 - Before if you wanted to check the spy cams and spy on all the girls, first you would have to open the cam menu, then select a girl, then open the cam menu again, then select the next girl, and so on. It took around 25 clicks to see all the girls! Now you only have to click "Spy on girls" once, and it will automatically show you all the cams of any girl that is in her room.
 
-<br>
-
-### UI
+#### UI
 - Created a new textbox to replace the default one. The new one is cleaner and less distracting.
 - Changed the fonts and made the text slightly larger to make things more readable.
 - Disabled a lot of the menu choices that don't do anything. This removes clutter and makes the UI cleaner. For example, 4 of Lin's interactions in the kitchen can only be done once per day, but even after you do them they would still be in the menu (even though you can't choose them). So now things like that are removed from the menu to make the UI less cluttered, and then reenabled once they actually become useable in the game.
