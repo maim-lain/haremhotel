@@ -188,7 +188,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 18+ | Morning/Noon | Kitchen
-- The event is locked until Maria moves into the hotel
+- This event is locked until Maria moves into the hotel
 - Optional: Buy Lin's 'Bondage Set ($75)' so you have it for the next event
 
 <br>
