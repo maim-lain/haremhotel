@@ -20,7 +20,7 @@
 - Partially working: Automatically check for and retrieve your mail. (this probably needs some changes)
 - Added more Lin spanking ( ͡° ͜ʖ ͡°)
 
-#### UI
+#### User Interface
 - Created a new textbox to replace the default one. The new one is cleaner and less distracting.
 - Changed the fonts and made the text slightly larger to make things more readable.
 - Disabled a lot of the menu choices that don't do anything. This removes clutter and makes the UI cleaner. For example, 4 of Lin's interactions in the kitchen can only be done once per day, but even after you do them they would still be in the menu (even though you can't choose them). So now things like that are removed from the menu to make the UI less cluttered, and then reenabled once they actually become useable in the game.
