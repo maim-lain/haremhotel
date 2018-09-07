@@ -8,7 +8,7 @@
 - when in room at night auto open menu: Sleep, Use computer
 - remove options when nothing to do (utility room, lin's stuff)
   - remove utility from stairs, \*\*=1st floor, \*=room?
-- change utility room name to shower/sauna idek
+- change utility room name to shower/sauna idek, probs shower
   - add go back box or make it bigger in util room
 - faster check mail? - auto check first time you go to front door. Check Mail (empty) to make easier too.
 - ask if turn cest on or off at start of the game.
@@ -93,14 +93,9 @@ Take off everything | 3+ | 1 | Yes |
 Give me your panties | 3+ | 1 | | Yes
 Return Lin's panties | | | | Yes
 Wear egg vibe | 4+ | 1 | Yes | 
-Wear bp | 5+ | 1 | Yes | 
-
-
-spank 3 times then stop
-
-
-
-
+Wear butt plug | 5+ | 1 | Yes | 
+Pose with Heart Outfit | 8+ | 1 | Yes | 
+Give me a blowjob | 11+ | 1 | Yes | 
 
 <br>
 <br>
