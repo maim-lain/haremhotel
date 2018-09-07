@@ -1,4 +1,4 @@
-# Harem Hotel - Lin Scene Guide
+# Lin Scene Guide
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -23,7 +23,7 @@ Show me your panties | 1+ | 1 | Yes |
 Take off your dress | **2** | 1 | Yes | 
 Take off everything | 3+ | 1 | Yes | 
 Give me your panties | 3+ | 1 | | Yes
-Return Lin's panties | | | | Yes
+Return Lin's panties | 3+ | | | Yes
 Wear egg vibe | 4+ | 1 | Yes | 
 Wear butt plug | 5+ | 1 | Yes | 
 Pose with Heart Outfit | 8+ | 1 | Yes | 
