@@ -133,15 +133,14 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 16+ | Morning/Noon | Kitchen
+- Optional: Buy Lin's 'Bondage Set ($75)' on the 18th or earlier
 
 <br>
 
 ### Level 11
 Day | Time | Location
 :---: | :---: | :---:
-18+ | Morning/Noon | Kitchen
-- This event is locked until Maria moves into the hotel
-- Optional: Buy Lin's 'Bondage Set ($75)' so you have it for the next event
+19+ | Morning/Noon | Kitchen
 
 <br>
 
