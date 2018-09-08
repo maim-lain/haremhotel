@@ -18,7 +18,7 @@
 - When starting a new game you will be asked if you want to enable the incest content. Choosing yes will automatically enable it for you.
 - Does your harem have so many girls that you can't remember where your waifus are at specific times of the day? Well now you can just tell the receptionist that you are looking for someone and she will tell you what room every girl is in at that moment.
 - Before if you wanted to check the spy cams and spy on all the girls, first you would have to open the cam menu, then select a girl, then open the cam menu again, then select the next girl, and so on. It took around 25 clicks to see all the girls! Now you only have to click "Spy on girls" once, and it will automatically show you all the cams of any girl that is in her room.
-- Added a bit more hardcore Lin spanking. ( ͡° ͜ʖ ͡°)
+- Added a bit of hardcore Lin spanking. ( ͡° ͜ʖ ͡°)
 
 #### User Interface
 - Created a new textbox to replace the default one. The new one is cleaner and less visually distracting.
