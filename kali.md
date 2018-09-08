@@ -68,7 +68,7 @@ Day | Time | Location
 ### Level 6
 Day | Time | Location
 :---: | :---: | :---:
-13+ | Morning/Afternoon | Kali's room
+13+ | Morning/Noon | Kali's room
 - Any -> Finish massaging
 
 <br>
@@ -84,21 +84,21 @@ Day | Time | Location
 ### Level 8
 Day | Time | Location
 :---: | :---: | :---:
-17+ | Morning/Afternoon | Kali's room
+17+ | Morning/Noon | Kali's room
 
 <br>
 
 ### Level 9
 Day | Time | Location
 :---: | :---: | :---:
-19+ | Morning/Afternoon | Kali's room
+19+ | Morning/Noon | Kali's room
 
 <br>
 
 ### Level 10
 Day | Time | Location
 :---: | :---: | :---:
-21+ | Morning/Afternoon | Lobby
+21+ | Morning/Noon | Lobby
 - After Lin takes the day off talk to Kali
 
 <br>
@@ -106,28 +106,28 @@ Day | Time | Location
 ### Level 11
 Day | Time | Location
 :---: | :---: | :---:
-22+ | Morning/Afternoon | Kali's room
+22+ | Morning/Noon | Kali's room
 
 <br>
 
 ### Level 12
 Day | Time | Location
 :---: | :---: | :---:
-25+ | Morning/Afternoon | Kali's room
+25+ | Morning/Noon | Kali's room
 
 <br>
 
 ### Level 13
 Day | Time | Location
 :---: | :---: | :---:
-27+ | Morning/Afternoon | Kali's room
+27+ | Morning/Noon | Kali's room
 
 <br>
 
 ### Level 14
 Day | Time | Location
 :---: | :---: | :---:
-29+ | Morning/Afternoon | Kali's room
+29+ | Morning/Noon | Kali's room
 - Lin's level needs to be 10 or higher
 
 <br>
