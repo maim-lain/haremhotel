@@ -16,15 +16,16 @@
 
 <br>
 
-### Waifu location schedule (havent started)
+### Waifu location schedule
 Waifu | Morning | Noon | Afternoon
 --- | --- | --- | ---
 Lin | Kitchen | Kitchen | Room
 Lin (Wednesday) | Room | Room | Room
-Kali (Intro) | Kitchen | Kitchen | Room
-Kali (Job) | Kitchen | Kitchen | Job?
-Ashley | Kitchen | Kitchen | Job
-Ashley (School) | Kitchen | School? | Job
+Kali (Intro) | Room | Room | Room
+Kali (Job) | Room | Job | Room
+Ashley | Room | Room | Room
+Ashley (School) | Room | School | Room
+Maria | Room | Room | Room
 
 <br>
 <br>
