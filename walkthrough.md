@@ -38,22 +38,6 @@ Points | Level
 13+ | 5/5
 
 <br>
-
-### Lust (Lin only)
-Points | Level
-:---: | :---:
-0-2 | Not Horny
-3-4 | Horny
-4+ | Overflowing Lust
-
-<br>
-
-### Parts (Android only)
-Parts | Level
-:---: | :---:
-0-3 | ?
-
-<br>
 <br>
 <br>
 <br>
