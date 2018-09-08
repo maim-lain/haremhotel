@@ -29,7 +29,7 @@ Day | Time | Location
 2+ | Any | Kali's room
 - Buy 'Kali's Hard Drive ($30)'
 - Visit her again the next day and give it to her
-- "Here it is"
+- "Here it is" - nah do other
 
 <br>
 
