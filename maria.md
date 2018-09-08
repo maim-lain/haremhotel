@@ -19,6 +19,7 @@
 Day | Time | Location
 :---: | :---: | :---:
 19+ | Any | Maria's room
+- When Ashley's friendship level reaches 8 Maria will move into the hotel
 
 <br>
 
