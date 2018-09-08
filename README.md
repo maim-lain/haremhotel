@@ -29,7 +29,7 @@ Waifu | Morning | Noon | Afternoon
 --- | --- | --- | ---
 Lin | Kitchen | Kitchen | Room
 Lin (Wednesday) | Room | Room | Room
-Kali | Room | Job | Room
+Kali | Room | Room | Job
 Ashley | Room | Room | Room
 Ashley (School) | Room | School | Room
 Maria | Room | Room | Room
