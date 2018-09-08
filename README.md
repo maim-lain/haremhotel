@@ -17,8 +17,11 @@
 <br>
 <br>
 
-- auto check mail when wake up, right?
-- overwrite with my scripts rpc file
+- Automatically receive packages outside of your door in the mornings?
+- Scripts:
+  - overwrite with my scripts rpc file
+  - changed util room names
+  - spank
 - notes on phone
 - once you can do shower scenes do those everyday to make grind easier/faster
 
