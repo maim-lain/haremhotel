@@ -9,6 +9,7 @@
 | [Lin](https://github.com/maim-lain/haremhotel/blob/master/lin.md) |
 | [Kali](https://github.com/maim-lain/haremhotel/blob/master/kali.md) |
 | [Ashley](https://github.com/maim-lain/haremhotel/blob/master/ashley.md) |
+| [Maria](https://github.com/maim-lain/haremhotel/blob/master/maria.md) |
 
 <br>
 <br>
@@ -124,7 +125,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 28+ | Morning | Your room
-- You need to buy and give Ashley the "Slutty Schoolgirl Outfit ($100)"
+- To unlock the scene you need to buy and give Ashley the "Slutty Schoolgirl Outfit ($100)"
 
 <br>
 
