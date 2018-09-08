@@ -62,7 +62,6 @@ Parts | Level
 # Lin Scene Guide
 
 <br>
-<br>
 
 ## Lin Cafe Scenes:
 Scene | Choice | Obed. req. | Level req.
@@ -234,7 +233,6 @@ Day | Time | Location
 # Kali Scene Guide
 
 <br>
-<br>
 
 ## Kali Friendship:
 ### Level 0
@@ -369,7 +367,6 @@ Day | Time | Location
 # Ashley Scene Guide
 
 <br>
-<br>
 
 ## Ashley Friendship:
 ### Level 0
@@ -501,7 +498,6 @@ Day | Time | Location
 
 # Maria Scene Guide
 
-<br>
 <br>
 
 ## Maria Friendship:
