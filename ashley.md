@@ -18,19 +18,14 @@
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
-0+ | Any | Kali's room
-- After she tells you to go away visit her again the next day
-- "Maybe I could help you find a job?"
+5+ | Any | Sauna
 
 <br>
 
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
-2+ | Any | Kali's room
-- Buy 'Kali's Hard Drive ($30)'
-- Visit her again the next day and give it to her
-- "Here it is"
+7+ | Morning/Afternoon | Ashley's room
 
 <br>
 
