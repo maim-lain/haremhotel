@@ -9,6 +9,7 @@
 | [Lin](https://github.com/maim-lain/haremhotel/blob/master/lin.md) |
 | [Kali](https://github.com/maim-lain/haremhotel/blob/master/kali.md) |
 | [Ashley](https://github.com/maim-lain/haremhotel/blob/master/ashley.md) |
+| [Maria](https://github.com/maim-lain/haremhotel/blob/master/maria.md) |
 
 <br>
 <br>
