@@ -4,12 +4,11 @@
 <br>
 <br>
 
-| Waifus |
-|---|
-| [Lin](https://github.com/maim-lain/haremhotel/blob/master/lin.md) |
-| [Kali](https://github.com/maim-lain/haremhotel/blob/master/kali.md) |
-| [Ashley](https://github.com/maim-lain/haremhotel/blob/master/ashley.md) |
-| [Maria](https://github.com/maim-lain/haremhotel/blob/master/maria.md) |
+- [General tips](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
+- [Lin guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
+- [Kali guide](https://github.com/maim-lain/haremhotel/blob/master/kali.md)
+- [Ashley guide](https://github.com/maim-lain/haremhotel/blob/master/ashley.md)
+- [Maria guide](https://github.com/maim-lain/haremhotel/blob/master/maria.md)
 
 <br>
 <br>
