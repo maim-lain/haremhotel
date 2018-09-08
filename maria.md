@@ -18,7 +18,7 @@
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
-&nbsp; | Any | Maria's room
+19+ | Any | Maria's room
 
 <br>
 
