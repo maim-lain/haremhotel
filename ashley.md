@@ -97,40 +97,45 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 24+ | Morning/Afternoon | Ashley's room
-- After Lin takes the day off talk to Kali
 
 <br>
 
 ### Level 11
 Day | Time | Location
 :---: | :---: | :---:
-22+ | Morning/Afternoon | Kali's room
+26+ | Any | Maria's room
+- Maria needs to be level 4
+- "Looks great!"
+- "Yes!"
+- Cum Inside
+- Optional: Afterwards buy Ashley's "Slutty Schoolgirl Outfit ($100)" for an upcoming event
 
 <br>
 
 ### Level 12
 Day | Time | Location
 :---: | :---: | :---:
-25+ | Morning/Afternoon | Kali's room
+27+ | Any | Maria's room
+- Optional: Give Ashley the outfit
 
 <br>
 
 ### Level 13
 Day | Time | Location
 :---: | :---: | :---:
-27+ | Morning/Afternoon | Kali's room
+28+ | Morning | Your room
+- You need to buy and give Ashley the "Slutty Schoolgirl Outfit ($100)"
 
 <br>
 
 ### Level 14
 Day | Time | Location
 :---: | :---: | :---:
-29+ | Morning/Afternoon | Kali's room
-- Lin's level needs to be 10 or higher
+29+ | Morning | Your room
 
 <br>
 
 ### Level 15
 Day | Time | Location
 :---: | :---: | :---:
-31+ | Any | Your room
+30+ | Any | Ashley's room
