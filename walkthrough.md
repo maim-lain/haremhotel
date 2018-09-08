@@ -214,11 +214,7 @@ Day | Time | Location
 <br>
 <br>
 
-# Kali Scene Guide
-
-<br>
-
-## Kali Friendship:
+# Kali Friendship:
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
@@ -348,11 +344,7 @@ Day | Time | Location
 <br>
 <br>
 
-# Ashley Scene Guide
-
-<br>
-
-## Ashley Friendship:
+# Ashley Friendship:
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
@@ -480,11 +472,7 @@ Day | Time | Location
 <br>
 <br>
 
-# Maria Scene Guide
-
-<br>
-
-## Maria Friendship:
+# Maria Friendship:
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
