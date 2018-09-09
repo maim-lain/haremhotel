@@ -43,7 +43,7 @@ Saturday | Kali
 
 <br>
 
-### Personality and Sex stats
+### Personality and Sex stats:
 Points | Level
 :---: | :---:
 0-3 | 1/5
@@ -121,7 +121,7 @@ Give me a blowjob | 11+ | 1 | Yes |
 
 - Spank her: Spank her three times then stop
 - Take off your dress: This can only be done when she is level 2 so don't miss it
-- Egg vibe, butt plug, heart outfit: The items have to be bought
+- Egg vibe, butt plug, heart outfit: These items have to be bought first
 
 <br>
 <br>
@@ -293,3 +293,500 @@ Day | Time | Location
 :---: | :---: | :---:
 38+ | Any | Utility room
 - Your Android's friendship must be level 3 or higher
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Kali Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+0+ | Any | Kali's room
+- After she tells you to go away visit her again the next day
+- "Maybe I could help you find a job?"
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+2+ | Any | Kali's room
+- Buy 'Kali's Hard Drive ($30)'
+- Visit her again the next day and give it to her
+- "You owe me a favor first"
+
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+5+ | Any | Sauna
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+8+ | Any | Kali's room
+- Invite Kali to the cafe
+- Come back the next day
+
+<br>
+
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+10+ | Any | Kali's room
+- Get her mail and give it to her without opening it
+- Optional: Buy Kail's "Bunny Outfit ($75)" for the next event
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+11+ | Any | Kali's room
+- Requires Kail's "Bunny Outfit ($75)"
+- After she tells you about her new job talk to her again
+- "I'll let you keep.."
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+13+ | Morning/Noon | Kali's room
+- Any -> Finish massaging
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+15+ | Any | Sauna
+- Steal her bikini -> Keep pinching
+
+<br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+17+ | Morning/Noon | Kali's room
+
+<br>
+
+### Level 9
+Day | Time | Location
+:---: | :---: | :---:
+19+ | Morning/Noon | Kali's room
+
+<br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+21+ | Morning/Noon | Lobby
+- After Lin takes the day off talk to Kali
+
+<br>
+
+### Level 11
+Day | Time | Location
+:---: | :---: | :---:
+22+ | Morning/Noon | Kali's room
+
+<br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+25+ | Morning/Noon | Kali's room
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+27+ | Morning/Noon | Kali's room
+
+<br>
+
+### Level 14
+Day | Time | Location
+:---: | :---: | :---:
+29+ | Morning/Noon | Kali's room
+- Lin's level needs to be 10 or higher
+
+<br>
+
+### Level 15
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Any | Your room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Morning/Noon | Kali's room
+- "She's my girlfriend"
+- "Check on Lucy"
+- "I do"
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Any | Hot spring
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Ashley Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+5+ | Any | Sauna
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+7+ | Morning/Afternoon | Ashley's room
+
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+8+ | Any | Laundry room
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+10+ | Morning/Afternoon | Ashley's room
+- Pick the 2nd option if you want to skip the very long movie 
+
+<br>
+
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+11+ | Morning/Afternoon | Ashley's room
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+14+ | Morning/Afternoon | Kitchen
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+15+ | Morning/Afternoon | Ashley's room
+- "Cum Outside"
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+17+ | Any | Lobby
+- After meeting Maria go to Ashley's room
+
+<br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+18+ | Morning/Afternoon | Ashley's room
+- "Yep, that's me. Your boyfriend."
+
+<br>
+
+### Level 9
+Day | Time | Location
+:---: | :---: | :---:
+20+ | Morning | Lobby
+
+<br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+24+ | Morning/Afternoon | Ashley's room
+
+<br>
+
+### Level 11
+Day | Time | Location
+:---: | :---: | :---:
+26+ | Any | Maria's room
+- Maria needs to be level 4
+- "Looks great!"
+- "Yes!"
+- "Cum Inside"
+- Optional: Afterwards buy Ashley's "Slutty Schoolgirl Outfit ($100)" for an upcoming event
+
+<br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+27+ | Any | Maria's room
+- Optional: Give Ashley the outfit
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+28+ | Morning | Your room
+- To unlock the scene you need to buy and give Ashley the "Slutty Schoolgirl Outfit ($100)"
+
+<br>
+
+### Level 14
+Day | Time | Location
+:---: | :---: | :---:
+29+ | Morning | Your room
+
+<br>
+
+### Level 15
+Day | Time | Location
+:---: | :---: | :---:
+30+ | Any | Ashley's room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Any | Ashley's room
+- "Lift her top"
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+32+ | Any | Ashley's room
+- "It was terrible"
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+33+ | Any | Ashley's room
+
+<br>
+
+### Level 19
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Morning/Afternoon | Ashley's room
+- "Beg"
+
+<br>
+
+### Level 20
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Morning/Afternoon | Ashley's room
+- If Ashley's Exhibition level is 13 or higher she will be topless
+- "You"
+- When she asks about kids choose any except the first two choices
+- "Of course"
+
+<br>
+
+### Level 21
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Morning/Afternoon | Ashley's room
+
+<br>
+
+### Level 22
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Morning | Your room
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Maria Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+19+ | Any | Maria's room
+- When Ashley's friendship level reaches 8 Maria will move into the hotel
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+21+ | Any | Sauna
+
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+23+ | Any | Maria's room
+- "It would look better on the floor"
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+24+ | Any | Maria's room
+
+<br>
+
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+26+ | Any | Maria's room
+- Ashley needs to be level 11
+- "Looks great!"
+- "Yes!"
+- "Cum Inside"
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+27+ | Any | Maria's room
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+28+ | Any | Maria's room
+- "$50 Tip"
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+29+ | Any | Maria's room
+
+<br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Any | Maria's room
+- "Cum Outside"
+
+<br>
+
+### Level 9
+Day | Time | Location
+:---: | :---: | :---:
+32+ | Any | Maria's room
+- Buy her it and give it to her the next day
+
+<br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+33+ | Any | Maria's room?
+
+<br>
+
+### Level 11
+Day | Time | Location
+:---: | :---: | :---:
+34+ | Any | Maria's room
+- Your Android's friendship must be 3 or higher
+
+<br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Any | Shower
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+36+ | Any | Maria's room
+- Kail's friendship must be 3 or higher
+- "It looks amazing!"
+
+<br>
+
+### Level 14
+Day | Time | Location
+:---: | :---: | :---:
+36+ | Any | Maria's room
+- What's your type?: "You"
+- What's your favorite position?: Any choice except the first
+
+<br>
+
+### Level 15
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Any | Maria's room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Any | Hot spring
+- "As smart as you are sexy"
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Any | Maria's room
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+42+ | Morning | Maria's room
+- "Let's do it"
