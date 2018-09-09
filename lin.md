@@ -173,4 +173,42 @@ Day | Time | Location
 ### Level 15
 Day | Time | Location
 :---: | :---: | :---:
-25+ | Any | Lin's room
+25+ | Afternoon | Lin's room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+28+ | Any | Dungeon
+- You must have purchased the dungeon upgrade for the hotel to unlock the event
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+30+ | Night | Sleep
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+33+ | Morning | Lobby
+- "She belongs to me"
+
+<br>
+
+### Level 19
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Afternoon | Lin's room
+
+<br>
+
+### Level 20
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Any | Utility room
+- The Android's friendship must be level 3 or higher
