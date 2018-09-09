@@ -161,7 +161,7 @@ Scene | Choice | Affection
 
 ## Utility Room Scenes:
 Girl | Time | Sluttiness | Exhibition
---- | --- | --- | ---
+--- | --- | :---: | :---:
 Lin | Afternoon | 13+ | 13+
 Kali | Morning | 13+ | 13+
 Ashley | Morning | 13+ | 13+
