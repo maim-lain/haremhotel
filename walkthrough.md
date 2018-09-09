@@ -1,11 +1,11 @@
-# Harem Hotel v0.3 Walkthrough
+# Harem Hotel Walkthrough v0.3
 https://www.patreon.com/Runey<br>
 [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
 
 **Notes:**
-- This walkthrough was created as a reward for $xx patrons to help support development of the game.
+- This walkthrough was created as a reward for $xx+ patrons. Thanks for supporting development of the game.
 - It isn't complete yet but it has all of the events and scenes for Lin, Kali, Ashley, and Maria.
 
 <br>
@@ -16,6 +16,7 @@ https://www.patreon.com/Runey<br>
 
 #### Table of contents:
 - [Cafe guide](#cafe-scene-guide)
+- [Dungeon guide](#dungeon-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
 - [Lin guide](#lin-friendship-guide)
 - [Kali guide](#kali-friendship-guide)
@@ -76,6 +77,45 @@ Scene | Choice | Obed. req. | Level req.
 3/5 | Wear egg vibe | 12+ | 
 4/5 | Take off all your clothes | 14+ | 
 5/5 | Come with me... | 16+ | 11+
+
+<br>
+
+## Kali Cafe Scenes:
+Scene | Choice | Affection
+:---: | --- | :---:
+1/4 | Flash your breasts | 10+
+2/4 | Strip to your underwear | 11+
+3/4 | Eat completely naked | 13+
+4/4 | Let's have sex | 17+
+
+<br>
+
+## Ashley Cafe Scenes:
+Scene | Choice | Affection | Level req.
+:---: | --- | :---: | :---:
+1/4 | Get on the table | 13+ | 
+2/4 | Give me a blowjob | 15+ | 
+3/4 | Take off everything | 17+ | 
+4/4 | Let's have sex | 20+ | 20+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Dungeon Scene Guide:
+
+<br>
+
+## Lin Dungeon Scenes:
+Scene | Choice | Obed. req.
+:---: | --- | :---:
+1/5 | Vibrator | 
+2/5 | Captive Vibe | 10+
+3/5 | Restrained Doggy | 11+
+4/5 | Upthrust | 12+
 
 <br>
 
