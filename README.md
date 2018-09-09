@@ -27,23 +27,22 @@
 
 <br>
 
-### Waifu location schedule:
-Waifu | Morning | Noon | Afternoon
+### Location schedule:
+Girl | Morning | Noon | Afternoon
 --- | --- | --- | ---
 Lin | Kitchen | Kitchen | Room
 Lin (Wednesday) | Room | Room | Room
 Kali | Room | Room | Job
-Ashley | Room | Room | Room
-Ashley (School) | Room | School | Room
+Ashley (Weekday) | Room | School | Room
 Maria | Room | Room | Room
 
 <br>
 <br>
 
-### Shower (morning):
+### Morning shower schedule:
 Day | Girl
 --- | ---
-Monday | Twins
+Monday | Clones
 Tuesday | Lin
 Wednesday | Maria
 Thursday | Android
@@ -70,13 +69,6 @@ Points | Level
 0-2 | Not Horny
 3-4 | Horny
 4+ | Overflowing Lust
-
-<br>
-
-### Parts (Android only)
-Parts | Level
-:---: | :---:
-0-3 | ?
 
 <br>
 <br>
