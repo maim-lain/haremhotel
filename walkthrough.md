@@ -60,8 +60,6 @@ Points | Level
 
 # Cafe Scene Guide:
 
-<br>
-
 ## Lin Cafe Scenes:
 Scene | Choice | Obed. req. | Level req.
 :---: | --- | :---: | :---:
