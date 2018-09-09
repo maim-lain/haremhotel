@@ -57,8 +57,11 @@ Points | Level
 <br>
 <br>
 <br>
+<br>
 
 # Cafe Scene Guide:
+
+<br>
 
 ## Lin Cafe Scenes:
 Scene | Choice | Obed. req. | Level req.
@@ -94,6 +97,7 @@ Scene | Choice | Affection | Level req.
 <br>
 <br>
 <br>
+<br>
 
 # Kitchen Scene Guide:
 
@@ -121,6 +125,7 @@ Give me a blowjob | 11+ | 1 | Yes |
 - Take off your dress: This can only be done when she is level 2 so don't miss it
 - Egg vibe, butt plug, heart outfit: These items have to be bought first
 
+<br>
 <br>
 <br>
 <br>
@@ -297,6 +302,7 @@ Day | Time | Location
 <br>
 <br>
 <br>
+<br>
 
 # Kali Friendship Guide:
 
@@ -445,6 +451,7 @@ Day | Time | Location
 :---: | :---: | :---:
 37+ | Any | Hot spring
 
+<br>
 <br>
 <br>
 <br>
@@ -632,6 +639,7 @@ Day | Time | Location
 :---: | :---: | :---:
 40+ | Morning | Your room
 
+<br>
 <br>
 <br>
 <br>
