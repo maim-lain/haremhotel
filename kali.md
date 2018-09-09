@@ -14,7 +14,7 @@
 <br>
 
 ## Kali Cafe Scenes:
-Scene | Choice | Aff. req.
+Scene | Choice | Affection
 :---: | --- | :---:
 1/4 | Flash your breasts | 10+
 2/4 | Strip to your underwear | 11+
