@@ -71,7 +71,7 @@ Points | Level
 <br>
 
 ## Lin Cafe Scenes:
-Scene | Choice | Obed. req. | Level req.
+Scene | Choice | Obedience | Level req.
 :---: | --- | :---: | :---:
 1/5 | Reveal your breasts | 8+ | 
 2/5 | Show everyone your pussy | 10+ | 
@@ -111,7 +111,7 @@ Scene | Choice | Affection | Level req.
 <br>
 
 ## Lin Dungeon Scenes:
-Scene | Choice | Obed. req.
+Scene | Choice | Obedience
 :---: | --- | :---:
 1/4 | Vibrator | 
 2/4 | Captive Vibe | 11+
