@@ -14,6 +14,17 @@
 <br>
 <br>
 
+## Ashley Cafe Scenes:
+Scene | Choice | Affection | Level req.
+:---: | --- | :---: | :---:
+1/4 | Get on the table | 13+ | 
+2/4 | Give me a blowjob | 15+ | 
+3/4 | Take off everything | 17+ | 
+4/4 | Let's have sex | 20+ | 20+
+
+<br>
+<br>
+
 ## Ashley Friendship:
 ### Level 0
 Day | Time | Location
