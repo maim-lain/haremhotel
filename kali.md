@@ -65,6 +65,7 @@ Day | Time | Location
 :---: | :---: | :---:
 10+ | Any | Kali's room
 - Get her mail and give it to her without opening it
+- Optional: Buy Kail's "Bunny Outfit ($75)" for the next event
 
 <br>
 
@@ -72,7 +73,9 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 11+ | Any | Kali's room
-- ?
+- Requires Kail's "Bunny Outfit ($75)"
+- After she tells you about her new job talk to her again
+- "I'll let you keep.."
 
 <br>
 
