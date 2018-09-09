@@ -112,30 +112,40 @@ Scene | Choice | Affection | Level req.
 ## Lin Dungeon Scenes:
 Scene | Choice | Obed. req.
 :---: | --- | :---:
-1/5 | Vibrator | 
-2/5 | Captive Vibe | 10+
-3/5 | Restrained Doggy | 11+
-4/5 | Upthrust | 12+
+1/4 | Vibrator | 
+2/4 | Captive Vibe | 11+
+3/4 | Restrained Doggy | 12+
+4/4 | Upthrust | 13+
 
 <br>
 
-## Kali Cafe Scenes:
+## Kali Dungeon Scenes:
 Scene | Choice | Affection
 :---: | --- | :---:
-1/4 | Flash your breasts | 10+
-2/4 | Strip to your underwear | 11+
-3/4 | Eat completely naked | 13+
-4/4 | Let's have sex | 17+
+1/4 | Vibrator | 10+
+2/4 | Deepthroat | 12+
+3/4 | Restrained Doggy | 13+
+4/4 | Rope Fuck | 15+
 
 <br>
 
-## Ashley Cafe Scenes:
-Scene | Choice | Affection | Level req.
-:---: | --- | :---: | :---:
-1/4 | Get on the table | 13+ | 
-2/4 | Give me a blowjob | 15+ | 
-3/4 | Take off everything | 17+ | 
-4/4 | Let's have sex | 20+ | 20+
+## Ashley Dungeon Scenes:
+Scene | Choice | Affection
+:---: | --- | :---:
+1/4 | Vibrator | 11+
+2/4 | Egg Vibe/Dildo | 12+
+3/4 | Squirtathon | 13+
+4/4 | Anal Lift | 14+
+
+<br>
+
+## Maria Dungeon Scenes:
+Scene | Choice | Affection
+:---: | --- | :---:
+1/4 | Fingering | 8+
+2/4 | Handjob | 9+
+3/4 | Doggy Style | 10+
+4/4 | Rope Fuck | 11+
 
 <br>
 <br>
