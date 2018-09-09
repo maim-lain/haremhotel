@@ -30,7 +30,6 @@ Ashley (Weekday) | Room | School | Room
 Maria | Room | Room | Room
 
 <br>
-<br>
 
 ### Shower schedule:
 Morning | Girl
@@ -42,7 +41,6 @@ Thursday | Android
 Friday | Ashley
 Saturday | Kali
 
-<br>
 <br>
 
 ### Personality and Sex stats
@@ -59,3 +57,233 @@ Points | Level
 <br>
 <br>
 <br>
+
+# Cafe Scene Guide:
+
+<br>
+
+## Lin Cafe Scenes:
+Scene | Choice | Obed. req. | Level req.
+:---: | --- | :---: | :---:
+1/5 | Reveal your breasts | 8+ | 
+2/5 | Show everyone your pussy | 10+ | 
+3/5 | Wear egg vibe | 12+ | 
+4/5 | Take off all your clothes | 14+ | 
+5/5 | Come with me... | 16+ | 11+
+
+<br>
+
+## Kali Cafe Scenes:
+Scene | Choice | Affection
+:---: | --- | :---:
+1/4 | Flash your breasts | 10+
+2/4 | Strip to your underwear | 11+
+3/4 | Eat completely naked | 13+
+4/4 | Let's have sex | 17+
+
+<br>
+
+## Ashley Cafe Scenes:
+Scene | Choice | Affection | Level req.
+:---: | --- | :---: | :---:
+1/4 | Get on the table | 13+ | 
+2/4 | Give me a blowjob | 15+ | 
+3/4 | Take off everything | 17+ | 
+4/4 | Let's have sex | 20+ | 20+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Lin Friendship Guide:
+
+<br>
+
+## Lin Kitchen Scenes:
+Choice | Level req. | Obed. gained | Uses time | Once per day
+--- | :---: | :---: | :---: | :---:
+Clean my room | | 1 | Yes | 
+Pet her | | 1 | | Yes
+Spank her | | 2 | | Yes
+Show me your panties | 1+ | 1 | Yes | 
+Take off your dress | **2** | 1 | Yes | 
+Take off everything | 3+ | 1 | Yes | 
+Give me your panties | 3+ | 1 | | Yes
+Return Lin's panties | 3+ | | | Yes
+Wear egg vibe | 4+ | 1 | Yes | 
+Wear butt plug | 5+ | 1 | Yes | 
+Pose with Heart Outfit | 8+ | 1 | Yes | 
+Give me a blowjob | 11+ | 1 | Yes | 
+
+<br>
+
+- Spank her: Spank her three times then stop
+- Take off your dress: This can only be done when she is level 2 so don't miss it
+- Egg vibe, butt plug, heart outfit: The items have to be bought
+
+<br>
+<br>
+
+## Lin Friendship:
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+0+ | Morning/Noon | Kitchen
+- "It tastes great"
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+1+ | Morning/Noon | Kitchen
+- "It tastes great"
+- Optional: Do the "Take off your dress" scene afterwards since it won't be available after leveling up again
+- Optional: On day 3 talk to Lin inside her room
+
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+4+ | Morning/Noon | Kitchen
+- "...Perfect"
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+5+ | Morning/Noon | Kitchen
+
+<br>
+
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+6+ | Any | Lobby
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+7+ | Any | Lobby
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+9+ | Morning/Noon | Kitchen
+- "Stare at her panties"
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+10, 17, .. | Any | Lin's room
+- When it is a Wednesday, go to Lin's room and talk to her
+
+<br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+11+ | Night | Sleep
+- "Reveal her breasts"
+
+<br>
+
+### Level 9
+Day | Time | Location
+:---: | :---: | :---:
+14+ | Morning/Noon | Kitchen
+
+<br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+16+ | Morning/Noon | Kitchen
+- Optional: Buy Lin's 'Bondage Set ($75)' on the 18th or earlier
+
+<br>
+
+### Level 11
+Day | Time | Location
+:---: | :---: | :---:
+19+ | Morning/Noon | Kitchen
+
+<br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+19+ | Any | Lin's room
+- Lin's obedience must be at least 8 and you need Lin's 'Bondage Set ($75)'
+- "Round 2!"
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+21+ | Any | Lin's room
+
+<br>
+
+### Level 14
+Day | Time | Location
+:---: | :---: | :---:
+25+ | Any | Lobby
+- "We'll see" -> "Let's test you out"
+- Raise Lin's obedience by 1 afterwards
+
+<br>
+
+### Level 15
+Day | Time | Location
+:---: | :---: | :---:
+25+ | Afternoon | Lin's room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+28+ | Any | Dungeon
+- You must have purchased the dungeon upgrade for the hotel to unlock the event
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+30+ | Night | Sleep
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+33+ | Morning | Lobby
+- "She belongs to me"
+
+<br>
+
+### Level 19
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Afternoon | Lin's room
+
+<br>
+
+### Level 20
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Any | Utility room
+- Your Android's friendship must be level 3 or higher
