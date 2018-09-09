@@ -14,7 +14,7 @@ https://www.patreon.com/Runey<br>
 
 <br>
 
-**Table of contents:**
+#### Table of contents:
 - [Cafe guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
 - [Kitchen guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
 - [Lin guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
