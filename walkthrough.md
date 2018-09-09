@@ -15,12 +15,12 @@ https://www.patreon.com/Runey<br>
 <br>
 
 #### Table of contents:
-- [Cafe guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
-- [Kitchen guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
-- [Lin guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
-- [Kali guide](https://github.com/maim-lain/haremhotel/blob/master/kali.md)
-- [Ashley guide](https://github.com/maim-lain/haremhotel/blob/master/ashley.md)
-- [Maria guide](https://github.com/maim-lain/haremhotel/blob/master/maria.md)
+- [Cafe guide](#cafe-scene-guide)
+- [Kitchen guide](#kitchen-scene-guide)
+- [Lin guide](#lin-friendship-guide)
+- [Kali guide](#kali-friendship-guide)
+- [Ashley guide](#ashley-friendship-guide)
+- [Maria guide](#maria-friendship-guide)
 
 <br>
 <br>
