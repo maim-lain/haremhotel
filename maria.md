@@ -129,10 +129,8 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 36+ | Any | Maria's room
-- Kail's friendship must be 3 or higher
-- "It looks amazing!"
-- "You"
-- Any choice except Fetal
+- What's your type?: "You"
+- What's your favorite position?: Any choice except the first
 
 <br>
 
