@@ -97,7 +97,7 @@ Scene | Choice | Affection | Level req.
 <br>
 <br>
 
-# Lin Friendship Guide:
+# Kitchen Scene Guide:
 
 <br>
 
@@ -125,8 +125,14 @@ Give me a blowjob | 11+ | 1 | Yes |
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
-## Lin Friendship:
+# Lin Friendship Guide:
+
+<br>
+
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
