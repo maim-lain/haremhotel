@@ -103,7 +103,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 9+ | Morning/Noon | Kitchen
-- Stare at her panties
+- "Stare at her panties"
 
 <br>
 
@@ -119,7 +119,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 11+ | Night | Sleep
-- Reveal her breasts
+- "Reveal her breasts"
 
 <br>
 
@@ -211,4 +211,4 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 38+ | Any | Utility room
-- The Android's friendship must be level 3 or higher
+- Your Android's friendship must be level 3 or higher
