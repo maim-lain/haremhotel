@@ -52,7 +52,7 @@ Day | Time | Location
 - Ashley needs to be level 11
 - "Looks great!"
 - "Yes!"
-- Cum Inside
+- "Cum Inside"
 
 <br>
 
@@ -82,7 +82,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 31+ | Any | Maria's room
-- Cum Outside
+- "Cum Outside"
 
 <br>
 
@@ -98,3 +98,68 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 33+ | Any | Maria's room?
+
+<br>
+
+### Level 11
+Day | Time | Location
+:---: | :---: | :---:
+34+ | Any | Maria's room
+- Your Android's friendship must be 3 or higher
+
+<br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Any | Shower
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+36+ | Any | Maria's room
+- Kail's friendship must be 3 or higher
+- "It looks amazing!"
+
+<br>
+
+### Level 14
+Day | Time | Location
+:---: | :---: | :---:
+36+ | Any | Maria's room
+- Kail's friendship must be 3 or higher
+- "It looks amazing!"
+- "You"
+- Any choice except Fetal
+
+<br>
+
+### Level 15
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Any | Maria's room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Any | Hot spring
+- "As smart as you are sexy"
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Any | Maria's room
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+42+ | Morning | Maria's room
+- "Let's do it"
