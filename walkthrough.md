@@ -9,9 +9,14 @@ https://www.patreon.com/Runey<br>
 - It isn't complete yet but it has all of the events and scenes for Lin, Kali, Ashley, and Maria.
 
 <br>
+
+---
+
 <br>
 
-- [General tips](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
+**Table of contents:**
+- [Cafe guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
+- [Kitchen guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
 - [Lin guide](https://github.com/maim-lain/haremhotel/blob/master/lin.md)
 - [Kali guide](https://github.com/maim-lain/haremhotel/blob/master/kali.md)
 - [Ashley guide](https://github.com/maim-lain/haremhotel/blob/master/ashley.md)
