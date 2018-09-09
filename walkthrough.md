@@ -1,9 +1,12 @@
 # Harem Hotel v0.3 Walkthrough
-https://www.patreon.com/Runey
+https://www.patreon.com/Runey<br>
+[Written by Maim Lain]()
+
+<br>
 
 **Notes:**
 - This walkthrough was created as a reward for $xx patrons to help support development of the game.
-- The walkthrough isn't complete yet but it has all of the events and scenes for Lin, Kali, Ashley, and Maria.
+- It isn't complete yet but it has all of the events and scenes for Lin, Kali, Ashley, and Maria.
 
 <br>
 <br>
@@ -50,15 +53,6 @@ Points | Level
 7-9 | 3/5
 10-12 | 4/5
 13+ | 5/5
-
-<br>
-
-### Lust (Lin only)
-Points | Level
-:---: | :---:
-0-2 | Not Horny
-3-4 | Horny
-4+ | Overflowing Lust
 
 <br>
 <br>
