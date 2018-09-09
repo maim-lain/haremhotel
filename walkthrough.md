@@ -17,6 +17,7 @@ https://www.patreon.com/Runey<br>
 #### Table of contents:
 - [Cafe guide](#cafe-scene-guide)
 - [Dungeon guide](#dungeon-scene-guide)
+- [Exhibition guide](#utility-room-exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
 - [Lin guide](#lin-friendship-guide)
 - [Kali guide](#kali-friendship-guide)
@@ -146,6 +147,25 @@ Scene | Choice | Affection
 2/4 | Handjob | 9+
 3/4 | Doggy Style | 10+
 4/4 | Rope Fuck | 11+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Utility Room Exhibition Scene Guide:
+
+<br>
+
+Girl | Time | Sluttiness | Exhibition
+--- | --- | --- | ---
+Lin | Afternoon | 13+ | 13+
+Kali | Morning | 13+ | 13+
+Ashley | Morning | 13+ | 13+
+Maria | Noon | 13+ | 13+
+Android | Morning | 13+ | 13+
 
 <br>
 <br>
