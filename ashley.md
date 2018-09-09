@@ -62,7 +62,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 15+ | Morning/Afternoon | Ashley's room
-- Cum Outside
+- "Cum Outside"
 
 <br>
 
@@ -103,7 +103,7 @@ Day | Time | Location
 - Maria needs to be level 4
 - "Looks great!"
 - "Yes!"
-- Cum Inside
+- "Cum Inside"
 - Optional: Afterwards buy Ashley's "Slutty Schoolgirl Outfit ($100)" for an upcoming event
 
 <br>
@@ -135,3 +135,59 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 30+ | Any | Ashley's room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Any | Ashley's room
+- "Lift her top"
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+32+ | Any | Ashley's room
+- "It was terrible"
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+33+ | Any | Ashley's room
+
+<br>
+
+### Level 19
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Morning/Afternoon | Ashley's room
+- "Beg"
+
+<br>
+
+### Level 20
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Morning/Afternoon | Ashley's room
+- If Ashley's Exhibition level is 13 or higher she will be topless
+- "You"
+- When she asks about kids choose any except the first two choices
+- "Of course"
+
+<br>
+
+### Level 21
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Morning/Afternoon | Ashley's room
+
+<br>
+
+### Level 22
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Morning | Your room
