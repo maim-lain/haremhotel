@@ -17,7 +17,7 @@ https://www.patreon.com/Runey<br>
 #### Table of contents:
 - [Cafe guide](#cafe-scene-guide)
 - [Dungeon guide](#dungeon-scene-guide)
-- [Exhibition guide](#utility-room-exhibition-scene-guide)
+- [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
 - [Lin guide](#lin-friendship-guide)
 - [Kali guide](#kali-friendship-guide)
@@ -155,10 +155,11 @@ Scene | Choice | Affection
 <br>
 <br>
 
-# Utility Room Exhibition Scene Guide:
+# Exhibition Scene Guide:
 
 <br>
 
+## Utility Room Scenes:
 Girl | Time | Sluttiness | Exhibition
 --- | --- | --- | ---
 Lin | Afternoon | 13+ | 13+
