@@ -13,6 +13,17 @@
 <br>
 <br>
 
+## Kali Cafe Scenes:
+Scene | Choice | Aff. req.
+:---: | --- | :---:
+1/4 | Flash your breasts | 10+
+2/4 | Strip to your underwear | 11+
+3/4 | Eat completely naked | 13+
+4/4 | Let's have sex | 17+
+
+<br>
+<br>
+
 ## Kali Friendship:
 ### Level 0
 Day | Time | Location
@@ -136,3 +147,20 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 31+ | Any | Your room
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Morning/Noon | Kali's room
+- "She's my girlfriend"
+- "Check on Lucy"
+- "I do"
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Any | Hot spring
