@@ -1,5 +1,5 @@
 # Harem Hotel Walkthrough v0.3
-https://www.patreon.com/Runey<br>
+https://www.patreon.com/Runey  
 [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
@@ -94,10 +94,11 @@ Scene | Choice | Affection
 ## Ashley Cafe Scenes:
 Scene | Choice | Affection | Level req.
 :---: | --- | :---: | :---:
-1/4 | Get on the table | 13+ | 
-2/4 | Give me a blowjob | 15+ | 
-3/4 | Take off everything | 17+ | 
-4/4 | Let's have sex | 20+ | 20+
+1/5 | Get on the table | 13+ | 
+2/5 | Give me a blowjob | 15+ | 
+3/5 | Take off everything | 17+ | 
+4/5 | Let's have sex 1/2 (normal outfit) | 20+ | 20+
+5/5 | Let's have sex 2/2 | 20+ | 20+
 
 <br>
 <br>
