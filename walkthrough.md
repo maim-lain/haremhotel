@@ -1,6 +1,5 @@
 # Harem Hotel Walkthrough v0.3
-https://www.patreon.com/Runey  
-[Written by Maim Lain](https://www.patreon.com/maimlain/overview)
+https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
 
