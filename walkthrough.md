@@ -5,7 +5,7 @@ https://www.patreon.com/Runey
 <br>
 
 **Notes:**
-- This walkthrough was created as a reward for $xx+ patrons. Thanks for supporting development of the game.
+- This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game.
 - It isn't complete yet but it has all of the events and scenes for Lin, Kali, Ashley, and Maria.
 
 <br>
