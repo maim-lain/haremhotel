@@ -24,6 +24,7 @@
 - Created a new textbox to replace the default one. The new one is cleaner and less visually distracting.
 - Changed the fonts and made the text slightly larger to make things more readable.
 - Disabled a lot of the menu choices that don't do anything. This removes clutter and makes the UI cleaner. For example, 4 of Lin's interactions in the kitchen can only be done once per day, but even after you do them they would still be in the menu (even though you can't choose them). So now things like that are removed from the menu to make the UI less cluttered, and then reenabled once they actually become useable in the game.
+- Made the navigation menus/choices less cluttered, but there's still room for improvement.
 
 #### To do:
 - In progress: The game will automatically check for and retrieve your mail.
