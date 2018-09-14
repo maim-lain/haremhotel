@@ -26,10 +26,10 @@
 - Disabled a lot of the menu choices that don't do anything. This removes clutter and makes the UI cleaner. For example, 4 of Lin's interactions in the kitchen can only be done once per day, but even after you do them they would still be in the menu (even though you can't choose them). So now things like that are removed from the menu to make the UI less cluttered, and then reenabled once they actually become useable in the game.
 
 #### To do:
-- Partially complete: The game will automatically check for and retrieve your mail.
-- Partially complete: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep so you don't need to click "Yes" every single time.
+- In progress: The game will automatically check for and retrieve your mail.
+- In progress: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep so you don't need to click "Yes" every single time.
 - A new navigation system to make going to different places easier and faster would be really nice.
-  - Add clickable signs that say Floor 1, Floor 2 next to the stairs?`
+  - Add clickable signs that say Floor 1, Floor 2 next to the stairs?
 - Remove more unusable/disabled choices for other girls, the utility room, etc. to unclutter menus
 - Scene gallery?
 
