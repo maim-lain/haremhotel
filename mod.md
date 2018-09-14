@@ -27,7 +27,7 @@
 - Made the navigation menus/choices less cluttered, but there's still room for improvement.
 
 #### To do:
-- In progress: The game will automatically check for and retrieve your mail.
+- In progress: Automatically receive packages outside of your door in the mornings.
 - In progress: When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep so you don't need to click "Yes" every single time.
 - A new navigation system to make going to different places easier and faster would be really nice.
   - Add clickable signs that say Floor 1, Floor 2 next to the stairs?
