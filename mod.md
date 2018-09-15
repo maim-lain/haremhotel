@@ -1,4 +1,4 @@
-# Harem Hotel 0.3.4 - Improvements Mod
+# Harem Hotel - Improvements Mod [0.3.4]
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
  
 <br>
