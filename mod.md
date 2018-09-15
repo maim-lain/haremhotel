@@ -1,15 +1,11 @@
 # Harem Hotel - Lain Mod/Improvements Mod
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
-
-<br>
-
-- [Back to walkthrough](https://github.com/maim-lain/haremhotel/blob/master/README.md)
  
 ---
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**]()
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!vDpxTIra!q7V62Rm0eSPyBht20YiAN-Oh5zbcU_HCI9MPX-b4BHo)
 
 <br>
 
