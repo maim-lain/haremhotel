@@ -5,9 +5,8 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 
 <br>
 
-**Notes:**
+**Note:**
 - This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game.
-- It isn't complete yet but it has all of the events and scenes for Lin, Kali, Ashley, and Maria.
 
 <br>
 
@@ -25,7 +24,7 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 - [Ashley guide](#ashley-friendship-guide)
 - [Maria guide](#maria-friendship-guide)
 - [Android guide](#android-friendship-guide)
-- [Emma & Felicity guide](#emma-&-felicity-friendship-guide)
+- [Felicity & Emma guide](#felicity-&-emma-friendship-guide)
 
 <br>
 <br>
@@ -706,6 +705,7 @@ Day | Time | Location
 - "You"
 - When she asks about kids choose any except the first two choices
 - "Of course"
+- "Never"
 
 <br>
 
@@ -901,7 +901,59 @@ Day | Time | Location
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
-21+ | Any | Sauna
+ | Any | Kitchen
+ 
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+27+ | Morning/Afternoon | Android's room
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+28+ | Morning/Afternoon | Android's room
+- Force her
+
+<br>
+
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+29+ | Morning/Afternoon | Android's room
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+30+ | Morning/Afternoon | Android's room
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+31+ | Morning | Your room
+- Choose Ashley last
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+32+ | Any | Kali's room
+
+<br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+34+ | m or n? | Kitchen
+
 
 <br>
 <br>
@@ -911,14 +963,14 @@ Day | Time | Location
 <br>
 <br>
 
-# Emma & Felicity Guide:
+# Felicity & Emma Friendship Guide:
 
 <br>
 
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
- | Morning | Lobby
+34+ | Morning | Lobby
 - When you upgrade the hotel and add the 2nd floor Emma & Felicity will join the hotel
 
 <br>
@@ -926,7 +978,24 @@ Day | Time | Location
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
-21+ | Any | Sauna
+34+ | Any | Their room
+- "I just thought.."
+
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Any | Hot spring
+- "She's special"
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Any | Hot spring
+- "She's special"
 
 <br>
 
