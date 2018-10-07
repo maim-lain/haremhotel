@@ -130,10 +130,10 @@ Scene | Choice | Obedience | Level req.
 :---: | --- | :---: | :---:
 1/6 | Reveal your breasts | 7+ | 5+
 2/6 | Serve the guests | 8+ | 6+
-3/6 | Completely undress | 8+ | 6+
-4/6 | Sell some milk | 9+ | 6+
-5/6 | Wear egg vibe | 10+ | 6+
-6/6 | Masturbate | 12+ | 6+
+3/6 | Completely undress | 8+ |  
+4/6 | Sell some milk | 9+ |  
+5/6 | Wear egg vibe | 10+ |  
+6/6 | Masturbate | 12+ |  
 
 <br>
 <br>
