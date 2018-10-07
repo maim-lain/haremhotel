@@ -1138,7 +1138,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 34+ | Morning | Lobby
-- When you buy the 2nd floor upgrade Emma & Felicity will move into the hotel
+- When you buy the 2nd floor upgrade Felicity & Emma will move into the hotel
 
 <br>
 
