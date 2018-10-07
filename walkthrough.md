@@ -1,5 +1,3 @@
-<!--
-
 # Harem Hotel Walkthrough v0.3
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
@@ -37,6 +35,8 @@ Lin (Wednesday) | Room | Room | Room
 Kali | Room | Room | Job
 Ashley (Weekday) | Room | School | Room
 Maria | Room | Room | Room
+Android | Room | Kitchen | Room
+Felicity & Emma | Room | Room | Room
 
 <br>
 
@@ -952,7 +952,7 @@ Day | Time | Location
 ### Level 8
 Day | Time | Location
 :---: | :---: | :---:
-34+ | m or n? | Kitchen
+34+ | Noon | Kitchen
 
 
 <br>
@@ -994,9 +994,8 @@ Day | Time | Location
 ### Level 3
 Day | Time | Location
 :---: | :---: | :---:
-35+ | Any | Hot spring
-- "She's special"
+36+ | Any | Laundry room
+- 
 
 <br>
 
--->
