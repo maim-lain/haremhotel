@@ -87,14 +87,11 @@ Scene | Choice | Sluttiness | Level req.
 
 <br>
 
-## twin beach Scenes:
-Scene | Choice | Obedience | Level req.
+## Emma Beach Scenes:
+Scene | Choice | Affection | Level req.
 :---: | --- | :---: | :---:
-1/5 | Reveal your breasts | 8+ | 
-2/5 | Show everyone your pussy | 10+ | 
-3/5 | Wear egg vibe | 12+ | 
-4/5 | Take off all your clothes | 14+ | 
-5/5 | Come with me... | 16+ | 11+
+1/2 | Take your top off | 5+ | 14+
+2/2 | Sunbathe nude | 7+ | 14+
 
 <br>
 <br>
@@ -957,7 +954,7 @@ Day | Time | Location
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
- | Morning | Your room
+  | Morning | Your room
 - When you buy the 2nd floor upgrade the Android joins the hotel
 
 <br>
@@ -965,7 +962,7 @@ Day | Time | Location
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
- | Any | Kitchen
+  | Any | Kitchen
  
 <br>
 
@@ -1031,6 +1028,35 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 35+ | Morning/Afternoon | Android's room
+
+<br>
+
+### Level 11
+Day | Time | Location
+:---: | :---: | :---:
+36+ | Morning/Afternoon | Android's room
+
+<br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Morning/Afternoon | Android's room
+- "Jump in"
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Any | Laundry room
+
+<br>
+
+### Level 14
+Day | Time | Location
+:---: | :---: | :---:
+39+ | Night | Your room
 
 <br>
 <br>
@@ -1132,9 +1158,21 @@ Day | Time | Location
 
 <br>
 
-### Level 10
+### Level 11
 Day | Time | Location
 :---: | :---: | :---:
-44+ | Any | Lobby
+44+ | Morning | Lobby
 
 <br>
+
+### Level 12
+Day | Time | Location
+:---: | :---: | :---:
+45+ | Any | Their room
+
+<br>
+
+### Level 13
+Day | Time | Location
+:---: | :---: | :---:
+46+ | Any | Their room
