@@ -1057,6 +1057,15 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 39+ | Night | Your room
+- Optional: Order the Breast Expansion Module ($50) for the next event
+
+<br>
+
+### Level 15
+Day | Time | Location
+:---: | :---: | :---:
+39+ | Morning/Afternoon | Android's room
+- Give the Android the Breast Expansion Module ($50)
 
 <br>
 <br>
