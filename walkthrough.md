@@ -1,10 +1,8 @@
 # Harem Hotel Walkthrough v0.3
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
-<br>
-
-**Note:**
-- This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game.
+This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took to finish the walkthrough.  
+\- Maim Lain
 
 <br>
 
@@ -12,17 +10,19 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 
 <br>
 
-#### Table of contents:
+### Table of contents:
 - [Cafe guide](#cafe-scene-guide)
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
+
+#### Friendship walkthroughs:
 - [Lin guide](#lin-friendship-guide)
 - [Kali guide](#kali-friendship-guide)
 - [Ashley guide](#ashley-friendship-guide)
 - [Maria guide](#maria-friendship-guide)
 - [Android guide](#android-friendship-guide)
-- [Felicity & Emma guide](#felicity-&-emma-friendship-guide)
+- [Felicity & Emma guide](#felicity--emma-friendship-guide)
 
 <br>
 <br>
