@@ -18,6 +18,8 @@ This walkthrough was created as a reward for $20+ patrons, thanks for supporting
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
 
+<br>
+
 #### Friendship walkthroughs:
 - [Lin guide](#lin-friendship-guide)
 - [Kali guide](#kali-friendship-guide)
@@ -26,6 +28,7 @@ This walkthrough was created as a reward for $20+ patrons, thanks for supporting
 - [Android guide](#android-friendship-guide)
 - [Felicity & Emma guide](#felicity--emma-friendship-guide)
 
+<br>
 <br>
 <br>
 
@@ -997,7 +1000,36 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 36+ | Any | Laundry room
-- 
 
 <br>
 
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+37+ | Any | Floor 2
+- "No"
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+38+ | Any | Their room
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+39+ | Morning | Your room
+- "Two strong beers"
+- "I was in bed with.."
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+39+ | Morning | Your room
+
+<br>
