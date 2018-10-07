@@ -3,7 +3,7 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 
 <br>
 
-This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took to finish the walkthrough. -Maim Lain
+This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took for me to finish the walkthrough. -Maim Lain
 
 <br>
 
