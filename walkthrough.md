@@ -72,6 +72,25 @@ Points | Level
 <br>
 <br>
 
+# Beach Scene Guide:
+
+<br>
+
+## Maria Beach Scenes:
+Scene | Choice | Sluttiness | Level req.
+:---: | --- | :---: | :---:
+1/4 | Take your top off | 2+ | 
+2/4 | Take everything off | 3+ | 
+3/4 | Let's have sex 1/2 | 4+ | 11+
+4/4 | Let's have sex 2/2 | 7+ | 11+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Cafe Scene Guide:
 
 <br>
@@ -927,7 +946,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
  | Morning | Your room
-- When you upgrade the hotel and add the 2nd floor the Android joins the hotel
+- When you buy the 2nd floor upgrade the Android joins the hotel
 
 <br>
 
@@ -1010,7 +1029,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 34+ | Morning | Lobby
-- When you upgrade the hotel and add the 2nd floor Emma & Felicity will join the hotel
+- When you buy the 2nd floor upgrade Emma & Felicity will move into the hotel
 
 <br>
 
