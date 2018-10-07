@@ -3,7 +3,7 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 
 <br>
 
-This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took to finish the walkthrough. - Maim Lain
+This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took to finish the walkthrough. -Maim Lain
 
 <br>
 
@@ -12,7 +12,7 @@ This walkthrough was created as a reward for $20+ patrons, thanks for supporting
 <br>
 
 #### Location scene walkthroughs:
-- [Cafe guide](#cafe-scene-guide)
+- [Cafe & Beach guide](#cafe--beach-scene-guide)
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
@@ -72,26 +72,7 @@ Points | Level
 <br>
 <br>
 
-# Beach Scene Guide:
-
-<br>
-
-## Maria Beach Scenes:
-Scene | Choice | Sluttiness | Level req.
-:---: | --- | :---: | :---:
-1/4 | Take your top off | 2+ | 
-2/4 | Take everything off | 3+ | 
-3/4 | Let's have sex 1/2 | 4+ | 11+
-4/4 | Let's have sex 2/2 | 7+ | 11+
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-# Cafe Scene Guide:
+# Cafe & Beach Scene Guide:
 
 <br>
 
@@ -124,6 +105,16 @@ Scene | Choice | Affection | Level req.
 3/5 | Take off everything | 17+ | 
 4/5 | Let's have sex 1/2 (normal outfit) | 20+ | 20+
 5/5 | Let's have sex 2/2 | 20+ | 20+
+
+<br>
+
+## Maria Beach Scenes:
+Scene | Choice | Sluttiness | Level req.
+:---: | --- | :---: | :---:
+1/4 | Take your top off | 2+ | 
+2/4 | Take everything off | 3+ | 
+3/4 | Let's have sex 1/2 | 4+ | 11+
+4/4 | Let's have sex 2/2 | 7+ | 11+
 
 <br>
 <br>
