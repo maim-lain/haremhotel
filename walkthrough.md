@@ -527,7 +527,9 @@ Day | Time | Location
 ### Level 17
 Day | Time | Location
 :---: | :---: | :---:
-37+ | Any | Hot spring
+37+ | Morning | Hot spring
+- "If it's you..."
+- "I love you too"
 
 <br>
 <br>
@@ -689,7 +691,7 @@ Day | Time | Location
 ### Level 19
 Day | Time | Location
 :---: | :---: | :---:
-35+ | Morning/Afternoon | Ashley's room
+35+ | Any | Ashley's room
 - "Beg"
 
 <br>
