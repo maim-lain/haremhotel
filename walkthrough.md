@@ -82,7 +82,7 @@ Scene | Choice | Sluttiness | Level req.
 :---: | --- | :---: | :---:
 1/4 | Take your top off | 2+ | 
 2/4 | Take everything off | 3+ | 
-3/4 | Let's have sex 1/2 | 4+ | 11+
+3/4 | Let's have sex 1/2 | 4+ | 10+
 4/4 | Let's have sex 2/2 | 7+ | 11+
 
 <br>
@@ -875,7 +875,8 @@ Day | Time | Location
 ### Level 10
 Day | Time | Location
 :---: | :---: | :---:
-33+ | Any | Maria's room
+33+ | Any | Beach w/ Maria
+- You need to do Maria's first 3 beach scenes
 
 <br>
 
@@ -1066,6 +1067,28 @@ Day | Time | Location
 :---: | :---: | :---:
 39+ | Morning/Afternoon | Android's room
 - Give the Android the Breast Expansion Module ($50)
+
+<br>
+
+### Level 16
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Morning/Noon | Kali's room
+
+<br>
+
+### Level 17
+Day | Time | Location
+:---: | :---: | :---:
+41+ | Morning/Afternoon | Android's room
+
+<br>
+
+### Level 18
+Day | Time | Location
+:---: | :---: | :---:
+43+ | Morning/Afternoon | Android's room
+- If your Android's Exhibition level is 14 or higher you can ask her to wear no clothes
 
 <br>
 <br>
