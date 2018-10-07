@@ -279,7 +279,7 @@ Saturday | Kali
 
 ### Shower scenes:
 Girl | Morning | Friendship | Affection | Sluttiness
---- | ---
+--- | --- | --- | --- | ---
 Lin | Tuesday |  | 9+ |  
 Kali | Saturday | 10+ | 6+ | 5+
 Ashley | Friday | 6+ | 6+ | 5+
