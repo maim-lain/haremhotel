@@ -1,3 +1,5 @@
+<!--
+
 # Harem Hotel Walkthrough v0.3
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
@@ -1240,3 +1242,5 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 46+ | Any | Their room
+
+-->
