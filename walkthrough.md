@@ -24,6 +24,8 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 - [Kali guide](#kali-friendship-guide)
 - [Ashley guide](#ashley-friendship-guide)
 - [Maria guide](#maria-friendship-guide)
+- [Android guide](#android-friendship-guide)
+- [Emma & Felicity guide](#emma-&-felicity-friendship-guide)
 
 <br>
 <br>
@@ -876,5 +878,56 @@ Day | Time | Location
 :---: | :---: | :---:
 42+ | Morning | Maria's room
 - "Let's do it"
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Android Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+ | Morning | Your room
+- When you upgrade the hotel and add the 2nd floor the Android joins the hotel
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+21+ | Any | Sauna
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Emma & Felicity Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+ | Morning | Lobby
+- When you upgrade the hotel and add the 2nd floor Emma & Felicity will join the hotel
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+21+ | Any | Sauna
+
+<br>
 
 -->
