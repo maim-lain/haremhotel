@@ -3,8 +3,7 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 
 <br>
 
-This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took to finish the walkthrough.  
-\- Maim Lain
+This walkthrough was created as a reward for $20+ patrons, thanks for supporting development of the game. Also sorry for the long wait that it took to finish the walkthrough. - Maim Lain
 
 <br>
 
@@ -208,6 +207,25 @@ Give me a blowjob | 11+ | 1 | Yes |
 - Spank her: Spank her three times then stop
 - Take off your dress: This can only be done when she is level 2 so don't miss it
 - Egg vibe, butt plug, heart outfit: These items have to be bought first
+
+<br>
+<br>
+
+## Android Kitchen Scenes:
+Choice | Level req. | Obed. gained | Uses time | Once per day
+--- | :---: | :---: | :---: | :---:
+Clean my room | | 1 | Yes | 
+Pet her | | 1 | | Yes
+Spank her | | 2 | | Yes
+Show me your panties | 3+ | 1 | Yes | 
+Take off your top | 5+ | 1 | Yes | 
+We need milk | 5+ | 1 | Yes | 
+Take off everything | 7+ | 1 | Yes | 
+
+<br>
+
+- Spank her: Spank her three times then stop
+- We need milk: Lactation module ($25) must be bought first
 
 <br>
 <br>
@@ -819,7 +837,7 @@ Day | Time | Location
 ### Level 10
 Day | Time | Location
 :---: | :---: | :---:
-33+ | Any | Maria's room?
+33+ | Any | Maria's room
 
 <br>
 
@@ -959,6 +977,12 @@ Day | Time | Location
 :---: | :---: | :---:
 34+ | Noon | Kitchen
 
+<br>
+
+### Level 9
+Day | Time | Location
+:---: | :---: | :---:
+34+ | Morning/Afternoon | Android's room
 
 <br>
 <br>
