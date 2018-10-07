@@ -12,13 +12,11 @@ This walkthrough was created as a reward for $20+ patrons, thanks for supporting
 
 <br>
 
-### Location scene walkthroughs:
+#### Location scene walkthroughs:
 - [Cafe guide](#cafe-scene-guide)
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
-
-<br>
 
 #### Friendship walkthroughs:
 - [Lin guide](#lin-friendship-guide)
