@@ -156,6 +156,16 @@ Scene | Choice | Affection
 4/4 | Rope Fuck | 11+
 
 <br>
+
+## Android Dungeon Scenes:
+Scene | Choice | Obedience
+:---: | --- | :---:
+1/4 | Vibrator | 10+
+2/4 | Squirtathon | 11+
+3/4 | Catgirl Stand Fuck | 12+
+4/4 | Cowgirl Doggy | 13+
+
+<br>
 <br>
 <br>
 <br>
