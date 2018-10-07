@@ -124,6 +124,18 @@ Scene | Choice | Affection | Level req.
 5/5 | Let's have sex 2/2 | 20+ | 20+
 
 <br>
+
+## Android Cafe Scenes:
+Scene | Choice | Obedience | Level req.
+:---: | --- | :---: | :---:
+1/6 | Reveal your breasts | 7+ | 5+
+2/6 | Serve the guests | 8+ | 6+
+3/6 | Completely undress | 8+ | 6+
+4/6 | Sell some milk | 9+ | 6+
+5/6 | Wear egg vibe | 10+ | 6+
+6/6 | Masturbate | 12+ | 6+
+
+<br>
 <br>
 <br>
 <br>
