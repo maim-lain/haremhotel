@@ -17,6 +17,7 @@ This walkthrough was created as a reward for $20+ patrons, thanks for supporting
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
+- [Shower guide](#shower-scene-guide)
 
 <br>
 
@@ -42,18 +43,6 @@ Ashley (Weekday) | Room | School | Room
 Maria | Room | Room | Room
 Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
-
-<br>
-
-### Shower schedule:
-Morning | Girl
---- | ---
-Monday | Clones
-Tuesday | Lin
-Wednesday | Maria
-Thursday | Android
-Friday | Ashley
-Saturday | Kali
 
 <br>
 
@@ -264,6 +253,37 @@ Take off everything | 7+ | 1 | Yes |
 
 - Spank her: Spank her three times then stop
 - We need milk: Lactation module ($25) must be bought first
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Shower Scene Guide:
+
+<br>
+
+### Shower schedule:
+Morning | Girl
+--- | ---
+Monday | Clones
+Tuesday | Lin
+Wednesday | Maria
+Thursday | Android
+Friday | Ashley
+Saturday | Kali
+
+<br>
+
+### Shower scenes:
+Girl | Morning | Friendship | Affection | Sluttiness
+--- | ---
+Lin | Tuesday |  | 9+ |  
+Kali | Saturday | 10+ | 6+ | 5+
+Ashley | Friday | 6+ | 6+ | 5+
+Maria | Wednesday |  | 6+ |  
 
 <br>
 <br>
