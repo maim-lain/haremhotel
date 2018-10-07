@@ -12,7 +12,8 @@ This walkthrough was created as a reward for $20+ patrons, thanks for supporting
 <br>
 
 #### Location scene walkthroughs:
-- [Cafe & Beach guide](#cafe--beach-scene-guide)
+- [Beach guide](#beach-scene-guide)
+- [Cafe guide](#cafe-scene-guide)
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
@@ -72,7 +73,37 @@ Points | Level
 <br>
 <br>
 
-# Cafe & Beach Scene Guide:
+# Beach Scene Guide:
+
+<br>
+
+## Maria Beach Scenes:
+Scene | Choice | Sluttiness | Level req.
+:---: | --- | :---: | :---:
+1/4 | Take your top off | 2+ | 
+2/4 | Take everything off | 3+ | 
+3/4 | Let's have sex 1/2 | 4+ | 11+
+4/4 | Let's have sex 2/2 | 7+ | 11+
+
+<br>
+
+## twin beach Scenes:
+Scene | Choice | Obedience | Level req.
+:---: | --- | :---: | :---:
+1/5 | Reveal your breasts | 8+ | 
+2/5 | Show everyone your pussy | 10+ | 
+3/5 | Wear egg vibe | 12+ | 
+4/5 | Take off all your clothes | 14+ | 
+5/5 | Come with me... | 16+ | 11+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Cafe Scene Guide:
 
 <br>
 
@@ -105,16 +136,6 @@ Scene | Choice | Affection | Level req.
 3/5 | Take off everything | 17+ | 
 4/5 | Let's have sex 1/2 (normal outfit) | 20+ | 20+
 5/5 | Let's have sex 2/2 | 20+ | 20+
-
-<br>
-
-## Maria Beach Scenes:
-Scene | Choice | Sluttiness | Level req.
-:---: | --- | :---: | :---:
-1/4 | Take your top off | 2+ | 
-2/4 | Take everything off | 3+ | 
-3/4 | Let's have sex 1/2 | 4+ | 11+
-4/4 | Let's have sex 2/2 | 7+ | 11+
 
 <br>
 <br>
@@ -762,7 +783,7 @@ Day | Time | Location
 ### Level 22
 Day | Time | Location
 :---: | :---: | :---:
-40+ | Morning | Your room
+40+ | Morning | Lobby
 
 <br>
 <br>
@@ -1005,6 +1026,13 @@ Day | Time | Location
 34+ | Morning/Afternoon | Android's room
 
 <br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+35+ | Morning/Afternoon | Android's room
+
+<br>
 <br>
 <br>
 <br>
@@ -1068,12 +1096,45 @@ Day | Time | Location
 39+ | Morning | Your room
 - "Two strong beers"
 - "I was in bed with.."
+- Optional: Buy Felicity a gift ($25) for the next event
 
 <br>
 
 ### Level 7
 Day | Time | Location
 :---: | :---: | :---:
-39+ | Morning | Your room
+40+ | Any | Their room
+- Give Felicity a gift
+- "Go ahead"
+
+<br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+41+ | Any | Their room
+
+<br>
+
+### Level 9
+Day | Time | Location
+:---: | :---: | :---:
+42+ | Morning | Your room
+- After she cleans: "Here you go"
+
+<br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+43+ | Any | Their room
+- "Hug her"
+
+<br>
+
+### Level 10
+Day | Time | Location
+:---: | :---: | :---:
+44+ | Any | Lobby
 
 <br>
