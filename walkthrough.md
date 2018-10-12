@@ -298,6 +298,7 @@ Lin | Tuesday |  | 9+ |
 Kali | Saturday | 10+ | 6+ | 5+
 Ashley | Friday | 6+ | 6+ | 5+
 Maria | Wednesday |  | 6+ |  
+Android | Thursday | 18+ |  |  
 
 <br>
 <br>
