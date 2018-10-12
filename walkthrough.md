@@ -313,6 +313,7 @@ Day | Time | Location
 :---: | :---: | :---:
 0+ | Morning/Noon | Kitchen
 - "It tastes great"
+- "There's nothing to worry about"
 
 <br>
 
@@ -470,6 +471,15 @@ Day | Time | Location
 - Your Android's friendship must be level 3 or higher
 
 <br>
+
+### * NEW! - Level 21
+Day | Time | Location
+:---: | :---: | :---:
+41+ | Afternoon | Lin's room
+- If Lin's Exhibition level is 13 or higher you will get extra scenes
+- "Take his challenge"
+
+<br>
 <br>
 <br>
 <br>
@@ -624,6 +634,20 @@ Day | Time | Location
 37+ | Morning | Hot spring
 - "If it's you..."
 - "I love you too"
+
+<br>
+
+### * NEW! - Level 18
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Noon | Kali's room
+
+<br>
+
+### * NEW! - Level 19
+Day | Time | Location
+:---: | :---: | :---:
+42+ | Afternoon | Kali's room
 
 <br>
 <br>
@@ -830,14 +854,6 @@ Day | Time | Location
 - "You look adorable!"
 
 <br>
-
-### * NEW! - Level 24
-Day | Time | Location
-:---: | :---: | :---:
-44+ | Any | Ashley's room
-- "You look adorable!"
-
-<br>
 <br>
 <br>
 <br>
@@ -995,6 +1011,14 @@ Day | Time | Location
 :---: | :---: | :---:
 42+ | Morning | Maria's room
 - "Let's do it"
+
+<br>
+
+### * NEW! - Level 19
+Day | Time | Location
+:---: | :---: | :---:
+44+ | Morning | Maria's room
+- If Lin's Friendship level is 13 or higher you get to see more in her room
 
 <br>
 <br>
