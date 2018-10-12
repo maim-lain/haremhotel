@@ -420,7 +420,7 @@ Day | Time | Location
 
 <br>
 
-### Level 14
+### * NEW! - Level 14
 Day | Time | Location
 :---: | :---: | :---:
 25+ | Any | Lobby
@@ -713,7 +713,7 @@ Day | Time | Location
 
 <br>
 
-### Level 7
+### * NEW! - Level 7
 Day | Time | Location
 :---: | :---: | :---:
 17+ | Any | Lobby
@@ -729,7 +729,7 @@ Day | Time | Location
 
 <br>
 
-### Level 9
+### * NEW! - Level 9
 Day | Time | Location
 :---: | :---: | :---:
 20+ | Morning | Lobby
