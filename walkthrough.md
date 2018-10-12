@@ -1,5 +1,3 @@
-<!--
-
 # Harem Hotel Walkthrough v0.3
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
@@ -346,14 +344,14 @@ Day | Time | Location
 ### Level 4
 Day | Time | Location
 :---: | :---: | :---:
-6+ | Any | Lobby
+7+ | Any | Lobby
 
 <br>
 
 ### Level 5
 Day | Time | Location
 :---: | :---: | :---:
-7+ | Any | Lobby
+8+ | Any | Lobby
 
 <br>
 
@@ -817,6 +815,29 @@ Day | Time | Location
 40+ | Morning | Lobby
 
 <br>
+
+### * NEW! - Level 23
+Day | Time | Location
+:---: | :---: | :---:
+42+ | Morning | Your room
+
+<br>
+
+### * NEW! - Level 24
+Day | Time | Location
+:---: | :---: | :---:
+44+ | Any | Ashley's room
+- "You look adorable!"
+
+<br>
+
+### * NEW! - Level 24
+Day | Time | Location
+:---: | :---: | :---:
+44+ | Any | Ashley's room
+- "You look adorable!"
+
+<br>
 <br>
 <br>
 <br>
@@ -1242,5 +1263,3 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 46+ | Any | Their room
-
--->
