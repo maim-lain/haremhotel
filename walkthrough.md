@@ -1303,3 +1303,26 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 46+ | Any | Their room
+
+<br>
+
+### * NEW - Level 14
+Day | Time | Location
+:---: | :---: | :---:
+47+ | Any | Their room
+
+<br>
+
+### * NEW - Level 15
+Day | Time | Location
+:---: | :---: | :---:
+49+ | Any | Hot spring
+
+<br>
+
+### * NEW - Level 16
+Day | Time | Location
+:---: | :---: | :---:
+51+ | Any | Their room
+- "Peek"
+- "I didn't know you felt that way"
