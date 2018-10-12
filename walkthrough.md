@@ -4,6 +4,7 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 <br>
 
 This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
+New events added in v0.4 have been highlighted to make them easier to find.  
 -Maim Lain
 
 <br>
