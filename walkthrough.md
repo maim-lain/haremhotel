@@ -1017,7 +1017,7 @@ Day | Time | Location
 ### * NEW! - Level 19
 Day | Time | Location
 :---: | :---: | :---:
-44+ | Morning | Maria's room
+44+ | Any | Maria's room
 - If Lin's Friendship level is 13 or higher you get to see more in her room
 
 <br>
@@ -1168,6 +1168,22 @@ Day | Time | Location
 :---: | :---: | :---:
 43+ | Morning/Afternoon | Android's room
 - If your Android's Exhibition level is 14 or higher you can ask her to wear no clothes
+
+<br>
+
+### * NEW! - Level 19
+Day | Time | Location
+:---: | :---: | :---:
+45+ | Morning/Afternoon | Android's room
+- If your Android's Exhibition level is 13 or higher you can ask her to change clothes in public
+- "Why don't you change right here?"
+
+<br>
+
+### * NEW! - Level 20
+Day | Time | Location
+:---: | :---: | :---:
+47+ | Morning/Afternoon | Android's room
 
 <br>
 <br>
