@@ -1,9 +1,10 @@
-# Harem Hotel Walkthrough v0.3
+# Harem Hotel Walkthrough v0.4
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
 
-This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game! -Maim Lain
+This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
+-Maim Lain
 
 <br>
 
