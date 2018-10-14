@@ -48,8 +48,8 @@ Felicity & Emma | Room | Room | Room
 
 
 ### * NEW! - Lobby schedule:
-Girl | Day | Morning | Noon | Afternoon | Req. Trait
---- | --- | :---: | :---: | :---: | ---
+Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
+--- | --- | :---: | :---: | :---: | :---:
 Lin | Saturday |   | ✓ | ✓ | Professional Cocksucker
 Kali | Sunday | ✓ | ✓ |   | Nympho
 Ashley | Tuesday | ✓ |   | ✓ | Nympho
