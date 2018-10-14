@@ -46,25 +46,25 @@ Maria | Room | Room | Room
 Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
 
+
 ### * NEW! - Lobby schedule:
-Girl | Day | Morning | Noon | Afternoon
---- | --- | --- | --- | ---
-Lin | Saturday |   | ✓ | ✓
-Kali | Sunday | ✓ | ✓ |  
-Ashley | Tuesday | ✓ |   | ✓
-Maria | Monday | ✓ | ✓ |  
-Android | Friday | ✓ |   | ✓
-Felicity & Emma | Wednesday | ✓ |   | ✓
+Girl | Day | Morning | Noon | Afternoon | Scene req.
+--- | --- | :---: | :---: | :---: | ---
+Lin | Saturday |   | ✓ | ✓ | 10+ bj's
+Kali | Sunday | ✓ | ✓ |   | 10+ sex
+Ashley | Tuesday | ✓ |   | ✓ | 10+ sex
+Maria | Monday | ✓ | ✓ |   | 10+ bj's
+Android | Friday | ✓ |   | ✓ | 10+ sex
 
-
-
-all 10+
-
-Bot sex
-lin bj
-kali sex
-ash sex
-mar bj
+### * NEW! - Lobby schedule:
+Day | Girl | Morning | Noon | Afternoon
+--- | --- | :---: | :---: | :---:
+Sunday | Kali | ✓ | ✓ |  
+Monday | Maria | ✓ | ✓ |  
+Tuesday | Ashley | ✓ |   | ✓
+Wednesday | Clones | ✓ |   | ✓
+Friday | Android | ✓ |   | ✓
+Saturday | Lin |   | ✓ | ✓
 
 <br>
 
