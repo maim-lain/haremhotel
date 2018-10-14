@@ -283,23 +283,23 @@ Take off everything | 7+ | 1 | Yes |
 ### * NEW! - Lobby schedule:
 Day | Girl | Morning | Noon | Afternoon
 --- | --- | :---: | :---: | :---:
-Sunday | Kali | ✓ | ✓ |  
-Monday | Maria | ✓ | ✓ |  
-Tuesday | Ashley | ✓ |   | ✓
-Wednesday | Clones | ✓ |   | ✓
-Friday | Android | ✓ |   | ✓
-Saturday | Lin |   | ✓ | ✓
+Sunday | Lin |   | ✓ | ✓
+Monday | Kali | ✓ | ✓ |  
+Tuesday | Maria | ✓ | ✓ |  
+Wednesday | Ashley | ✓ |   | ✓
+Thursday | Clones | ✓ |   | ✓
+Saturday | Android | ✓ |   | ✓
 
 <br>
 
 ### * NEW! - Lobby scenes:
 Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
 --- | --- | :---: | :---: | :---: | :---:
-Lin | Saturday |   | ✓ | ✓ | Professional Cocksucker
-Kali | Sunday | ✓ | ✓ |   | Nympho
-Ashley | Tuesday | ✓ |   | ✓ | Nympho
-Maria | Monday | ✓ | ✓ |   | Professional Cocksucker
-Android | Friday | ✓ |   | ✓ | Nympho
+Lin | Sunday |   | ✓ | ✓ | Professional Cocksucker
+Kali | Monday | ✓ | ✓ |   | Nympho
+Ashley | Wednesday | ✓ |   | ✓ | Nympho
+Maria | Tuesday | ✓ | ✓ |   | Professional Cocksucker
+Android | Saturday | ✓ |   | ✓ | Nympho
 
 <br>
 <br>
