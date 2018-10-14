@@ -46,8 +46,8 @@ Maria | Room | Room | Room
 Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
 
-### Location schedule:
-Girl | Morning | Morning | Noon | Afternoon
+### * NEW! - Lobby schedule:
+Girl | Day | Morning | Noon | Afternoon
 --- | --- | --- | --- | ---
 Lin | Saturday |   | ✓ | ✓
 Kali | Sunday | ✓ | ✓ |  
@@ -56,8 +56,15 @@ Maria | Monday | ✓ | ✓ |
 Android | Friday | ✓ |   | ✓
 Felicity & Emma | Wednesday | ✓ |   | ✓
 
-Bot sex 10
 
+
+all 10+
+
+Bot sex
+lin bj
+kali sex
+ash sex
+mar bj
 
 <br>
 
