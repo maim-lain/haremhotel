@@ -19,7 +19,7 @@ New events added in v0.4 have been highlighted to make them easier to find.
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
-- [Lobby guide](#lobby-scene-guide)
+- [Lobby guide](#-new---lobby-scene-guide)
 - [Shower guide](#shower-scene-guide)
 
 <br>
