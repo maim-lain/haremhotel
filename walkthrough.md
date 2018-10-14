@@ -219,7 +219,7 @@ Android | Morning | 13+ | 13+
 
 <br>
 
-## * NEW! - Missable Exhibition Event Scenes:
+## * NEW! - Hidden Exhibition Event Scenes:
 Girl | Event level | Exhibition
 --- | :---: | :---:
 Lin | 21 | 13+
