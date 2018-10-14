@@ -19,6 +19,7 @@ New events added in v0.4 have been highlighted to make them easier to find.
 - [Dungeon guide](#dungeon-scene-guide)
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
+- [Lobby guide](#lobby-scene-guide)
 - [Shower guide](#shower-scene-guide)
 
 <br>
@@ -45,28 +46,6 @@ Ashley (Weekday) | Room | School | Room
 Maria | Room | Room | Room
 Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
-
-
-### * NEW! - Lobby schedule:
-Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
---- | --- | :---: | :---: | :---: | :---:
-Lin | Saturday |   | ✓ | ✓ | Professional Cocksucker
-Kali | Sunday | ✓ | ✓ |   | Nympho
-Ashley | Tuesday | ✓ |   | ✓ | Nympho
-Maria | Monday | ✓ | ✓ |   | Professional Cocksucker
-Android | Friday | ✓ |   | ✓ | Nympho
-
-<br>
-
-### * NEW! - Lobby schedule:
-Day | Girl | Morning | Noon | Afternoon
---- | --- | :---: | :---: | :---:
-Sunday | Kali | ✓ | ✓ |  
-Monday | Maria | ✓ | ✓ |  
-Tuesday | Ashley | ✓ |   | ✓
-Wednesday | Clones | ✓ |   | ✓
-Friday | Android | ✓ |   | ✓
-Saturday | Lin |   | ✓ | ✓
 
 <br>
 
@@ -289,6 +268,38 @@ Take off everything | 7+ | 1 | Yes |
 
 - Spank her: Spank her three times then stop
 - We need milk: Lactation module ($25) must be bought first
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW! - Lobby Scene Guide:
+
+<br>
+
+### * NEW! - Lobby schedule:
+Day | Girl | Morning | Noon | Afternoon
+--- | --- | :---: | :---: | :---:
+Sunday | Kali | ✓ | ✓ |  
+Monday | Maria | ✓ | ✓ |  
+Tuesday | Ashley | ✓ |   | ✓
+Wednesday | Clones | ✓ |   | ✓
+Friday | Android | ✓ |   | ✓
+Saturday | Lin |   | ✓ | ✓
+
+<br>
+
+### * NEW! - Lobby scenes:
+Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
+--- | --- | :---: | :---: | :---: | :---:
+Lin | Saturday |   | ✓ | ✓ | Professional Cocksucker
+Kali | Sunday | ✓ | ✓ |   | Nympho
+Ashley | Tuesday | ✓ |   | ✓ | Nympho
+Maria | Monday | ✓ | ✓ |   | Professional Cocksucker
+Android | Friday | ✓ |   | ✓ | Nympho
 
 <br>
 <br>
