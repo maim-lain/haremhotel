@@ -48,13 +48,15 @@ Felicity & Emma | Room | Room | Room
 
 
 ### * NEW! - Lobby schedule:
-Girl | Day | Morning | Noon | Afternoon | Scene req.
+Girl | Day | Morning | Noon | Afternoon | Req. Trait
 --- | --- | :---: | :---: | :---: | ---
-Lin | Saturday |   | ✓ | ✓ | 10+ bj's
-Kali | Sunday | ✓ | ✓ |   | 10+ sex
-Ashley | Tuesday | ✓ |   | ✓ | 10+ sex
-Maria | Monday | ✓ | ✓ |   | 10+ bj's
-Android | Friday | ✓ |   | ✓ | 10+ sex
+Lin | Saturday |   | ✓ | ✓ | Professional Cocksucker
+Kali | Sunday | ✓ | ✓ |   | Nympho
+Ashley | Tuesday | ✓ |   | ✓ | Nympho
+Maria | Monday | ✓ | ✓ |   | Professional Cocksucker
+Android | Friday | ✓ |   | ✓ | Nympho
+
+<br>
 
 ### * NEW! - Lobby schedule:
 Day | Girl | Morning | Noon | Afternoon
