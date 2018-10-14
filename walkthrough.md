@@ -46,6 +46,19 @@ Maria | Room | Room | Room
 Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
 
+### Location schedule:
+Girl | Morning | Morning | Noon | Afternoon
+--- | --- | --- | --- | ---
+Lin | Saturday |   | ✓ | ✓
+Kali | Sunday | ✓ | ✓ |  
+Ashley | Tuesday | ✓ |   | ✓
+Maria | Monday | ✓ | ✓ |  
+Android | Friday | ✓ |   | ✓
+Felicity & Emma | Wednesday | ✓ |   | ✓
+
+Bot sex 10
+
+
 <br>
 
 ### Personality and Sex stats:
