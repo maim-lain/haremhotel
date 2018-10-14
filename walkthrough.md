@@ -218,6 +218,16 @@ Maria | Noon | 13+ | 13+
 Android | Morning | 13+ | 13+
 
 <br>
+
+## * NEW! - Missable Exhibition Event Scenes:
+Girl | Event level | Exhibition
+--- | :---: | :---:
+Lin | 21 | 13+
+Ashley | 20 | 13+
+Android | 18 | 14+
+Android | 19 | 13+
+
+<br>
 <br>
 <br>
 <br>
