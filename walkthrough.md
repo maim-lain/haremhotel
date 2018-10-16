@@ -208,7 +208,7 @@ Scene | Choice | Obedience
 
 <br>
 
-### * NEW! - Utility Room Schedule:
+## * NEW! - Utility Room Schedule:
 Day | Girl | Time
 --- | --- | ---
 Sunday | Clones | Noon
@@ -220,7 +220,7 @@ Saturday | Maria | Noon
 
 <br>
 
-### * NEW! - Utility Room Scenes:
+## * NEW! - Utility Room Scenes:
 Girl | Day | Time | Exhibition | Sluttiness
 --- | --- | --- | :---: | :---:
 Lin | Friday | Afternoon  | 10+ | 10+
@@ -303,7 +303,7 @@ Take off everything | 7+ | 1 | Yes |
 
 <br>
 
-### * NEW! - Lobby schedule:
+## * NEW! - Lobby schedule:
 Day | Girl | Morning | Noon | Afternoon
 --- | --- | :---: | :---: | :---:
 Sunday | Lin |   | ✓ | ✓
@@ -315,7 +315,7 @@ Saturday | Android | ✓ |   | ✓
 
 <br>
 
-### * NEW! - Lobby scenes:
+## * NEW! - Lobby scenes:
 Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
 --- | --- | :---: | :---: | :---: | :---:
 Lin | Sunday |   | ✓ | ✓ | Professional Cocksucker
@@ -335,7 +335,7 @@ Android | Saturday | ✓ |   | ✓ | Nympho
 
 <br>
 
-### Shower schedule:
+## Shower schedule:
 Morning | Girl
 --- | ---
 Monday | Clones
@@ -347,7 +347,7 @@ Saturday | Kali
 
 <br>
 
-### Shower scenes:
+## Shower scenes:
 Girl | Morning | Level req. | Affection | Sluttiness
 --- | --- | :---: | :---: | :---:
 Lin | Tuesday |  | 9+ |  
