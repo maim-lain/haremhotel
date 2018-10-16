@@ -1,5 +1,3 @@
-<!--
-
 # Harem Hotel Walkthrough v0.4
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
@@ -1374,5 +1372,3 @@ Day | Time | Location
 51+ | Any | Their room
 - "Peek"
 - "I didn't know you felt that way"
-
--->
