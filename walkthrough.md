@@ -228,17 +228,16 @@ Kali | Wednesday | Morning | 10+ | 10+
 Ashley | Monday | Morning | 10+ | 10+
 Maria | Saturday | Noon | 10+ | 10+
 Android | Tuesday | Moring | 10+ | 10+
-Clones | Sunday | Noon | 10+ | 10+
 
 <br>
 
 ## Hidden Exhibition Event Scenes:
 Girl | Event level | Exhibition
 --- | :---: | :---:
-Lin | 21 | 13+
-Ashley | 20 | 13+
-Android | 18 | 14+
-Android | 19 | 13+
+Lin | 21 | 10+
+Ashley | 20 | 10+
+Android | 18 | 10+
+Android | 19 | 10+
 
 <br>
 <br>
