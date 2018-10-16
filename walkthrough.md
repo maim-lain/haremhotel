@@ -208,14 +208,27 @@ Scene | Choice | Obedience
 
 <br>
 
-## Utility Room Scenes:
-Girl | Time | Sluttiness | Exhibition
---- | --- | :---: | :---:
-Lin | Afternoon | 13+ | 13+
-Kali | Morning | 13+ | 13+
-Ashley | Morning | 13+ | 13+
-Maria | Noon | 13+ | 13+
-Android | Morning | 13+ | 13+
+### * NEW! - Utility Room Schedule:
+Day | Girl | Time
+--- | --- | ---
+Sunday | Clones | Noon
+Monday | Ashley | Morning
+Tuesday | Android | Morning
+Wednesday | Kali | Morning
+Friday | Lin | Afternoon
+Saturday | Maria | Noon
+
+<br>
+
+### * NEW! - Utility Room Scenes:
+Girl | Day | Time | Exhibition | Sluttiness
+--- | --- | --- | :---: | :---:
+Lin | Friday | Afternoon  | 10+ | 10+
+Kali | Wednesday | Morning | 10+ | 10+
+Ashley | Monday | Morning | 10+ | 10+
+Maria | Saturday | Noon | 10+ | 10+
+Android | Tuesday | Moring | 10+ | 10+
+Clones | Sunday | Noon | 10+ | 10+
 
 <br>
 
