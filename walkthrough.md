@@ -208,7 +208,7 @@ Scene | Choice | Obedience
 
 <br>
 
-## * NEW! - Utility Room Schedule:
+## Utility Room Schedule:
 Day | Girl | Time
 --- | --- | ---
 Sunday | Clones | Noon
@@ -220,7 +220,7 @@ Saturday | Maria | Noon
 
 <br>
 
-## * NEW! - Utility Room Scenes:
+## Utility Room Scenes:
 Girl | Day | Time | Exhibition | Sluttiness
 --- | --- | --- | :---: | :---:
 Lin | Friday | Afternoon  | 10+ | 10+
@@ -232,7 +232,7 @@ Clones | Sunday | Noon | 10+ | 10+
 
 <br>
 
-## * NEW! - Hidden Exhibition Event Scenes:
+## Hidden Exhibition Event Scenes:
 Girl | Event level | Exhibition
 --- | :---: | :---:
 Lin | 21 | 13+
