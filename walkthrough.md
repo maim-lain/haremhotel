@@ -534,7 +534,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 41+ | Afternoon | Lin's room
-- If Lin's Exhibition level is 13 or higher you will get extra scenes
+- If Lin's Exhibition level is 10 or higher you will get extra scenes
 - "Take his challenge"
 
 <br>
@@ -876,7 +876,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 37+ | Morning/Afternoon | Ashley's room
-- If Ashley's Exhibition level is 13 or higher she will be topless
+- If Ashley's Exhibition level is 10 or higher she will be topless
 - "You"
 - When she asks about kids choose any except the first two choices
 - "Of course"
@@ -1225,7 +1225,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 43+ | Morning/Afternoon | Android's room
-- If your Android's Exhibition level is 14 or higher you can ask her to wear no clothes
+- If your Android's Exhibition level is 10 or higher you can ask her to wear no clothes
 
 <br>
 
@@ -1233,7 +1233,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 45+ | Morning/Afternoon | Android's room
-- If your Android's Exhibition level is 13 or higher you can ask her to change clothes in public
+- If your Android's Exhibition level is 10 or higher you can ask her to change clothes in public
 - "Why don't you change right here?"
 
 <br>
@@ -1315,7 +1315,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 40+ | Any | Their room
-- Give Felicity a gift
+- Give Felicity a gift ($25)
 - "Go ahead"
 
 <br>
