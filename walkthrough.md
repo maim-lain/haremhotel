@@ -1094,7 +1094,7 @@ Day | Time | Location
 ### Level 0
 Day | Time | Location
 :---: | :---: | :---:
-&nbsp; | Morning | Your room
+26+ | Any | Your room
 - When you buy the 2nd floor upgrade the Android joins the hotel
 
 <br>
@@ -1102,7 +1102,7 @@ Day | Time | Location
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
-&nbsp; | Any | Kitchen
+26+ | Any | Kitchen
  
 <br>
 
