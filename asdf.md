@@ -713,17 +713,25 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 18
+### Level 18
 Day | Time | Location
 :---: | :---: | :---:
 40+ | Noon | Kali's room
 
 <br>
 
-### * NEW! - Level 19
+### Level 19
 Day | Time | Location
 :---: | :---: | :---:
 42+ | Afternoon | Kali's room
+
+<br>
+
+### * NEW! - Level 20
+Day | Time | Location
+:---: | :---: | :---:
+45+ | Morning/Noon | Kali's room
+- Finger her -> Massage her
 
 <br>
 <br>
