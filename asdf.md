@@ -532,12 +532,28 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 21
+### Level 21
 Day | Time | Location
 :---: | :---: | :---:
 41+ | Afternoon | Lin's room
 - If Lin's Exhibition level is 10 or higher you will get extra scenes
 - "Take his challenge"
+
+<br>
+
+### * NEW! - Level 22
+Day | Time | Location
+:---: | :---: | :---:
+45+ | Any | Lobby
+
+<br>
+
+### * NEW! - Level 23
+Day | Time | Location
+:---: | :---: | :---:
+48+ | Any | Lobby
+- ob 20, 10 bjs, 11 sex, 10 anal, 
+- Talk to Ellen to start the challenge
 
 <br>
 <br>
