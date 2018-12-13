@@ -2,6 +2,7 @@
 
 kali exhibition new
 emma BEAch new
+autumn lobby
 
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
@@ -296,11 +297,11 @@ Take off everything | 7+ | 1 | Yes |
 <br>
 <br>
 
-# * NEW! - Lobby Scene Guide:
+# Lobby Scene Guide:
 
 <br>
 
-## * NEW! - Lobby schedule:
+## Lobby schedule:
 Day | Girl | Morning | Noon | Afternoon
 --- | --- | :---: | :---: | :---:
 Sunday | Lin |   | ✓ | ✓
@@ -308,11 +309,12 @@ Monday | Kali | ✓ | ✓ |
 Tuesday | Maria | ✓ | ✓ |  
 Wednesday | Ashley | ✓ |   | ✓
 Thursday | Clones | ✓ |   | ✓
+Friday | Autumn |   | ✓ | ✓
 Saturday | Android | ✓ |   | ✓
 
 <br>
 
-## * NEW! - Lobby scenes:
+## Lobby scenes:
 Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
 --- | --- | :---: | :---: | :---: | :---:
 Lin | Sunday |   | ✓ | ✓ | Professional Cocksucker
