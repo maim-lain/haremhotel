@@ -1,5 +1,7 @@
 <!--
 
+kali exhibition new
+
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
@@ -237,6 +239,7 @@ Android | Tuesday | Moring | 10+ | 10+
 Girl | Event level | Exhibition
 --- | :---: | :---:
 Lin | 21 | 10+
+Kali | 20 | 10+
 Ashley | 20 | 10+
 Android | 18 | 10+
 Android | 19 | 10+
@@ -733,6 +736,14 @@ Day | Time | Location
 :---: | :---: | :---:
 45+ | Morning/Noon | Kali's room
 - Finger her -> Massage her
+- If Kali's Exhibition or Submission level is 10 or higher you will be able to have sex
+
+<br>
+
+### * NEW! - Level 21
+Day | Time | Location
+:---: | :---: | :---:
+48+ | Morning/Noon | Kali's room
 
 <br>
 <br>
@@ -796,7 +807,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 7
+### Level 7
 Day | Time | Location
 :---: | :---: | :---:
 17+ | Any | Lobby
@@ -812,7 +823,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 9
+### Level 9
 Day | Time | Location
 :---: | :---: | :---:
 20+ | Morning | Lobby
@@ -925,18 +936,33 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 23
+### Level 23
 Day | Time | Location
 :---: | :---: | :---:
 42+ | Morning | Your room
 
 <br>
 
-### * NEW! - Level 24
+### Level 24
 Day | Time | Location
 :---: | :---: | :---:
 44+ | Any | Ashley's room
 - "You look adorable!"
+
+<br>
+
+### * NEW! - Level 25
+Day | Time | Location
+:---: | :---: | :---:
+47+ | Any | Ashley's room
+- Lin must be level 10 or higher and Kali must be level 8 or higher
+
+<br>
+
+### * NEW! - Level 26
+Day | Time | Location
+:---: | :---: | :---:
+50+ | Any | Ashley's room
 
 <br>
 <br>
