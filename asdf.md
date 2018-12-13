@@ -1,6 +1,7 @@
 <!--
 
 kali exhibition new
+emma BEAch new
 
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
@@ -52,17 +53,6 @@ Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
 
 <br>
-
-### Personality and Sex stats:
-Points | Level
-:---: | :---:
-0-3 | 1/5
-4-6 | 2/5
-7-9 | 3/5
-10-12 | 4/5
-13+ | 5/5
-
-<br>
 <br>
 <br>
 <br>
@@ -86,8 +76,10 @@ Scene | Choice | Sluttiness | Level req.
 ## Emma Beach Scenes:
 Scene | Choice | Affection | Level req.
 :---: | --- | :---: | :---:
-1/2 | Take your top off | 5+ | 14+
-2/2 | Sunbathe nude | 7+ | 14+
+1/4 | Take your top off | 5+ | 14+
+2/4 | Sunbathe nude | 7+ | 14+
+3/4 | Give me a boobjob | 9+ | 14+
+4/4 | Let's have sex | 12+ | 18+
 
 <br>
 <br>
@@ -1449,25 +1441,40 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 14
+### Level 14
 Day | Time | Location
 :---: | :---: | :---:
 47+ | Any | Their room
 
 <br>
 
-### * NEW - Level 15
+### Level 15
 Day | Time | Location
 :---: | :---: | :---:
 49+ | Any | Hot spring
 
 <br>
 
-### * NEW - Level 16
+### Level 16
 Day | Time | Location
 :---: | :---: | :---:
-51+ | Any | Their room
+51+ | Morning/Afternoon | Their room
 - "Peek"
 - "I didn't know you felt that way"
+
+<br>
+
+### * NEW - Level 17
+Day | Time | Location
+:---: | :---: | :---:
+53+ | Any | Hot Springs
+
+<br>
+
+### * NEW - Level 18
+Day | Time | Location
+:---: | :---: | :---:
+55+ | Morning/Afternoon | Hot Springs
+- Take Emma shopping ($200)
 
 -->
