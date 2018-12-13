@@ -36,6 +36,7 @@ New events added in v0.4 have been highlighted to make them easier to find.
 - [Maria guide](#maria-friendship-guide)
 - [Android guide](#android-friendship-guide)
 - [Felicity & Emma guide](#felicity--emma-friendship-guide)
+- [Autumn guide](#autumn-friendship-guide)
 
 <br>
 <br>
@@ -1476,5 +1477,76 @@ Day | Time | Location
 :---: | :---: | :---:
 55+ | Morning/Afternoon | Hot Springs
 - Take Emma shopping ($200)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW - Autumn Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Any | Your room
+- When you buy the 2nd floor upgrade Autumn will move into the hotel
+
+<br>
+
+### Level 1
+Day | Time | Location
+:---: | :---: | :---:
+40+ | Noon/Afternoon | Autumn's room
+
+<br>
+
+### Level 2
+Day | Time | Location
+:---: | :---: | :---:
+41+ | Noon/Afternoon | Autumn's room
+- If Ashley's Exhibition is at least 3 there will be extra dialog -> "This is my first time here"
+- "I take pride in.."
+
+<br>
+
+### Level 3
+Day | Time | Location
+:---: | :---: | :---:
+43+ | Noon/Afternoon | Autumn's room
+- If Ashley's Exhibition is at least 3 there will be extra dialog -> "This is my first time here"
+- "I take pride in.."
+
+<br>
+
+### Level 4
+Day | Time | Location
+:---: | :---: | :---:
+44+ | Noon/Afternoon | Kitchen
+
+<br>
+
+### Level 5
+Day | Time | Location
+:---: | :---: | :---:
+45+ | Noon/Afternoon | Laundry room
+
+<br>
+
+### Level 6
+Day | Time | Location
+:---: | :---: | :---:
+46+ | Noon/Afternoon | Autumn's room
+
+<br>
+
+### Level 7
+Day | Time | Location
+:---: | :---: | :---:
+47+ | Noon/Afternoon | Autumn's room
 
 -->
