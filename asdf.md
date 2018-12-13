@@ -459,6 +459,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 19+ | Morning/Noon | Kitchen
+- To trigger the event Maria needs to move into the hotel
 
 <br>
 
