@@ -479,7 +479,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 14
+### Level 14
 Day | Time | Location
 :---: | :---: | :---:
 25+ | Any | Lobby
@@ -553,7 +553,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 48+ | Any | Lobby
-- ob 20, 10 bjs, 11 sex, 10 anal, 
+- Meet these requirements: Obedience = 20, Blowjobs = 10, Sex = 11, Anal = 10
 - Talk to Ellen to start the challenge
 
 <br>
