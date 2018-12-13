@@ -1518,8 +1518,6 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 43+ | Noon/Afternoon | Autumn's room
-- If Ashley's Exhibition is at least 3 there will be extra dialog -> "This is my first time here"
-- "I take pride in.."
 
 <br>
 
