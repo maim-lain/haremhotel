@@ -1125,11 +1125,27 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 19
+### Level 19
 Day | Time | Location
 :---: | :---: | :---:
 44+ | Any | Maria's room
 - If Lin's Friendship level is 13 or higher you get to see more in her room
+
+<br>
+
+### * NEW! - Level 20
+Day | Time | Location
+:---: | :---: | :---:
+47+ | Any | Maria's room
+
+<br>
+
+### * NEW! - Level 21
+Day | Time | Location
+:---: | :---: | :---:
+50+ | Any | Maria's room
+- Some scenes may be temporarily locked after this event, ensure you're ready before continuing
+- "If that's what you need"
 
 <br>
 <br>
