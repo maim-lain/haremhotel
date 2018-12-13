@@ -1298,7 +1298,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 19
+### Level 19
 Day | Time | Location
 :---: | :---: | :---:
 45+ | Morning/Afternoon | Android's room
@@ -1307,10 +1307,26 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 20
+### Level 20
 Day | Time | Location
 :---: | :---: | :---:
 47+ | Morning/Afternoon | Android's room
+
+<br>
+
+### * NEW! - Level 21
+Day | Time | Location
+:---: | :---: | :---:
+50+ | Morning/Afternoon | Android's room
+- "ILoveYou"
+
+<br>
+
+### * NEW! - Level 22
+Day | Time | Location
+:---: | :---: | :---:
+52+ | Morning/Afternoon | Hot Springs
+- "ILoveYou"
 
 <br>
 <br>
