@@ -7,25 +7,6 @@ changed twin time stuff
 
 -->
 
-### Pinups:
-Outfit | Submission | Friendship | Exhibition
---- | :---: | :---: | :---:
-Underwear |   |   |  
-Cowgirl |   |   |  
-Cow | 5+ |   |  
-Kitten | 5+ |   |  
-Veil |   | 18+ |  
-Slut |   |   |  
-Nude |   | 20+ | 10+
-
-
-### Pinups:
-Outfit | Affection
---- | :---:
-Underwear |  
-Bunny |  
-Nothing | 10+
-Slut |  
 
 
 
@@ -51,6 +32,7 @@ New events added in v0.5 have been highlighted to make them easier to find.
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
 - [Lobby guide](#lobby-scene-guide)
+- [Pin-up guide](#pinup-outfit-guide)
 - [Shower guide](#shower-scene-guide)
 
 <br>
@@ -348,6 +330,48 @@ Kali | Monday | ✓ | ✓ |   | Nympho
 Ashley | Wednesday | ✓ |   | ✓ | Nympho
 Maria | Tuesday | ✓ | ✓ |   | Professional Cocksucker
 Android | Saturday | ✓ |   | ✓ | Nympho
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Pin-up Outfit Guide:
+
+<br>
+
+## Kali Pin-up Outfits:
+Outfit | Affection
+--- | :---:
+Underwear |  
+Bunny |  
+Nothing | 10+
+Slut |  
+
+<br>
+
+## Ashley Pin-up Outfits:
+Outfit | Affection
+--- | :---:
+Underwear |  
+Bunny |  
+Nothing | 10+
+Slut |  
+
+<br>
+
+## Android Pin-up Outfits:
+Outfit | Submission | Friendship | Exhibition
+--- | :---: | :---: | :---:
+Underwear |   |   |  
+Cowgirl |   |   |  
+Cow | 5+ |   |  
+Kitten | 5+ |   |  
+Veil |   | 18+ |  
+Slut |   |   |  
+Nude |   | 20+ | 10+
 
 <br>
 <br>
