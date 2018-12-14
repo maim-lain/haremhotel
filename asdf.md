@@ -45,6 +45,7 @@ New events added in v0.5 have been highlighted to make them easier to find.
 - [Android guide](#android-friendship-guide)
 - [Felicity & Emma guide](#felicity--emma-friendship-guide)
 - [Autumn guide](#-new---autumn-friendship-guide)
+- [Violet guide](#-new---violet-friendship-guide)
 
 <br>
 <br>
@@ -1598,3 +1599,43 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 47+ | Noon/Afternoon | Autumn's room
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW - Violet Friendship Guide:
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Any | Your room
+- Enter the code 'spinningtv' into the computer to activate her content
+
+<br>
+
+### Level 2
+Time | Location
+:---: | :---:
+Any | Violets's room
+
+<br>
+
+### Level 3
+Time | Location
+:---: | :---:
+Any | Violets's room
+
+<br>
+
+### Level 4
+Time | Location
+:---: | :---:
+Any | Violets's room
+- Talk to Violet in her room
