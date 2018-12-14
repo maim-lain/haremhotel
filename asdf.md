@@ -1,15 +1,6 @@
 <!--
 
-kali exhibition new
-emma BEAch new
-autumn lobby
-changed twin time stuff
-
 -->
-
-
-
-
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
