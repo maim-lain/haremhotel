@@ -353,7 +353,7 @@ Slut |
 
 <br>
 
-## Ashley pin-up outfits:
+## * NEW - Ashley pin-up outfits:
 Outfit | Affection
 --- | :---:
 Underwear |  
@@ -363,7 +363,7 @@ Slut |
 
 <br>
 
-## Android pin-up outfits:
+## * NEW - Android pin-up outfits:
 Outfit | Submission | Friendship | Exhibition
 --- | :---: | :---: | :---:
 Underwear |   |   |  
@@ -1608,7 +1608,7 @@ Day | Time | Location
 <br>
 <br>
 
-# * NEW - Violet Friendship Guide:
+# Violet Friendship Guide:
 
 <br>
 
@@ -1634,7 +1634,7 @@ Any | Violet's room
 
 <br>
 
-### Level 4
+### * NEW - Level 4
 Time | Location
 :---: | :---:
 Any | Violet's room
