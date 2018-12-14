@@ -3,14 +3,16 @@
 kali exhibition new
 emma BEAch new
 autumn lobby
+changed twin time stuff
 
+-->
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
 
 This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
-New events added in v0.4 have been highlighted to make them easier to find.  
+New events added in v0.5 have been highlighted to make them easier to find.  
 -Maim Lain
 
 <br>
@@ -1548,5 +1550,3 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 47+ | Noon/Afternoon | Autumn's room
-
--->
