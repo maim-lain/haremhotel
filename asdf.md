@@ -55,6 +55,7 @@ Ashley (Weekday) | Room | School | Room
 Maria | Room | Room | Room
 Android | Room | Kitchen | Room
 Felicity & Emma | Room | Room | Room
+Autumn (Weekday) | Cafe | Room | Room
 
 <br>
 <br>
