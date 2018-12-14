@@ -39,7 +39,7 @@ New events added in v0.5 have been highlighted to make them easier to find.
 - [Maria guide](#maria-friendship-guide)
 - [Android guide](#android-friendship-guide)
 - [Felicity & Emma guide](#felicity--emma-friendship-guide)
-- [Autumn guide](#autumn-friendship-guide)
+- [Autumn guide](#-new---autumn-friendship-guide)
 
 <br>
 <br>
