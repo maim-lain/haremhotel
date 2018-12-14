@@ -6,6 +6,23 @@ autumn lobby
 changed twin time stuff
 
 -->
+
+### Pinups:
+Outfit | Submission | Friendship | Exhibition
+--- | --- | --- | ---
+Bra & panties |   |   |  
+Western cowgirl |   |   |  
+Cow | 5 |   |  
+Kitten | 5 |   |  
+Veil |   | 18 |  
+Slut |   |   |  
+Nude |   | 20 | 10
+
+
+
+
+
+
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
