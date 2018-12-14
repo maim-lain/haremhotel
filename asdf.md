@@ -1049,7 +1049,7 @@ Day | Time | Location
 
 <br>
 
-### Level 4
+### * NEW - Level 4
 Day | Time | Location
 :---: | :---: | :---:
 26+ | Any | Maria's room
