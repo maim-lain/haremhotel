@@ -1461,7 +1461,7 @@ Day | Time | Location
 ### Level 16
 Day | Time | Location
 :---: | :---: | :---:
-51+ | Morning/Afternoon | Their room
+51+ | Any | Their room
 - "Peek"
 - "I didn't know you felt that way"
 
@@ -1477,7 +1477,7 @@ Day | Time | Location
 ### * NEW - Level 18
 Day | Time | Location
 :---: | :---: | :---:
-55+ | Morning/Afternoon | Hot Springs
+55+ | Any | Hot Springs
 - Take Emma shopping ($200)
 
 <br>
