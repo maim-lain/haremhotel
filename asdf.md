@@ -9,14 +9,14 @@ changed twin time stuff
 
 ### Pinups:
 Outfit | Submission | Friendship | Exhibition
---- | --- | --- | ---
+--- | :---: | :---: | :---:
 Bra & panties |   |   |  
 Western cowgirl |   |   |  
-Cow | 5 |   |  
-Kitten | 5 |   |  
-Veil |   | 18 |  
+Cow | 5+ |   |  
+Kitten | 5+ |   |  
+Veil |   | 18+ |  
 Slut |   |   |  
-Nude |   | 20 | 10
+Nude |   | 20+ | 10+
 
 
 
