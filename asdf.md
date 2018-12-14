@@ -93,6 +93,13 @@ Scene | Choice | Affection | Level req.
 4/4 | Let's have sex | 12+ | 18+
 
 <br>
+
+## Felicity Beach Scenes:
+Scene | Choice | Level req.
+:---: | --- | :---:
+1/1 | Show your tits | 17+
+
+<br>
 <br>
 <br>
 <br>
