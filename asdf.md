@@ -24,8 +24,8 @@ Outfit | Affection
 --- | :---:
 Underwear |  
 Bunny |  
-Nothing |  
-Slut | 5+
+Nothing | 10+
+Slut |  
 
 
 
