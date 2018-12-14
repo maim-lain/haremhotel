@@ -32,7 +32,7 @@ New events added in v0.5 have been highlighted to make them easier to find.
 - [Exhibition guide](#exhibition-scene-guide)
 - [Kitchen guide](#kitchen-scene-guide)
 - [Lobby guide](#lobby-scene-guide)
-- [Pin-up guide](#pinup-outfit-guide)
+- [Pin-up guide](#pin-up-outfit-guide)
 - [Shower guide](#shower-scene-guide)
 
 <br>
@@ -342,7 +342,7 @@ Android | Saturday | ✓ |   | ✓ | Nympho
 
 <br>
 
-## Kali Pin-up Outfits:
+## Kali pin-up outfits:
 Outfit | Affection
 --- | :---:
 Underwear |  
@@ -352,7 +352,7 @@ Slut |
 
 <br>
 
-## Ashley Pin-up Outfits:
+## Ashley pin-up outfits:
 Outfit | Affection
 --- | :---:
 Underwear |  
@@ -362,7 +362,7 @@ Slut |
 
 <br>
 
-## Android Pin-up Outfits:
+## Android pin-up outfits:
 Outfit | Submission | Friendship | Exhibition
 --- | :---: | :---: | :---:
 Underwear |   |   |  
