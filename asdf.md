@@ -85,7 +85,7 @@ Scene | Choice | Affection | Level req.
 
 <br>
 
-## Felicity Beach Scenes:
+## * NEW - Felicity Beach Scenes:
 Scene | Choice | Level req.
 :---: | --- | :---:
 1/1 | Show your tits | 17+
