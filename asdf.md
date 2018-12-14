@@ -19,7 +19,13 @@ Slut |   |   |
 Nude |   | 20+ | 10+
 
 
-
+### Pinups:
+Outfit | Affection
+--- | :---:
+Underwear |  
+Bunny |  
+Nothing |  
+Slut | 5+
 
 
 
