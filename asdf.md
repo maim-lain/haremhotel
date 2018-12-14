@@ -10,8 +10,8 @@ changed twin time stuff
 ### Pinups:
 Outfit | Submission | Friendship | Exhibition
 --- | :---: | :---: | :---:
-Bra & panties |   |   |  
-Western cowgirl |   |   |  
+Underwear |   |   |  
+Cowgirl |   |   |  
 Cow | 5+ |   |  
 Kitten | 5+ |   |  
 Veil |   | 18+ |  
