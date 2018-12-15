@@ -1598,6 +1598,13 @@ Day | Time | Location
 47+ | Noon/Afternoon | Autumn's room
 
 <br>
+
+### Level 8
+Day | Time | Location
+:---: | :---: | :---:
+48+ | Noon/Afternoon | Autumn's room
+
+<br>
 <br>
 <br>
 <br>
