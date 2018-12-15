@@ -1370,7 +1370,6 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 52+ | Morning/Afternoon | Hot Springs
-- "ILoveYou"
 
 <br>
 <br>
