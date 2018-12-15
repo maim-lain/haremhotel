@@ -1518,14 +1518,14 @@ Day | Time | Location
 ### * NEW - Level 17
 Day | Time | Location
 :---: | :---: | :---:
-53+ | Any | Hot Springs
+53+ | Any | Hot spring
 
 <br>
 
 ### * NEW - Level 18
 Day | Time | Location
 :---: | :---: | :---:
-55+ | Any | Hot Springs
+55+ | Any | Their room
 - Take Emma shopping ($200)
 
 <br>
