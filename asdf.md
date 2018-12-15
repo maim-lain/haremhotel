@@ -388,6 +388,7 @@ Nude |   | 20+ | 10+
 ## Shower schedule:
 Morning | Girl
 --- | ---
+Sunday | Autumn
 Monday | Clones
 Tuesday | Lin
 Wednesday | Maria
