@@ -1,6 +1,5 @@
 <!--
 
--->
 # Harem Hotel 0.5 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
@@ -1647,3 +1646,5 @@ Time | Location
 :---: | :---:
 Any | Violet's room
 - Talk to Violet in her room
+
+-->
