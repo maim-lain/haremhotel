@@ -352,12 +352,14 @@ Slut |
 <br>
 
 ## * NEW - Ashley pin-up outfits:
-Outfit | Affection
---- | :---:
-Underwear |  
-Bunny |  
-Nothing | 10+
-Slut |  
+Outfit | Friendship | Affection
+--- | :---: | :---:
+Underwear |   |  
+Schoolgirl |   |  
+Bunny |   |  
+Nurse | 23+ |  
+Nothing |   | 16+
+Slut |   |   |  
 
 <br>
 
