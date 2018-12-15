@@ -8,6 +8,7 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 
 This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
 New events added in v0.5 have been highlighted to make them easier to find.  
+[You can check out the in-game walkthrough mod for Harem Hotel here.](https://www.patreon.com/posts/22433174)  
 -Maim Lain
 
 <br>
