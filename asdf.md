@@ -1369,7 +1369,7 @@ Day | Time | Location
 ### * NEW! - Level 22
 Day | Time | Location
 :---: | :---: | :---:
-52+ | Morning/Afternoon | Hot Springs
+52+ | Morning/Afternoon | Hot spring
 
 <br>
 <br>
