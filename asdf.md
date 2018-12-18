@@ -346,7 +346,7 @@ Outfit | Affection
 --- | :---:
 Underwear |  
 Bunny |  
-Nothing | 10+
+Nothing | 16+
 Slut |  
 
 <br>
@@ -354,7 +354,6 @@ Slut |
 ## * NEW - Ashley pin-up outfits:
 Outfit | Friendship | Affection
 --- | :---: | :---:
-Underwear |   |  
 Schoolgirl |   |  
 Bunny |   |  
 Nurse | 23+ |  
