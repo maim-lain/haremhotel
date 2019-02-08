@@ -1692,6 +1692,55 @@ Day | Time | Location
 <br>
 <br>
 
+# * NEW - Moon Friendship Guide:
+
+<br>
+
+### Level 0
+Time | Location
+:---: | :---:
+Any | Bar
+- When you buy the bar upgrade Moon will join the hotel
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Any | Bar
+- Order a drink from the bartender to trigger her event
+
+<br>
+
+### Level 2
+Time | Location
+:---: | :---:
+Any | Bar
+
+<br>
+
+### Level 3
+Time | Location
+:---: | :---:
+Any | Bar
+- If Maria's friendship is level 22 the event won't trigger, her friendship must be below or above 22
+- After completing the event you can talk to the bartender on the weekend to see the scene with the girl you didn't choose
+
+<br>
+
+### Level 4
+Time | Location
+:---: | :---:
+Any | Bar
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # * NEW - Lucy Friendship Guide:
 
 <br>
