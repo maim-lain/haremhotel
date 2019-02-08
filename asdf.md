@@ -203,6 +203,16 @@ Scene | Choice | Obedience
 4/4 | Cowgirl Doggy | 13+
 
 <br>
+
+## * NEW - Jin Dungeon Scenes:
+Scene | Choice
+:---: | ---
+1/3 | Deepthroat
+2/3 | Side Fuck
+3/3 | Restrained Doggy
+- To buy Jin you need $1,000 and Lin's friendship must be 14+
+
+<br>
 <br>
 <br>
 <br>
