@@ -415,6 +415,8 @@ Kali | Saturday | 10+ | 6+ | 5+
 Ashley | Friday | 6+ | 6+ | 5+
 Maria | Wednesday |  | 6+ |  
 Android | Thursday | 18+ |  |  
+Emma | Monday | 19+ |  |  
+Felicity | Monday | 17+ |  |  
 
 <br>
 <br>
