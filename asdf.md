@@ -1741,33 +1741,6 @@ Any | Bar
 <br>
 <br>
 
-# * NEW - Lucy Friendship Guide:
-
-<br>
-
-### Level 0
-Time | Location
-:---: | :---:
-Morning | Hot spring
-- Kail's friendship must be 23 or higher
-- The event becomes available two days after completing Kali's level 22 event
-
-<br>
-
-### Level 1
-Time | Location
-:---: | :---:
-Any | Kali's room
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # * NEW - Ellen Friendship Guide:
 
 <br>
@@ -1790,6 +1763,32 @@ Any | Your PC
 Time | Location
 :---: | :---:
 Any | Laundry room
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW - Lucy Friendship Guide:
+
+<br>
+
+### Level 0
+Time | Location
+:---: | :---:
+Morning | Hot spring
+- Kail's friendship must be 23 or higher
+- The event becomes available two days after completing Kali's level 22 event
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Any | Kali's room
 
 <br>
 <br>
