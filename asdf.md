@@ -1,4 +1,3 @@
-<!--
 
 # Harem Hotel 0.6 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
@@ -35,8 +34,8 @@ New events added in v0.6 have been highlighted to make them easier to find.
 - [Maria guide](#maria-friendship-guide)
 - [Android guide](#android-friendship-guide)
 - [Felicity & Emma guide](#felicity--emma-friendship-guide)
-- [Autumn guide](#-new---autumn-friendship-guide)
-- [Violet guide](#violet-friendship-guide)
+- [Autumn guide](autumn-friendship-guide)
+- [Side characters guide](#side-characters)
 
 <br>
 <br>
@@ -1692,6 +1691,10 @@ Day | Time | Location
 <br>
 <br>
 
+# Side Characters
+
+<br>
+
 # * NEW - Moon Friendship Guide:
 
 <br>
@@ -1866,4 +1869,4 @@ Time | Location
 Any | Violet's room
 - Talk to Violet in her room
 
--->
+
