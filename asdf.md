@@ -1201,19 +1201,25 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 20
+### Level 20
 Day | Time | Location
 :---: | :---: | :---:
 47+ | Any | Maria's room
 
 <br>
 
-### * NEW! - Level 21
+### Level 21
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Any | Maria's room
-- Some scenes may be temporarily locked after this event, ensure you're ready before continuing
 - "If that's what you need"
+
+<br>
+
+### * NEW! - Level 22
+Day | Time | Location
+:---: | :---: | :---:
++ | Any | Your room
 
 <br>
 <br>
@@ -1382,7 +1388,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 21
+### Level 21
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Morning/Evening | Android's room
@@ -1390,10 +1396,17 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 22
+### Level 22
 Day | Time | Location
 :---: | :---: | :---:
 52+ | Morning/Evening | Hot spring
+
+<br>
+
+### * NEW! - Level 23
+Day | Time | Location
+:---: | :---: | :---:
++ | Morning/Evening | Android's room
 
 <br>
 <br>
@@ -1539,20 +1552,29 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 17
+### Level 17
 Day | Time | Location
 :---: | :---: | :---:
 53+ | Any | Hot spring
 
 <br>
 
-### * NEW - Level 18
+### Level 18
 Day | Time | Location
 :---: | :---: | :---:
 55+ | Any | Their room
 - Take Emma shopping ($200)
 
 <br>
+
+### * NEW - Level 19
+Day | Time | Location
+:---: | :---: | :---:
++ | Morning | Your room
+- "Compared to you?"
+- "Cats"
+
+<br>
 <br>
 <br>
 <br>
@@ -1560,7 +1582,7 @@ Day | Time | Location
 <br>
 <br>
 
-# * NEW - Autumn Friendship Guide:
+# Autumn Friendship Guide:
 
 <br>
 
@@ -1627,6 +1649,13 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 48+ | Noon/Evening | Autumn's room
+
+<br>
+
+### * NEW - Level 9
+Day | Time | Location
+:---: | :---: | :---:
++ | Noon/Evening | Autumn's room
 
 <br>
 <br>
