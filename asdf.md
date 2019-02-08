@@ -1,12 +1,12 @@
 <!--
 
-# Harem Hotel 0.5 Walkthrough
+# Harem Hotel 0.6 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
 
 This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
-New events added in v0.5 have been highlighted to make them easier to find.  
+New events added in v0.6 have been highlighted to make them easier to find.  
 [You can check out the in-game walkthrough mod for Harem Hotel here.](https://www.patreon.com/posts/22433174)  
 -Maim Lain
 
@@ -1655,7 +1655,80 @@ Day | Time | Location
 ### * NEW - Level 9
 Day | Time | Location
 :---: | :---: | :---:
-+ | Noon/Evening | Autumn's room
++ | Morning | Autumn's room
+- It needs to be a weekday to trigger the event
+
+<br>
+
+### * NEW - Level 10
+Day | Time | Location
+:---: | :---: | :---:
++ | Morning | Your room
+
+<br>
+
+### * NEW - Level 11
+Day | Time | Location
+:---: | :---: | :---:
++ | Any | Your room
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW - Lucy Friendship Guide:
+
+<br>
+
+### Level 0
+Time | Location
+:---: | :---:
+Morning | Hot spring
+- Kail's friendship must be 23 or higher
+- The event becomes available two days after completing Kali's level 22 event
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Any | Kali's room
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW - Ellen Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+6+ | Morning | Your room
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Any | Your PC
+
+<br>
+
+### Level 2
+Time | Location
+:---: | :---:
+Any | Laundry room
 
 <br>
 <br>
