@@ -1772,6 +1772,18 @@ Noon | Ashley's school
 <br>
 <br>
 
+# * NEW - Sarah Guide:
+- Sarah hangs out at the bar on Saturdays
+- Talk to her anytime she is at the bar to have sex with her
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Violet Friendship Guide:
 
 <br>
