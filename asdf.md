@@ -1738,6 +1738,30 @@ Any | Laundry room
 <br>
 <br>
 
+# * NEW - Kate Friendship Guide:
+
+<br>
+
+### Level 0
+Day | Time | Location
+:---: | :---: | :---:
+20+ | Noon | Ashley's school
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Noon | Ashley's school
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Violet Friendship Guide:
 
 <br>
