@@ -84,7 +84,7 @@ Scene | Choice | Affection | Level req.
 
 <br>
 
-## * NEW - Felicity Beach Scenes:
+## Felicity Beach Scenes:
 Scene | Choice | Level req.
 :---: | --- | :---:
 1/1 | Show your tits | 17+
@@ -360,7 +360,7 @@ Slut |
 
 <br>
 
-## * NEW - Ashley pin-up outfits:
+## Ashley pin-up outfits:
 Outfit | Friendship | Affection
 --- | :---: | :---:
 Schoolgirl |   |  
@@ -371,7 +371,7 @@ Slut |   |   |
 
 <br>
 
-## * NEW - Android pin-up outfits:
+## Android pin-up outfits:
 Outfit | Submission | Friendship | Exhibition
 --- | :---: | :---: | :---:
 Underwear |   |   |  
