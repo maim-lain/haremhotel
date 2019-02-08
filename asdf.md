@@ -591,19 +591,26 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 22
+### Level 22
 Day | Time | Location
 :---: | :---: | :---:
 45+ | Any | Lobby
 
 <br>
 
-### * NEW! - Level 23
+### Level 23
 Day | Time | Location
 :---: | :---: | :---:
 48+ | Any | Lobby
 - Meet these requirements: Obedience = 20, Blowjobs = 10, Sex = 11, Anal = 10
 - Talk to Ellen to start the challenge
+
+<br>
+
+### * NEW! - Level 24
+Day | Time | Location
+:---: | :---: | :---:
++ | Any | Your room
 
 <br>
 <br>
@@ -777,7 +784,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 20
+### Level 20
 Day | Time | Location
 :---: | :---: | :---:
 45+ | Morning/Noon | Kali's room
@@ -786,10 +793,18 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 21
+### Level 21
 Day | Time | Location
 :---: | :---: | :---:
 48+ | Morning/Noon | Kali's room
+
+<br>
+
+### * NEW! - Level 22
+Day | Time | Location
+:---: | :---: | :---:
++ | Any | Kali's room
+- "Absolutely!"
 
 <br>
 <br>
@@ -997,7 +1012,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 25
+### Level 25
 Day | Time | Location
 :---: | :---: | :---:
 47+ | Any | Ashley's room
@@ -1005,10 +1020,17 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 26
+### Level 26
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Any | Ashley's room
+
+<br>
+
+### * NEW! - Level 27
+Day | Time | Location
+:---: | :---: | :---:
++ | Any | Ashley's room
 
 <br>
 <br>
