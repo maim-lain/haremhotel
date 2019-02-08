@@ -43,7 +43,7 @@ New events added in v0.5 have been highlighted to make them easier to find.
 <br>
 
 ### Location schedule:
-Girl | Morning | Noon | Afternoon
+Girl | Morning | Noon | Evening
 --- | --- | --- | ---
 Lin | Kitchen | Kitchen | Room
 Lin (Wednesday) | Room | Room | Room
@@ -220,7 +220,7 @@ Sunday | Clones | Noon
 Monday | Ashley | Morning
 Tuesday | Android | Morning
 Wednesday | Kali | Morning
-Friday | Lin | Afternoon
+Friday | Lin | Evening
 Saturday | Maria | Noon
 
 <br>
@@ -228,7 +228,7 @@ Saturday | Maria | Noon
 ## Utility Room Scenes:
 Girl | Day | Time | Exhibition | Sluttiness
 --- | --- | --- | :---: | :---:
-Lin | Friday | Afternoon  | 10+ | 10+
+Lin | Friday | Evening  | 10+ | 10+
 Kali | Wednesday | Morning | 10+ | 10+
 Ashley | Monday | Morning | 10+ | 10+
 Maria | Saturday | Noon | 10+ | 10+
@@ -309,7 +309,7 @@ Take off everything | 7+ | 1 | Yes |
 <br>
 
 ## Lobby schedule:
-Day | Girl | Morning | Noon | Afternoon
+Day | Girl | Morning | Noon | Evening
 --- | --- | :---: | :---: | :---:
 Sunday | Lin |   | ✓ | ✓
 Monday | Kali | ✓ | ✓ |  
@@ -322,7 +322,7 @@ Saturday | Android | ✓ |   | ✓
 <br>
 
 ## Lobby scenes:
-Girl | Day | Morning | Noon | Afternoon | Req. trait for scene
+Girl | Day | Morning | Noon | Evening | Req. trait for scene
 --- | --- | :---: | :---: | :---: | :---:
 Lin | Sunday |   | ✓ | ✓ | Professional Cocksucker
 Kali | Monday | ✓ | ✓ |   | Nympho
@@ -540,7 +540,7 @@ Day | Time | Location
 ### Level 15
 Day | Time | Location
 :---: | :---: | :---:
-25+ | Afternoon | Lin's room
+25+ | Evening | Lin's room
 
 <br>
 
@@ -570,7 +570,7 @@ Day | Time | Location
 ### Level 19
 Day | Time | Location
 :---: | :---: | :---:
-35+ | Afternoon | Lin's room
+35+ | Evening | Lin's room
 
 <br>
 
@@ -585,7 +585,7 @@ Day | Time | Location
 ### Level 21
 Day | Time | Location
 :---: | :---: | :---:
-41+ | Afternoon | Lin's room
+41+ | Evening | Lin's room
 - If Lin's Exhibition level is 10 or higher you will get extra scenes
 - "Take his challenge"
 
@@ -773,7 +773,7 @@ Day | Time | Location
 ### Level 19
 Day | Time | Location
 :---: | :---: | :---:
-42+ | Afternoon | Kali's room
+42+ | Evening | Kali's room
 
 <br>
 
@@ -812,7 +812,7 @@ Day | Time | Location
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
-7+ | Morning/Afternoon | Ashley's room
+7+ | Morning/Evening | Ashley's room
 
 <br>
 
@@ -826,7 +826,7 @@ Day | Time | Location
 ### Level 3
 Day | Time | Location
 :---: | :---: | :---:
-10+ | Morning/Afternoon | Ashley's room
+10+ | Morning/Evening | Ashley's room
 - Pick the 2nd option if you want to skip the very long movie 
 
 <br>
@@ -834,21 +834,21 @@ Day | Time | Location
 ### Level 4
 Day | Time | Location
 :---: | :---: | :---:
-11+ | Morning/Afternoon | Ashley's room
+11+ | Morning/Evening | Ashley's room
 
 <br>
 
 ### Level 5
 Day | Time | Location
 :---: | :---: | :---:
-14+ | Morning/Afternoon | Kitchen
+14+ | Morning/Evening | Kitchen
 
 <br>
 
 ### Level 6
 Day | Time | Location
 :---: | :---: | :---:
-15+ | Morning/Afternoon | Ashley's room
+15+ | Morning/Evening | Ashley's room
 - "Cum Outside"
 
 <br>
@@ -864,7 +864,7 @@ Day | Time | Location
 ### Level 8
 Day | Time | Location
 :---: | :---: | :---:
-18+ | Morning/Afternoon | Ashley's room
+18+ | Morning/Evening | Ashley's room
 - "Yep, that's me. Your boyfriend."
 
 <br>
@@ -879,7 +879,7 @@ Day | Time | Location
 ### Level 10
 Day | Time | Location
 :---: | :---: | :---:
-24+ | Morning/Afternoon | Ashley's room
+24+ | Morning/Evening | Ashley's room
 
 <br>
 
@@ -959,7 +959,7 @@ Day | Time | Location
 ### Level 20
 Day | Time | Location
 :---: | :---: | :---:
-37+ | Morning/Afternoon | Ashley's room
+37+ | Morning/Evening | Ashley's room
 - If Ashley's Exhibition level is 10 or higher she will be topless
 - "You"
 - When she asks about kids choose any except the first two choices
@@ -971,7 +971,7 @@ Day | Time | Location
 ### Level 21
 Day | Time | Location
 :---: | :---: | :---:
-38+ | Morning/Afternoon | Ashley's room
+38+ | Morning/Evening | Ashley's room
 
 <br>
 
@@ -1222,14 +1222,14 @@ Day | Time | Location
 ### Level 2
 Day | Time | Location
 :---: | :---: | :---:
-27+ | Morning/Afternoon | Android's room
+27+ | Morning/Evening | Android's room
 
 <br>
 
 ### Level 3
 Day | Time | Location
 :---: | :---: | :---:
-28+ | Morning/Afternoon | Android's room
+28+ | Morning/Evening | Android's room
 - Force her
 
 <br>
@@ -1237,14 +1237,14 @@ Day | Time | Location
 ### Level 4
 Day | Time | Location
 :---: | :---: | :---:
-29+ | Morning/Afternoon | Android's room
+29+ | Morning/Evening | Android's room
 
 <br>
 
 ### Level 5
 Day | Time | Location
 :---: | :---: | :---:
-30+ | Morning/Afternoon | Android's room
+30+ | Morning/Evening | Android's room
 
 <br>
 
@@ -1273,28 +1273,28 @@ Day | Time | Location
 ### Level 9
 Day | Time | Location
 :---: | :---: | :---:
-34+ | Morning/Afternoon | Android's room
+34+ | Morning/Evening | Android's room
 
 <br>
 
 ### Level 10
 Day | Time | Location
 :---: | :---: | :---:
-35+ | Morning/Afternoon | Android's room
+35+ | Morning/Evening | Android's room
 
 <br>
 
 ### Level 11
 Day | Time | Location
 :---: | :---: | :---:
-36+ | Morning/Afternoon | Android's room
+36+ | Morning/Evening | Android's room
 
 <br>
 
 ### Level 12
 Day | Time | Location
 :---: | :---: | :---:
-37+ | Morning/Afternoon | Android's room
+37+ | Morning/Evening | Android's room
 - "Jump in"
 
 <br>
@@ -1317,7 +1317,7 @@ Day | Time | Location
 ### Level 15
 Day | Time | Location
 :---: | :---: | :---:
-39+ | Morning/Afternoon | Android's room
+39+ | Morning/Evening | Android's room
 - Give the Android the Breast Expansion Module ($50)
 
 <br>
@@ -1332,14 +1332,14 @@ Day | Time | Location
 ### Level 17
 Day | Time | Location
 :---: | :---: | :---:
-41+ | Morning/Afternoon | Android's room
+41+ | Morning/Evening | Android's room
 
 <br>
 
 ### Level 18
 Day | Time | Location
 :---: | :---: | :---:
-43+ | Morning/Afternoon | Android's room
+43+ | Morning/Evening | Android's room
 - If your Android's Exhibition level is 10 or higher you can ask her to wear no clothes
 
 <br>
@@ -1347,7 +1347,7 @@ Day | Time | Location
 ### Level 19
 Day | Time | Location
 :---: | :---: | :---:
-45+ | Morning/Afternoon | Android's room
+45+ | Morning/Evening | Android's room
 - If your Android's Exhibition level is 10 or higher you can ask her to change clothes in public
 - "Why don't you change right here?"
 
@@ -1356,14 +1356,14 @@ Day | Time | Location
 ### Level 20
 Day | Time | Location
 :---: | :---: | :---:
-47+ | Morning/Afternoon | Android's room
+47+ | Morning/Evening | Android's room
 
 <br>
 
 ### * NEW! - Level 21
 Day | Time | Location
 :---: | :---: | :---:
-50+ | Morning/Afternoon | Android's room
+50+ | Morning/Evening | Android's room
 - "ILoveYou"
 
 <br>
@@ -1371,7 +1371,7 @@ Day | Time | Location
 ### * NEW! - Level 22
 Day | Time | Location
 :---: | :---: | :---:
-52+ | Morning/Afternoon | Hot spring
+52+ | Morning/Evening | Hot spring
 
 <br>
 <br>
@@ -1553,14 +1553,14 @@ Day | Time | Location
 ### Level 1
 Day | Time | Location
 :---: | :---: | :---:
-40+ | Noon/Afternoon | Autumn's room
+40+ | Noon/Evening | Autumn's room
 
 <br>
 
 ### Level 2
 Day | Time | Location
 :---: | :---: | :---:
-41+ | Noon/Afternoon | Autumn's room
+41+ | Noon/Evening | Autumn's room
 - If Ashley's Exhibition is at least 3 there will be extra dialog -> "This is my first time here"
 - "I take pride in.."
 
@@ -1569,42 +1569,42 @@ Day | Time | Location
 ### Level 3
 Day | Time | Location
 :---: | :---: | :---:
-43+ | Noon/Afternoon | Autumn's room
+43+ | Noon/Evening | Autumn's room
 
 <br>
 
 ### Level 4
 Day | Time | Location
 :---: | :---: | :---:
-44+ | Noon/Afternoon | Kitchen
+44+ | Noon/Evening | Kitchen
 
 <br>
 
 ### Level 5
 Day | Time | Location
 :---: | :---: | :---:
-45+ | Noon/Afternoon | Laundry room
+45+ | Noon/Evening | Laundry room
 
 <br>
 
 ### Level 6
 Day | Time | Location
 :---: | :---: | :---:
-46+ | Noon/Afternoon | Autumn's room
+46+ | Noon/Evening | Autumn's room
 
 <br>
 
 ### Level 7
 Day | Time | Location
 :---: | :---: | :---:
-47+ | Noon/Afternoon | Autumn's room
+47+ | Noon/Evening | Autumn's room
 
 <br>
 
 ### Level 8
 Day | Time | Location
 :---: | :---: | :---:
-48+ | Noon/Afternoon | Autumn's room
+48+ | Noon/Evening | Autumn's room
 
 <br>
 <br>
