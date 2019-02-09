@@ -1864,7 +1864,7 @@ Any | Violet's room
 
 <br>
 
-### * NEW - Level 4
+### Level 4
 Time | Location
 :---: | :---:
 Any | Violet's room
