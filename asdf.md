@@ -1588,7 +1588,7 @@ Day | Time | Location
 ### * NEW - Level 19
 Day | Time | Location
 :---: | :---: | :---:
-+57 | Morning | Your room
+57+ | Morning | Your room
 - "Compared to you?"
 - "Cats"
 
@@ -1673,7 +1673,7 @@ Day | Time | Location
 ### * NEW - Level 9
 Day | Time | Location
 :---: | :---: | :---:
-+50 | Morning | Autumn's room
+50+ | Morning | Autumn's room
 - It needs to be a weekday to trigger the event
 
 <br>
@@ -1681,14 +1681,14 @@ Day | Time | Location
 ### * NEW - Level 10
 Day | Time | Location
 :---: | :---: | :---:
-+50 | Morning | Your room
+50+ | Morning | Your room
 
 <br>
 
 ### * NEW - Level 11
 Day | Time | Location
 :---: | :---: | :---:
-+52 | Any | Your room
+52+ | Any | Your room
 
 <br>
 <br>
