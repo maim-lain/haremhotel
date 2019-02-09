@@ -1776,7 +1776,7 @@ Any | Laundry room
 Time | Location
 :---: | :---:
 Morning | Hot spring
-- You need the "truestory" code activated to do Lucy's content
+- Enter the code 'truestory' into the computer to activate her content
 - Kail's friendship must be 23 or higher
 - The event becomes available two days after completing Kali's level 22 event
 
