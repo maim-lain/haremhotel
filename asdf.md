@@ -1730,13 +1730,6 @@ Any | Bar
 - After completing the event you can talk to the bartender on the weekend to see the scene with the girl you didn't choose
 
 <br>
-
-### Level 4
-Time | Location
-:---: | :---:
-Any | Bar
-
-<br>
 <br>
 <br>
 <br>
