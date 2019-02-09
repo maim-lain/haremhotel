@@ -621,7 +621,7 @@ Day | Time | Location
 ### * NEW! - Level 24
 Day | Time | Location
 :---: | :---: | :---:
-+ | Any | Your room
+50+ | Any | Your room
 
 <br>
 <br>
@@ -814,7 +814,7 @@ Day | Time | Location
 ### * NEW! - Level 22
 Day | Time | Location
 :---: | :---: | :---:
-+ | Morning/Noon | Kali's room
+50+ | Morning/Noon | Kali's room
 - "Absolutely!"
 
 <br>
@@ -1041,7 +1041,14 @@ Day | Time | Location
 ### * NEW! - Level 27
 Day | Time | Location
 :---: | :---: | :---:
-+ | Any | Ashley's room
+51+ | Any | Ashley's room
+
+<br>
+
+### * NEW! - Level 28
+Day | Time | Location
+:---: | :---: | :---:
+53+ | Morning | Your room
 
 <br>
 <br>
@@ -1230,7 +1237,7 @@ Day | Time | Location
 ### * NEW! - Level 22
 Day | Time | Location
 :---: | :---: | :---:
-+ | Any | Your room
+55+ | Any | Your room
 
 <br>
 <br>
@@ -1417,7 +1424,7 @@ Day | Time | Location
 ### * NEW! - Level 23
 Day | Time | Location
 :---: | :---: | :---:
-+ | Morning/Evening | Android's room
+55+ | Morning/Evening | Android's room
 
 <br>
 <br>
@@ -1581,7 +1588,7 @@ Day | Time | Location
 ### * NEW - Level 19
 Day | Time | Location
 :---: | :---: | :---:
-+ | Morning | Your room
++57 | Morning | Your room
 - "Compared to you?"
 - "Cats"
 
@@ -1666,7 +1673,7 @@ Day | Time | Location
 ### * NEW - Level 9
 Day | Time | Location
 :---: | :---: | :---:
-+ | Morning | Autumn's room
++50 | Morning | Autumn's room
 - It needs to be a weekday to trigger the event
 
 <br>
@@ -1674,14 +1681,14 @@ Day | Time | Location
 ### * NEW - Level 10
 Day | Time | Location
 :---: | :---: | :---:
-+ | Morning | Your room
++50 | Morning | Your room
 
 <br>
 
 ### * NEW - Level 11
 Day | Time | Location
 :---: | :---: | :---:
-+ | Any | Your room
++52 | Any | Your room
 
 <br>
 <br>
