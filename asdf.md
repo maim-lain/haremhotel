@@ -814,7 +814,7 @@ Day | Time | Location
 ### * NEW! - Level 22
 Day | Time | Location
 :---: | :---: | :---:
-+ | Any | Kali's room
++ | Morning/Noon | Kali's room
 - "Absolutely!"
 
 <br>
