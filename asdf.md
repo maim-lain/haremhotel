@@ -1314,6 +1314,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 34+ | Noon | Kitchen
+- Lin's friendship must be 11 or higher
 
 <br>
 
@@ -1575,6 +1576,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 53+ | Any | Hot spring
+- You need to visit the twin's room first, then go to the hot spring
 
 <br>
 
