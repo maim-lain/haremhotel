@@ -1,12 +1,10 @@
-<!--
-
 # Harem Hotel 0.6 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
 
 This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
-New events added in v0.6 have been highlighted to make them easier to find.  
+New events added in v0.7 have a note to make them easier to find.  
 [You can check out the in-game walkthrough mod for Harem Hotel here.](https://www.patreon.com/posts/22433174)  
 -Maim Lain
 
@@ -614,15 +612,25 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 48+ | Any | Lobby
-- Meet these requirements: Obedience = 20, Blowjobs = 10, Sex = 11, Anal = 10
+- Meet these requirements: Obedience = 20, Blowjobs = 10, Sex = 10, Anal = 10
 - Talk to Ellen to start the challenge
 
 <br>
 
-### * NEW! - Level 24
+### Level 24
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Any | Your room
+
+<br>
+
+### * NEW! - Level 25
+Day | Time | Location
+:---: | :---: | :---:
+52+ | Morning/Noon | Kitchen
+- Meet these requirements: Sex with Lin = 10, Sluttines = 10
+- If you meet the above requirements you can unlock two extra scenes for the event
+- If you choose 'Blowjob' there's a random chance for Maria to also join in the event
 
 <br>
 <br>
@@ -1872,5 +1880,3 @@ Time | Location
 :---: | :---:
 Any | Violet's room
 - Talk to Violet in her room
-
--->
