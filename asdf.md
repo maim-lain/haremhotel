@@ -1675,12 +1675,27 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 19
+### Level 19
 Day | Time | Location
 :---: | :---: | :---:
 57+ | Morning | Your room
 - "Compared to you?"
 - "Cats"
+
+<br>
+
+### * NEW - Level 20
+Day | Time | Location
+:---: | :---: | :---:
+59+ | Any | Kitchen
+- "If you're going to wear that..."
+
+<br>
+
+### * NEW - Level 21
+Day | Time | Location
+:---: | :---: | :---:
+60+ | Any | Kitchen
 
 <br>
 <br>
@@ -1760,7 +1775,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 9
+### Level 9
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Morning | Autumn's room
@@ -1768,17 +1783,31 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 10
+### Level 10
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Morning | Your room
 
 <br>
 
-### * NEW - Level 11
+### Level 11
 Day | Time | Location
 :---: | :---: | :---:
 52+ | Any | Your room
+
+<br>
+
+### * NEW - Level 12
+Day | Time | Location
+:---: | :---: | :---:
+53+ | Morning | Your room
+
+<br>
+
+### * NEW - Level 13
+Day | Time | Location
+:---: | :---: | :---:
+55+ | Any | Autumn's room
 
 <br>
 <br>
@@ -1792,7 +1821,7 @@ Day | Time | Location
 
 <br>
 
-# * NEW - Moon Friendship Guide:
+# Bar Events Guide:
 
 <br>
 
@@ -1825,6 +1854,35 @@ Time | Location
 Any | Bar
 - If Maria's friendship is level 22 the event won't trigger, her friendship must be below or above 22
 - After completing the event you can talk to the bartender on the weekend to see the scene with the girl you didn't choose
+
+<br>
+
+### * NEW! - Level 4
+Time | Location
+:---: | :---:
+Evening | Bar (weekday)
+
+<br>
+
+### * NEW! - Level 5
+Time | Location
+:---: | :---:
+Evening | Bar (weekday)
+
+<br>
+
+### * NEW! - Level 6
+Time | Location
+:---: | :---:
+Evening | Bar
+
+<br>
+
+### * NEW! - Level 7
+Time | Location
+:---: | :---:
+Any | Bar
+- Keep spanking Moon to see the rest of her scenes
 
 <br>
 <br>
