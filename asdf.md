@@ -84,9 +84,10 @@ Scene | Choice | Affection | Level req.
 <br>
 
 ## Felicity Beach Scenes:
-Scene | Choice | Level req.
-:---: | --- | :---:
-1/1 | Show your tits | 17+
+Scene | Choice | Affection | Level req.
+:---: | --- | :---: | :---:
+1/2 | Show your tits | 7+ | 17+
+2/2 | Naked cat walk | 7+ | 17+
 
 <br>
 <br>
@@ -202,7 +203,7 @@ Scene | Choice | Obedience
 
 <br>
 
-## * NEW - Jin Dungeon Scenes:
+## Jin Dungeon Scenes:
 Scene | Choice
 :---: | ---
 1/3 | Deepthroat
@@ -349,6 +350,16 @@ Android | Saturday | ✓ |   | ✓ | Nympho
 
 <br>
 
+## * NEW! - Lin pin-up outfits:
+Outfit | None
+--- | :---:
+Maid | -
+Leaf | -
+Heart | -
+Slut | -
+
+<br>
+
 ## Kali pin-up outfits:
 Outfit | Affection
 --- | :---:
@@ -367,6 +378,16 @@ Bunny |   |
 Nurse | 23+ |  
 Nothing |   | 16+
 Slut |   |   |  
+
+<br>
+
+## * NEW! - Maria pin-up outfits:
+Outfit | None
+--- | :---:
+Lingerie | -
+Bunny suit | -
+Succubus | -
+Slut | -
 
 <br>
 
