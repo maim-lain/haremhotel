@@ -628,7 +628,7 @@ Day | Time | Location
 Day | Time | Location
 :---: | :---: | :---:
 52+ | Morning/Noon | Kitchen
-- Meet these requirements: Sex with Lin = 10, Sluttines = 10
+- Meet these requirements: Sex with Lin = 10, Sluttiness = 10
 - If you meet the above requirements you can unlock two extra scenes for the event
 - If you choose 'Blowjob' there's a random chance for Maria to also join in the event
 
@@ -820,11 +820,27 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 22
+### Level 22
 Day | Time | Location
 :---: | :---: | :---:
 50+ | Morning/Noon | Kali's room
 - "Absolutely!"
+
+<br>
+
+### * NEW! - Level 23
+Day | Time | Location
+:---: | :---: | :---:
+52+ | Noon | Kali's and Maria's room
+- Visit Kali's room and spy on her
+- If you chose to fulfill Kali's fetish, visit Maria's room on a weekday at noon
+
+<br>
+
+### * NEW! - Level 24
+Day | Time | Location
+:---: | :---: | :---:
+53+ | Morning | Your room
 
 <br>
 <br>
