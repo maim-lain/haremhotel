@@ -1,4 +1,4 @@
-# Harem Hotel 0.6 Walkthrough
+# Harem Hotel 0.7.2 Walkthrough
 https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](https://www.patreon.com/maimlain/overview)
 
 <br>
@@ -1063,17 +1063,31 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 27
+### Level 27
 Day | Time | Location
 :---: | :---: | :---:
 51+ | Any | Ashley's room
 
 <br>
 
-### * NEW! - Level 28
+### Level 28
 Day | Time | Location
 :---: | :---: | :---:
 53+ | Morning | Your room
+
+<br>
+
+### * NEW! - Level 29
+Day | Time | Location
+:---: | :---: | :---:
+55+ | Any | Ashley's room
+
+<br>
+
+### * NEW! - Level 30
+Day | Time | Location
+:---: | :---: | :---:
+57+ | Any | Ashley's room
 
 <br>
 <br>
