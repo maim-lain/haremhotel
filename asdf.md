@@ -2015,6 +2015,42 @@ Any | Sanctuary
 <br>
 <br>
 
+# * NEW! - Ann Friendship Guide:
+
+<br>
+
+### Level 0
+Time | Location
+:---: | :---:
+Any | Your PC
+- Complete Lin's level 25 event then purchase Ann from the online store ($2,000)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# * NEW! - Sylvia Friendship Guide:
+
+<br>
+
+### Level 0
+Time | Location
+:---: | :---:
+Any | Your PC
+- Complete Lin's level 25 event then purchase Sylvia from the online store ($7,500)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Sarah Guide:
 - Sarah hangs out at the bar on Saturdays
 - Talk to her anytime she is at the bar to have sex with her
