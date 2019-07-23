@@ -1684,7 +1684,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 20
+### * NEW! - Level 20
 Day | Time | Location
 :---: | :---: | :---:
 59+ | Any | Kitchen
@@ -1692,7 +1692,7 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 21
+### * NEW! - Level 21
 Day | Time | Location
 :---: | :---: | :---:
 60+ | Any | Kitchen
@@ -1797,14 +1797,14 @@ Day | Time | Location
 
 <br>
 
-### * NEW - Level 12
+### * NEW! - Level 12
 Day | Time | Location
 :---: | :---: | :---:
 53+ | Morning | Your room
 
 <br>
 
-### * NEW - Level 13
+### * NEW! - Level 13
 Day | Time | Location
 :---: | :---: | :---:
 55+ | Any | Autumn's room
@@ -1892,7 +1892,7 @@ Any | Bar
 <br>
 <br>
 
-# * NEW - Ellen Friendship Guide:
+# Ellen Friendship Guide:
 
 <br>
 
@@ -1923,7 +1923,7 @@ Any | Laundry room
 <br>
 <br>
 
-# * NEW - Lucy Friendship Guide:
+# Lucy Friendship Guide:
 
 <br>
 
@@ -1950,7 +1950,7 @@ Any | Kali's room
 <br>
 <br>
 
-# * NEW - Kate Friendship Guide:
+# Kate Friendship Guide:
 
 <br>
 
@@ -1967,6 +1967,13 @@ Time | Location
 Noon | Ashley's school
 
 <br>
+
+### * NEW! - Level 2
+Time | Location
+:---: | :---:
+Any | Lobby
+
+<br>
 <br>
 <br>
 <br>
@@ -1974,7 +1981,41 @@ Noon | Ashley's school
 <br>
 <br>
 
-# * NEW - Sarah Guide:
+# * NEW! - Nia Friendship Guide:
+
+<br>
+
+### Level 0
+Time | Location
+:---: | :---:
+Any | Your PC
+- Complete Lin's level 25 event then purchase Nia from the online store ($550)
+
+<br>
+
+### Level 1
+Time | Location
+:---: | :---:
+Any | Sanctuary
+- Purchase Nia's supplies from the online store ($100)
+
+<br>
+
+### Level 2
+Time | Location
+:---: | :---:
+Any | Sanctuary
+- Purchase Sylvia from the online store ($7,500)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Sarah Guide:
 - Sarah hangs out at the bar on Saturdays
 - Talk to her anytime she is at the bar to have sex with her
 
