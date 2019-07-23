@@ -4,7 +4,6 @@ https://www.patreon.com/Runey &nbsp;&nbsp;|&nbsp;&nbsp; [Written by Maim Lain](h
 <br>
 
 This walkthrough was created as a reward for $20+ patrons. Thanks for supporting development of the game!  
-New events added in v0.7 have a note to make them easier to find.  
 [You can check out the in-game walkthrough mod for Harem Hotel here.](https://www.patreon.com/posts/22433174)  
 -Maim Lain
 
@@ -1294,10 +1293,24 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 22
+### Level 22
 Day | Time | Location
 :---: | :---: | :---:
 55+ | Any | Your room
+
+<br>
+
+### * NEW! - Level 23
+Day | Time | Location
+:---: | :---: | :---:
+56+ | Any | Maria's room
+
+<br>
+
+### * NEW! - Level 24
+Day | Time | Location
+:---: | :---: | :---:
+58+ | Any | Lin's room
 
 <br>
 <br>
@@ -1482,10 +1495,25 @@ Day | Time | Location
 
 <br>
 
-### * NEW! - Level 23
+### Level 23
 Day | Time | Location
 :---: | :---: | :---:
 55+ | Morning/Evening | Android's room
+
+<br>
+
+### * NEW! - Level 24
+Day | Time | Location
+:---: | :---: | :---:
+57+ | Morning/Evening | Android's room
+
+<br>
+
+### * NEW! - Level 25
+Day | Time | Location
+:---: | :---: | :---:
+57+ | Morning/Evening | Android's room
+- Buy the Human Kit from the online store and give it to her ($200)
 
 <br>
 <br>
